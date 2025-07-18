@@ -33,6 +33,7 @@
 
 ---
 ## 🗂️ モンスター一覧（抜粋）
+
 ### 🔹 精霊獸
 - [アエルリス（リス）](monster/aerlis.md)
 - [フロラテクス（カメレオン）](monster/floratex.md)
@@ -45,8 +46,7 @@
 - [アグレガヌス（犬）](monster/agreganus.md)
 - [メルグリフ（カモノハシ）](monster/melgriff.md)
 
-
-→ **[すべてのモンスターを見る](monsters/)**
+→ 詳しくは：[世界の成り立ちと変生の神秘](world/history.md)
 
 ---
 
