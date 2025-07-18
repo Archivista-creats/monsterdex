@@ -34,17 +34,15 @@
 ---
 ## 🗂️ モンスター一覧（抜粋）
 
-### 🔹 精霊獣  
-- [[monster/aerlis|アエルリス（リス）]]  
-- [[monster/floratex|フロラテクス（カメレオン）]]
-
-### 🔹 禁獣  
-- [[monster/chronomida|クロノミーダ（タコ）]]  
-- [[monster/eclipsion|エクリプシオン（コウモリ）]]
-
-### 🔹 変生獣  
-- [[monster/agreganus|アグレガヌス（犬）]]  
-- [[monster/melgriff|メルグリフ（カモノハシ）]]
+🔹 精霊獸
+[[monster/aerlis|アエルリス（リス）]]
+[[monster/floratex|フロラテクス（カメレオン）]]
+🔹 禁獸
+[[monster/chronomida|クロノミーダ（タコ）]]
+[[monster/eclipsion|エクリプシオン（コウモリ）]]
+🔹 変生獸
+[[monster/agreganus|アグレガヌス（犬）]]
+[[monster/melgriff|メルグリフ（カモノハシ）]]
 
 → **[すべてのモンスターを見る](monsters/)**
 
