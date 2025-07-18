@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b049c198ed09db4b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3903221b9b94399c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "world/黄昏の泉.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "黄昏の泉"
-            }
-          }
-        ]
-      },
-      {
         "id": "3f4de016da14fbe7",
         "type": "tabs",
         "children": [
