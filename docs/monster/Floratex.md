@@ -1,6 +1,8 @@
 ﻿---
-title: フロラテクス
-tags: ["モンスター", "光", "風", "精霊獣", "シルファニル天空庭園"]
+title: "フロラテクス（Floratex）"
+layout: single
+categories: [モンスター]
+tags: [精霊獣, 土, 風, ルマの陽だまり森]
 ---
 
 
