@@ -1,29 +1,41 @@
 ﻿title: モンスタリウム
 description: 属性世界のモンスター記録集
+url: "https://archivista-creats.github.io"
+baseurl: "/monsterdex"
+
 remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
 markdown: kramdown
 highlighter: rouge
 
-# 出力対象のコレクション（任意）
+# プラグイン設定
+plugins:
+  - jekyll-include-cache
+  - jekyll-archives
+
+# コレクション設定
 collections:
   monsters:
     output: true
+    permalink: /monster/:path/
 
-# ナビゲーション設定（任意）
+# デフォルト設定
 defaults:
   - scope:
       path: ""
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: ""
+      type: monsters
+    values:
+      layout: single
+      permalink: /monster/:title/
 
+# ナビゲーション設定（必要なら）
+# nav: ...
 
-# _config.yml
-plugins:
-  - jekyll‑archives
-
+# jekyll-archives の設定（タグページを有効化）
 jekyll-archives:
   enabled:
     - tags
@@ -31,3 +43,6 @@ jekyll-archives:
     tag: archive-taxonomy
   permalinks:
     tag: /tags/:name/
+
+# ソーシャルなど必要に応じて
+# social: ...
