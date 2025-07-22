@@ -1,0 +1,20 @@
+﻿title: モンスタリウム
+description: 属性世界のモンスター記録集
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+markdown: kramdown
+highlighter: rouge
+
+# 出力対象のコレクション（任意）
+collections:
+  monsters:
+    output: true
+
+# ナビゲーション設定（任意）
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
