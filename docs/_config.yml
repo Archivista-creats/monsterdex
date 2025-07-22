@@ -18,3 +18,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+
+# _config.yml
+plugins:
+  - jekyll‑archives
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: archive-taxonomy
+  permalinks:
+    tag: /tags/:name/
