@@ -14,6 +14,6 @@ tags: [テスト, 土, 風]
 **📌 タグ一覧：**
 
 {% for tag in page.tags %}
-- [{{ tag }}](/monsterdex/tags/{{ tag | slugify }}/)
+- [{{ tag }}]({{ '/tags/' | append: tag | slugify | append: '/' }})
 {% endfor %}
 {% endif %}
