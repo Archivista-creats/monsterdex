@@ -1,8 +1,8 @@
 ﻿---
-title: "フロラテクス（Floratex）"
+title: フロラテクス（Floratex）
 layout: single
 categories: [モンスター]
-tags: [精霊獣, 土, 風, ルマの陽だまり森]
+tags: [モンスター, 土, 風, 精霊獣, ルマの陽だまり森]
 ---
 
 
