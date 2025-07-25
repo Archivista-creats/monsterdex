@@ -2,18 +2,17 @@
 layout: default
 ---
 
-{% assign taxonomy = page.tag | default: page.category %}
+<h1>{{ page.title }}</h1>
 
-<div class="page__content">
-  <h1>{{ page.title }}</h1>
-  {% assign posts = site.collections['monsters'].docs | where_exp:"doc", "doc.tags contains taxonomy" %}
-  {% if posts.size > 0 %}
-    <ul>
-      {% for post in posts %}
-        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p>該当するモンスターが見つかりませんでした。</p>
-  {% endif %}
-</div>
+{% assign taxonomy = page.tag | default: page.category %}
+{% assign monsters = site.monsters | where_exp: "item", "item.tags contains taxonomy" %}
+
+{% if monsters.size > 0 %}
+<ul>
+  {% for monster in monsters %}
+    <li><a href="{{ monster.url | relative_url }}">{{ monster.title }}</a></li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>該当するモンスターが見つかりませんでした。</p>
+{% endif %}
