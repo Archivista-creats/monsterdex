@@ -6,10 +6,10 @@ permalink: /monster/
 
 # 🐾 モンスター一覧
 
-- [Aerlis](/monster/Aerlis/)
-- [Aggreganus](/monster/Aggreganus/)
-- [Chronomida](/monster/Chronomida/)
-- [Eclipsion](/monster/Eclipsion/)
-- [Floratex](/monster/Floratex/)
-- [Melgriff](/monster/Melgriff/)
-- [Silvanella](/monster/Silvanella/)
+- [Aerlis](/monsterdex/monster/Aerlis.html)
+- [Aggreganus](/monsterdex/monster/Aggreganus.html)
+- [Chronomida](/monsterdex/monster/Chronomida.html)
+- [Eclipsion](/monsterdex/monster/Eclipsion.html)
+- [Floratex](/monsterdex/monster/Floratex.html)
+- [Melgriff](/monsterdex/monster/Melgriff.html)
+- [Silvanella](/monsterdex/monster/Silvanella.html)

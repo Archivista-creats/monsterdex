@@ -12,7 +12,8 @@ for filename in sorted(os.listdir(MONSTER_DIR)):
         post = frontmatter.load(path)
         title = post.get("title", filename.replace(".md", ""))
         slug = filename.replace(".md", "")
-        entries.append(f"- [{title}](/monster/{slug}/)")
+        # 👉 リンクを /monsterdex/monster/〇〇.html に変更
+        entries.append(f"- [{title}](/monsterdex/monster/{slug}.html)")
 
 index_content = """---
 title: モンスター一覧
