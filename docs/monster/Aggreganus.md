@@ -12,10 +12,10 @@ tags:
 - 水
 - 変生獣
 - セリカ湖岸林帯
-title: アグレガヌス（Aggreganus）
+title: アグレガヌス / Aggreganus
 ---
 
-# アグレガヌス（Aggreganus）
+# アグレガヌス / Aggreganus
 
 ## 分類・属性・レアリティ
 * **分類**：[[変生獣]]

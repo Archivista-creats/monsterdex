@@ -5,4 +5,5 @@ permalink: /tags/tsuchi/
 ---
 # 🏷️ タグ「土」に関連するモンスター
 
-- [フロラテクス（Floratex）](/monsterdex/monster/Floratex.html)
+- [ダストロノ / Dustrhino](/monsterdex/monster/Dustrhino.html)
+- [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)

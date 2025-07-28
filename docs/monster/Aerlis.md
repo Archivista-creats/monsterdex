@@ -12,10 +12,10 @@ tags:
 - 風
 - 精霊獣
 - シルファニル天空庭園
-title: アエルリス(Aerlis)
+title: アエルリス / Aerlis
 ---
 
-## アエルリス（Aerlis）
+## アエルリス / Aerlis
 
 
 # アエルリス（Aerlis）

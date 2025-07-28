@@ -1,9 +1,15 @@
+\[土 -> tu
+\[水 -> shui
 アルディーン静時界 -> ardeen-temporal
 アルヴェン海岸 -> arven-cove
+カディレア歪界 -> kateireawai-jie
+ギンデル水澱] -> kinterushui-dian
 シルファニル天空庭園 -> sylphanil-sky
 セリカ湖岸林帯 -> serikahu-an-lin-dai
+ゼーン丘陵地 -> senqiu-ling-di
 ネレイア海域 -> nereiahai-yu
 ミルザル断罪域 -> mirzar-dark
+ムルネの湿地帯] -> murunenoshi-di-dai
 ルマの陽だまり森 -> luma-glade
 光 -> hikari
 土 -> tsuchi

@@ -12,10 +12,10 @@ tags:
 - 光
 - 変生獣
 - アルヴェン海岸
-title: シルバネラ（Silvanella）
+title: シルバネラ / Silvanella
 ---
 
-# シルバネラ（Silvanella）
+# シルバネラ / Silvanella
 
 ## 分類・属性・レアリティ
 * **分類**：[[変生獣]]

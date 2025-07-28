@@ -12,10 +12,10 @@ tags:
 - 風
 - 精霊獣
 - ルマの陽だまり森
-title: フロラテクス（Floratex）
+title: フロラテクス / Floratex
 ---
 
-# フロラテクス（Floratex）
+# フロラテクス / Floratex
 
 ## 分類・属性・レアリティ
 * **分類**：[[精霊獣]]

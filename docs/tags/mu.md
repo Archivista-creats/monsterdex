@@ -5,4 +5,4 @@ permalink: /tags/mu/
 ---
 # 🏷️ タグ「無」に関連するモンスター
 
-- [クロノミーダ（Chronomida）](/monsterdex/monster/Chronomida.html)
+- [クロノミーダ / Chronomida](/monsterdex/monster/Chronomida.html)

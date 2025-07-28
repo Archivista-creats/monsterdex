@@ -5,4 +5,4 @@ permalink: /tags/arven-cove/
 ---
 # 🏷️ タグ「アルヴェン海岸」に関連するモンスター
 
-- [シルバネラ（Silvanella）](/monsterdex/monster/Silvanella.html)
+- [シルバネラ / Silvanella](/monsterdex/monster/Silvanella.html)

@@ -12,10 +12,10 @@ tags:
 - 水
 - 変生獣
 - ネレイア海域
-title: メルグリフ（Melgriff）
+title: メルグリフ / Melgriff
 ---
 
-# メルグリフ（Melgriff）
+# メルグリフ / Melgriff
 
 ## 分類・属性・レアリティ
 * **分類**：[[変生獣]]

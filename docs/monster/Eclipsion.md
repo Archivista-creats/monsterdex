@@ -10,10 +10,10 @@ tags:
 - 闇
 - 禁獣
 - ミルザル断罪域
-title: エクリプシオン（Eclipsion）
+title: エクリプシオン / Eclipsion
 ---
 
-# エクリプシオン（Eclipsion）
+# エクリプシオン / Eclipsion
 
 ## 分類・属性・レアリティ
 * **分類**：[[禁獣]]

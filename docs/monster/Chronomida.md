@@ -12,10 +12,10 @@ tags:
 - 無
 - 禁獣
 - アルディーン静時界
-title: クロノミーダ（Chronomida）
+title: クロノミーダ / Chronomida
 ---
 
-# クロノミーダ（Chronomida）
+# クロノミーダ / Chronomida
 
 ## 分類・属性・レアリティ
 * **分類**：[[禁獣]]
