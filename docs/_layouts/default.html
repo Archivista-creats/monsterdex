@@ -8,8 +8,6 @@
     body { font-family: sans-serif; line-height: 1.6; margin: 2rem; }
     nav a { margin-right: 1rem; }
     a:focus { outline: 2px dashed #555; }
-    footer nav { margin-top: 1rem; }
-    footer nav a { margin-right: 1rem; }
   </style>
 </head>
 <body>
@@ -19,6 +17,8 @@
     <nav>
       <a href="{{ '/' | relative_url }}">ホーム</a>
       <a href="{{ '/tags/' | relative_url }}">タグ</a>
+      <a href="{{ '/place/' | relative_url }}">フィールド一覧</a>
+      <a href="{{ '/monster/' | relative_url }}">モンスター一覧</a>
     </nav>
   </header>
 
@@ -27,11 +27,6 @@
   </main>
 
   <footer>
-    <nav>
-      <strong>📚 一覧:</strong>
-      <a href="{{ '/place/' | relative_url }}">場所一覧</a>
-      <a href="{{ '/monster/' | relative_url }}">モンスター一覧</a>
-    </nav>
     <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
   </footer>
 </body>
