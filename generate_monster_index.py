@@ -1,0 +1,30 @@
+import os
+import frontmatter
+
+MONSTER_DIR = "docs/monster"
+INDEX_PATH = os.path.join(MONSTER_DIR, "index.md")
+
+entries = []
+
+for filename in sorted(os.listdir(MONSTER_DIR)):
+    if filename.endswith(".md") and filename != "index.md":
+        path = os.path.join(MONSTER_DIR, filename)
+        post = frontmatter.load(path)
+        title = post.get("title", filename.replace(".md", ""))
+        slug = filename.replace(".md", "")
+        entries.append(f"- [{title}](/monster/{slug}/)")
+
+index_content = """---
+title: モンスター一覧
+layout: default
+permalink: /monster/
+---
+
+# 🐾 モンスター一覧
+
+""" + "\n".join(entries)
+
+with open(INDEX_PATH, "w", encoding="utf-8") as f:
+    f.write(index_content)
+
+print("✅ monster/index.md を更新しました。")
