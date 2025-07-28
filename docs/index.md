@@ -1,6 +1,2 @@
----
-layout: single
-title: モンスタリウムへようこそ
----
-
-ようこそ。ここでは属性世界に生きるモンスターたちを紹介しています。
+# monsterdex
+Obsidian-based monster archive
