@@ -1,10 +1,19 @@
 ---
-title: クロノミーダ（Chronomida）
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [時,無,禁獣,アルディーン静時界]
+tag_slugs:
+- toki
+- mu
+- kinju
+- ardeen-temporal
+tags:
+- 時
+- 無
+- 禁獣
+- アルディーン静時界
+title: クロノミーダ（Chronomida）
 ---
-
 
 # クロノミーダ（Chronomida）
 
@@ -65,4 +74,3 @@ tags: [時,無,禁獣,アルディーン静時界]
 > 視認後、我々の行動ログに多数の重複記録が残された。  
 > 私は今、何度目の記録を残しているのだろうか……？  
 > 彼が望むのは存在の否定か、それとも時の支配なのか……」
-

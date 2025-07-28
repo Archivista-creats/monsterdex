@@ -2,24 +2,26 @@
 layout: default
 ---
 
-<article aria-labelledby="monster-title">
-  <header>
-    <h1 id="monster-title">{{ page.title }}</h1>
+<article class="monster-entry prose lg:prose-xl mx-auto my-10" aria-labelledby="monster-title">
+  <header class="mb-6">
+    <h1 id="monster-title" class="text-3xl font-bold">{{ page.title }}</h1>
 
-    {% if page.tags %}
-    <p><strong>📌 タグ:</strong>
+    {% if page.tags and page.tag_slugs and page.tags.size == page.tag_slugs.size %}
+    <p class="text-sm text-gray-600 mt-2" aria-label="タグ一覧">
+      <strong>📌 タグ:</strong>
       {% for tag in page.tags %}
-        <a href="{{ '/tags/' | append: tag | append: '.html' | relative_url }}">{{ tag }}</a>{% unless forloop.last %} ｜ {% endunless %}
+        {% assign slug = page.tag_slugs[forloop.index0] %}
+        <a href="{{ '/tags/' | append: slug | append: '/' | relative_url }}" class="inline-block bg-gray-100 hover:bg-gray-200 rounded px-2 py-1 text-sm font-medium text-blue-700">{{ tag }}</a>{% unless forloop.last %} ｜ {% endunless %}
       {% endfor %}
     </p>
     {% endif %}
   </header>
 
-  <section>
+  <section class="content">
     {{ content }}
   </section>
 
-  <footer>
-    <p><a href="javascript:history.back()">← 戻る</a></p>
+  <footer class="mt-8 text-sm">
+    <p><a href="javascript:history.back()" class="text-blue-600 hover:underline">← 戻る</a></p>
   </footer>
 </article>

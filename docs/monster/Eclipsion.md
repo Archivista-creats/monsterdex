@@ -1,10 +1,17 @@
 ---
-title: エクリプシオン（Eclipsion）
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [闇,禁獣,ミルザル断罪域]
+tag_slugs:
+- yami
+- kinju
+- mirzar-dark
+tags:
+- 闇
+- 禁獣
+- ミルザル断罪域
+title: エクリプシオン（Eclipsion）
 ---
-
 
 # エクリプシオン（Eclipsion）
 
@@ -63,4 +70,3 @@ tags: [闇,禁獣,ミルザル断罪域]
 > 魔法灯がすべて消失し、仲間の言葉が聞こえなくなった時、彼の影が月を覆っていた。  
 > あれは“夜”ではない。“夜そのものの意思”だ。  
 > 私はただ、封印の再調整が間に合うことを祈るしかなかった──」
-

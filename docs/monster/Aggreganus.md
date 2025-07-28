@@ -1,8 +1,18 @@
 ---
-title: アグレガヌス（Aggreganus）
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [風,水,変生獣,セリカ湖岸林帯]
+tag_slugs:
+- kaze
+- mizu
+- henseiju
+- serikahu-an-lin-dai
+tags:
+- 風
+- 水
+- 変生獣
+- セリカ湖岸林帯
+title: アグレガヌス（Aggreganus）
 ---
 
 # アグレガヌス（Aggreganus）
@@ -61,4 +71,3 @@ tags: [風,水,変生獣,セリカ湖岸林帯]
 > 私の足音に一瞬だけ振り返ったが、すぐに湖へ向かって歩いていく。  
 > 呼び止めようとしたが、なぜか声が風に溶けて出なかった。  
 > 彼の背は、風の中に消えながら──私の心に何かを残した。」
-

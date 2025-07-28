@@ -1,10 +1,19 @@
 ---
-title: アエルリス(Aerlis)
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [光,風,精霊獣,シルファニル天空庭園]
+tag_slugs:
+- hikari
+- kaze
+- seireiju
+- sylphanil-sky
+tags:
+- 光
+- 風
+- 精霊獣
+- シルファニル天空庭園
+title: アエルリス(Aerlis)
 ---
-
 
 ## アエルリス（Aerlis）
 

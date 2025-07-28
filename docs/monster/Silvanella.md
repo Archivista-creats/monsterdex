@@ -1,10 +1,19 @@
 ---
-title: シルバネラ（Silvanella）
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [水,光,変生獣,アルヴェン海岸]
+tag_slugs:
+- mizu
+- hikari
+- henseiju
+- arven-cove
+tags:
+- 水
+- 光
+- 変生獣
+- アルヴェン海岸
+title: シルバネラ（Silvanella）
 ---
-
 
 # シルバネラ（Silvanella）
 
@@ -65,4 +74,3 @@ tags: [水,光,変生獣,アルヴェン海岸]
 > 最初はただの魚群かと思ったが、光の揺らぎが異常に規則的で美しかった。  
 > 群れの中心から発せられる薄い旋律に気づいた時、私の記憶の中に昔の夢が甦った。  
 > …まるで“光の記憶”が波に乗ってやってきたようだった。」
-

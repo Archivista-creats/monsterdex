@@ -1,10 +1,19 @@
 ---
-title: メルグリフ（Melgriff）
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [空間,水,変生獣,ネレイア海域]
+tag_slugs:
+- kuukan
+- mizu
+- henseiju
+- nereiahai-yu
+tags:
+- 空間
+- 水
+- 変生獣
+- ネレイア海域
+title: メルグリフ（Melgriff）
 ---
-
 
 # メルグリフ（Melgriff）
 
@@ -60,4 +69,3 @@ tags: [空間,水,変生獣,ネレイア海域]
 > 「7月14日、[ネレイア海域](../place/nereia_ocean.md)の浅瀬にて観測。  
 > 現地の漁師が“今日の潮は時間がゆがんでいる”と言っていたのが印象的だった。  
 > 見るたびに形が変わる尾と、泡に浮かぶ幻影──彼は水の姿を借りた“記憶の旅人”かもしれない。」
-

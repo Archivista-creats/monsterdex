@@ -1,10 +1,19 @@
 ---
-title: フロラテクス（Floratex）
+categories:
+- モンスター
 layout: monster
-categories: [モンスター]
-tags: [土,風,精霊獣,ルマの陽だまり森]
+tag_slugs:
+- tsuchi
+- kaze
+- seireiju
+- luma-glade
+tags:
+- 土
+- 風
+- 精霊獣
+- ルマの陽だまり森
+title: フロラテクス（Floratex）
 ---
-
 
 # フロラテクス（Floratex）
 
