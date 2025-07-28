@@ -2,7 +2,7 @@
 title: フロラテクス（Floratex）
 layout: single
 categories: [モンスター]
-tags: [モンスター,土,風,精霊獣,ルマの陽だまり森]
+tags: [土,風,精霊獣,ルマの陽だまり森]
 ---
 
 

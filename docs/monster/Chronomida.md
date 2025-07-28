@@ -2,7 +2,7 @@
 title: クロノミーダ（Chronomida）
 layout: single
 categories: [モンスター]
-tags: [モンスター,時,無,禁獣,アルディーン静時界]
+tags: [時,無,禁獣,アルディーン静時界]
 ---
 
 

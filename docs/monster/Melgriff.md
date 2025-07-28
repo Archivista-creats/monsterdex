@@ -2,7 +2,7 @@
 title: メルグリフ（Melgriff）
 layout: single
 categories: [モンスター]
-tags: [モンスター,空間,水,変生獣,ネレイア海域]
+tags: [空間,水,変生獣,ネレイア海域]
 ---
 
 

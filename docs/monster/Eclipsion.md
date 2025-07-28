@@ -2,7 +2,7 @@
 title: エクリプシオン（Eclipsion）
 layout: single
 categories: [モンスター]
-tags: [モンスター,闇,禁獣,ミルザル断罪域]
+tags: [闇,禁獣,ミルザル断罪域]
 ---
 
 

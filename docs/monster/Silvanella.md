@@ -2,7 +2,7 @@
 title: シルバネラ（Silvanella）
 layout: single
 categories: [モンスター]
-tags: [モンスター,水,光,変生獣,アルヴェン海岸]
+tags: [水,光,変生獣,アルヴェン海岸]
 ---
 
 

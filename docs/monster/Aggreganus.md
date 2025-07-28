@@ -2,7 +2,7 @@
 title: アグレガヌス（Aggreganus）
 layout: single
 categories: [モンスター]
-tags: [モンスター,風,水,変生獣,セリカ湖岸林帯]
+tags: [風,水,変生獣,セリカ湖岸林帯]
 ---
 
 

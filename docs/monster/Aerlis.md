@@ -2,7 +2,7 @@
 title: アエルリス(Aerlis)
 layout: monster
 categories: [モンスター]
-tags: [モンスター,光,風,精霊獣,シルファニル天空庭園]
+tags: [光,風,精霊獣,シルファニル天空庭園]
 ---
 
 
