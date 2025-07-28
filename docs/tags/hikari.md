@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 光
-permalink: /tags/hikari/
+permalink: /monsterdex/tags/hikari.html
 ---
 # 🏷️ タグ「光」に関連するモンスター
 

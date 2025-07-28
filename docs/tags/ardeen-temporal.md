@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: アルディーン静時界
-permalink: /tags/ardeen-temporal/
+permalink: /monsterdex/tags/ardeen-temporal.html
 ---
 # 🏷️ タグ「アルディーン静時界」に関連するモンスター
 

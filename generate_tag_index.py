@@ -53,7 +53,7 @@ for tag, monsters in tag_map.items():
         "---",
         "layout: default",
         f"title: タグ: {tag}",
-        f"permalink: /tags/{slug}/",
+        f"permalink: /monsterdex/tags/{slug}.html",
         "---",
         f"# 🏷️ タグ「{tag}」に関連するモンスター\n"
     ]

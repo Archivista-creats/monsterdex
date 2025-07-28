@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: アルヴェン海岸
-permalink: /tags/arven-cove/
+permalink: /monsterdex/tags/arven-cove.html
 ---
 # 🏷️ タグ「アルヴェン海岸」に関連するモンスター
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: セリカ湖岸林帯
-permalink: /tags/serikahu-an-lin-dai/
+permalink: /monsterdex/tags/serikahu-an-lin-dai.html
 ---
 # 🏷️ タグ「セリカ湖岸林帯」に関連するモンスター
 

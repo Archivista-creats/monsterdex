@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 時
-permalink: /tags/toki/
+permalink: /monsterdex/tags/toki.html
 ---
 # 🏷️ タグ「時」に関連するモンスター
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 無
-permalink: /tags/mu/
+permalink: /monsterdex/tags/mu.html
 ---
 # 🏷️ タグ「無」に関連するモンスター
 
