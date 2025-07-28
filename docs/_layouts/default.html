@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; margin: 2rem; }
+    nav a { margin-right: 1rem; }
+    a:focus { outline: 2px dashed #555; }
+  </style>
+</head>
+<body>
+  <a href="#main" class="skip-link">本文へスキップ</a>
+  <header>
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <nav>
+      <a href="{{ '/' | relative_url }}">ホーム</a>
+      <a href="{{ '/tags/' | relative_url }}">タグ</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    {{ content }}
+  </main>
+
+  <footer>
+    <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
+  </footer>
+</body>
+</html>
