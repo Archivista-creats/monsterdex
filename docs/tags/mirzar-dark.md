@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: ミルザル断罪域
-permalink: /monsterdex/tags/mirzar-dark.html
+permalink: /tags/mirzar-dark/
 ---
 # 🏷️ タグ「ミルザル断罪域」に関連するモンスター
 

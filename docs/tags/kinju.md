@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 禁獣
-permalink: /monsterdex/tags/kinju.html
+permalink: /tags/kinju/
 ---
 # 🏷️ タグ「禁獣」に関連するモンスター
 

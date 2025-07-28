@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 水
-permalink: /monsterdex/tags/mizu.html
+permalink: /tags/mizu/
 ---
 # 🏷️ タグ「水」に関連するモンスター
 

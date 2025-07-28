@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 精霊獣
-permalink: /monsterdex/tags/seireiju.html
+permalink: /tags/seireiju/
 ---
 # 🏷️ タグ「精霊獣」に関連するモンスター
 

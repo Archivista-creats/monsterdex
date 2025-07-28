@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: ルマの陽だまり森
-permalink: /monsterdex/tags/luma-glade.html
+permalink: /tags/luma-glade/
 ---
 # 🏷️ タグ「ルマの陽だまり森」に関連するモンスター
 

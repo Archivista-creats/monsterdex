@@ -53,7 +53,7 @@ for tag, monsters in tag_map.items():
         "---",
         "layout: default",
         f"title: タグ: {tag}",
-        f"permalink: /monsterdex/tags/{slug}.html",
+        f"permalink: /tags/{slug}/",
         "---",
         f"# 🏷️ タグ「{tag}」に関連するモンスター\n"
     ]
@@ -73,7 +73,7 @@ index_lines = [
 ]
 for tag in sorted(tag_map.keys()):
     slug = get_slug(tag)
-    index_lines.append(f"- [{tag}](/tags/{slug}/)")
+    index_lines.append(f"- [{tag}](/monsterdex/tags/{slug}.html)")
 with open(INDEX_PATH, "w", encoding="utf-8") as f:
     f.write("\n".join(index_lines))
 

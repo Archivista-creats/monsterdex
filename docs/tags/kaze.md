@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 風
-permalink: /monsterdex/tags/kaze.html
+permalink: /tags/kaze/
 ---
 # 🏷️ タグ「風」に関連するモンスター
 

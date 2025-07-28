@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 変生獣
-permalink: /monsterdex/tags/henseiju.html
+permalink: /tags/henseiju/
 ---
 # 🏷️ タグ「変生獣」に関連するモンスター
 

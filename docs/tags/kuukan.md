@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 空間
-permalink: /monsterdex/tags/kuukan.html
+permalink: /tags/kuukan/
 ---
 # 🏷️ タグ「空間」に関連するモンスター
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 土
-permalink: /monsterdex/tags/tsuchi.html
+permalink: /tags/tsuchi/
 ---
 # 🏷️ タグ「土」に関連するモンスター
 
