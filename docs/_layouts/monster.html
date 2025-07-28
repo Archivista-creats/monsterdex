@@ -11,7 +11,7 @@ layout: default
       <strong>📌 タグ:</strong>
       {% for tag in page.tags %}
         {% assign slug = page.tag_slugs[forloop.index0] %}
-        <a href="{{ '/tags/' | append: slug | append: '/' | relative_url }}" class="inline-block bg-gray-100 hover:bg-gray-200 rounded px-2 py-1 text-sm font-medium text-blue-700">{{ tag }}</a>{% unless forloop.last %} ｜ {% endunless %}
+        <a href="{{ '/tags/' | append: slug | append: '.html' | relative_url }}" class="inline-block bg-gray-100 hover:bg-gray-200 rounded px-2 py-1 text-sm font-medium text-blue-700">{{ tag }}</a>{% unless forloop.last %} ｜ {% endunless %}
       {% endfor %}
     </p>
     {% endif %}
