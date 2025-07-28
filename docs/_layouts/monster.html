@@ -1,0 +1,25 @@
+﻿---
+layout: default
+---
+
+<article aria-labelledby="monster-title">
+  <header>
+    <h1 id="monster-title">{{ page.title }}</h1>
+
+    {% if page.tags %}
+    <p><strong>📌 タグ:</strong>
+      {% for tag in page.tags %}
+        <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %} ｜ {% endunless %}
+      {% endfor %}
+    </p>
+    {% endif %}
+  </header>
+
+  <section>
+    {{ content }}
+  </section>
+
+  <footer>
+    <p><a href="javascript:history.back()">← 戻る</a></p>
+  </footer>
+</article>
