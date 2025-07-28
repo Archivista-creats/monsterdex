@@ -1,4 +1,4 @@
-﻿---
+---
 title: アグレガヌス（Aggreganus）
 layout: monster
 categories: [モンスター]
