@@ -1,6 +1,6 @@
 ﻿---
 title: クロノミーダ（Chronomida）
-layout: single
+layout: monster
 categories: [モンスター]
 tags: [時,無,禁獣,アルディーン静時界]
 ---

@@ -1,3 +1,9 @@
+---
+title: グリザリカ虚空域（grizarica void）
+layout: place
+---
+
+
 # グリザリカ虚空域 ⚫
 
 ## 概要

@@ -1,6 +1,6 @@
 ﻿---
 title: フロラテクス（Floratex）
-layout: single
+layout: monster
 categories: [モンスター]
 tags: [土,風,精霊獣,ルマの陽だまり森]
 ---

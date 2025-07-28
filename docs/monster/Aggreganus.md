@@ -1,6 +1,6 @@
 ﻿---
 title: アグレガヌス（Aggreganus）
-layout: single
+layout: monster
 categories: [モンスター]
 tags: [風,水,変生獣,セリカ湖岸林帯]
 ---

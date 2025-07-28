@@ -1,6 +1,6 @@
 ﻿---
 title: エクリプシオン（Eclipsion）
-layout: single
+layout: monster
 categories: [モンスター]
 tags: [闇,禁獣,ミルザル断罪域]
 ---

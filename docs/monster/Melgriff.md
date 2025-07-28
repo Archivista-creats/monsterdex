@@ -1,6 +1,6 @@
 ﻿---
 title: メルグリフ（Melgriff）
-layout: single
+layout: monster
 categories: [モンスター]
 tags: [空間,水,変生獣,ネレイア海域]
 ---

@@ -1,3 +1,9 @@
+---
+title: シルファニル天空庭園（sylphanil sky）
+layout: place
+---
+
+
 # シルファニル天空庭園 🌪️
 
 ## 概要

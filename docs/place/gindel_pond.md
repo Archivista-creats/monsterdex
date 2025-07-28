@@ -1,3 +1,9 @@
+---
+title: ギンデルの水たまり（gindel pond）
+layout: place
+---
+
+
 # ギンデルの水たまり 🪷
 
 ## 概要

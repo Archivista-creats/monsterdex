@@ -1,3 +1,9 @@
+---
+title: インシル火山圏（insil volcano）
+layout: place
+---
+
+
 # インシル火山圏 🔥
 
 ## 概要

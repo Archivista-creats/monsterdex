@@ -1,6 +1,6 @@
 ﻿---
 title: シルバネラ（Silvanella）
-layout: single
+layout: monster
 categories: [モンスター]
 tags: [水,光,変生獣,アルヴェン海岸]
 ---

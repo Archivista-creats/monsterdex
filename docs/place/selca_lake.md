@@ -1,3 +1,9 @@
+---
+title: セルカの湖畔（selca lake）
+layout: place
+---
+
+
 # セルカの湖畔 💧
 
 ## 概要

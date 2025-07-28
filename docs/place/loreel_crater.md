@@ -1,3 +1,9 @@
+---
+title: ロリールの浅い火口（loreel crater）
+layout: place
+---
+
+
 # ロリールの浅い火口 🌋
 
 ## 概要

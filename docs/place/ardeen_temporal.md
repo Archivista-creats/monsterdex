@@ -1,3 +1,9 @@
+---
+title: アルディーン静時界（Ardeen Temporal）
+layout: place
+---
+
+
 # アルディーン静時界 ⏳
 
 ## 概要

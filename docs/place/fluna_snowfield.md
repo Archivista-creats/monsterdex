@@ -1,3 +1,9 @@
+---
+title: フルナ雪原（fluna snowfield）
+layout: place
+---
+
+
 # フルナ雪原 ❄️
 
 ## 概要

@@ -1,3 +1,9 @@
+---
+title: イストリア星晶殿（istoria light）
+layout: place
+---
+
+
 # イストリア星晶殿 ✨
 
 ## 概要
