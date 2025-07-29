@@ -7,3 +7,4 @@ permalink: /tags/mirzar-dark/
 
 - [グリムベロウ / Grimbellow](/monsterdex/monster/Grimbellow.html)
 - [黒日を戴くもの ソル＝ノクティリカ / Sol=Noctilica the Eclipse Sovereign](/monsterdex/monster/Sol=Noctilica.html)
+- [静影を歩む祈獣 ユグリ＝ノクティエル / Yugri=Noctiel the Veil Sojourner](/monsterdex/monster/Yugri=Noctiel.html)

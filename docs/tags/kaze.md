@@ -11,3 +11,4 @@ permalink: /tags/kaze/
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)
 - [フワネスト / Fuwanest](/monsterdex/monster/Fuwanest.html)
 - [モモルン / momorun](/monsterdex/monster/momorun.html)
+- [巡風を渡す白翼鳥 フィール＝アルナリア / Phiel=Arnaria the Pilgrim Gale](/monsterdex/monster/Phiel=Arnaria.html)
