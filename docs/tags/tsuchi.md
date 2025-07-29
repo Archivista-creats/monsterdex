@@ -7,3 +7,5 @@ permalink: /tags/tsuchi/
 
 - [ダストロノ / Dustrhino](/monsterdex/monster/Dustrhino.html)
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)
+- [地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the Stratolord](/monsterdex/monster/Garea=Zonarius.html)
+- [グラヴィトール / Gravitore](/monsterdex/monster/Gravitore.html)

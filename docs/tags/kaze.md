@@ -7,4 +7,7 @@ permalink: /tags/kaze/
 
 - [アエルリス / Aerlis](/monsterdex/monster/Aerlis.html)
 - [アグレガヌス / Aggreganus](/monsterdex/monster/Aggreganus.html)
+- [空海を繋ぐもの クラディウス＝ペルマレ / Cladius=Permare the Storm Abyss](/monsterdex/monster/Cladius=Permare.html)
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)
+- [フワネスト / Fuwanest](/monsterdex/monster/Fuwanest.html)
+- [モモルン / momorun](/monsterdex/monster/momorun.html)

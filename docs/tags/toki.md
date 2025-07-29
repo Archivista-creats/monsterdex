@@ -5,4 +5,4 @@ permalink: /tags/toki/
 ---
 # 🏷️ タグ「時」に関連するモンスター
 
-- [クロノミーダ / Chronomida](/monsterdex/monster/Chronomida.html)
+- [時無を喰らうもの クロノ＝ミーダ / Chrono=Mida the Void Spiral](/monsterdex/monster/Chrono=Mida.html)

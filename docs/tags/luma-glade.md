@@ -6,3 +6,4 @@ permalink: /tags/luma-glade/
 # 🏷️ タグ「ルマの陽だまり森」に関連するモンスター
 
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)
+- [モモルン / momorun](/monsterdex/monster/momorun.html)
