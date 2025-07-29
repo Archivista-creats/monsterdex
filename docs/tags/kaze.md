@@ -10,5 +10,6 @@ permalink: /tags/kaze/
 - [空海を繋ぐもの クラディウス＝ペルマレ / Cladius=Permare the Storm Abyss](/monsterdex/monster/Cladius=Permare.html)
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)
 - [フワネスト / Fuwanest](/monsterdex/monster/Fuwanest.html)
+- [ミスティルクワー / MistilQuar](/monsterdex/monster/MistilQuar.html)
 - [モモルン / momorun](/monsterdex/monster/momorun.html)
 - [巡風を渡す白翼鳥 フィール＝アルナリア / Phiel=Arnaria the Pilgrim Gale](/monsterdex/monster/Phiel=Arnaria.html)

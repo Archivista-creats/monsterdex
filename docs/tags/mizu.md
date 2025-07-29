@@ -7,7 +7,9 @@ permalink: /tags/mizu/
 
 - [アグレガヌス / Aggreganus](/monsterdex/monster/Aggreganus.html)
 - [空海を繋ぐもの クラディウス＝ペルマレ / Cladius=Permare the Storm Abyss](/monsterdex/monster/Cladius=Permare.html)
+- [コウリン / Kourin](/monsterdex/monster/Kourin.html)
 - [命潮を謳う聖鯨 ルミナ＝ヴェルディア / Lumina=Verdia the Aqueous Psalm](/monsterdex/monster/Lumina=Verdia.html)
 - [メルグリフ / Melgriff](/monsterdex/monster/Melgriff.html)
 - [灼凍の角帝ネヴァ＝カリュオス / Neva=Caryuos the Bifrost Emperor](/monsterdex/monster/Neva=Caryuos.html)
+- [クイルシェイド / Quillshade](/monsterdex/monster/Quillshade.html)
 - [シルバネラ / Silvanella](/monsterdex/monster/Silvanella.html)

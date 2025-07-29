@@ -1,3 +1,4 @@
+\[光 -> guang
 \[土 -> tu
 \[水 -> shui
 アルディーン静時界 -> ardeen-temporal
@@ -15,11 +16,15 @@
 シルファニル浮空帯 -> siruhuanirufu-kong-dai
 セリカ湖岸林帯 -> serikahu-an-lin-dai
 ゼーン丘陵地 -> senqiu-ling-di
+ソレイア砂縁地 -> soreiasha-yuan-di
+ソレイア砂縁地] -> soreiasha-yuan-di
 ネレイア大海環 -> nereiada-hai-huan
 ネレイア海原 -> nereiahai-yuan
 ネレイア海域 -> nereiahai-yu
 ミルザル断罪域 -> mirzar-dark
+ムルネの湿地帯 -> murunenoshi-di-dai
 ムルネの湿地帯] -> murunenoshi-di-dai
+ラドゥナの滝 -> ratounanolong
 ルマの陽だまり森 -> luma-glade
 ロリールの浅い火口 -> rorirunoqian-ihuo-kou
 ヴァストル岩隈帯 -> uasutoruyan-wei-dai
