@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: ゼーン丘陵地
-permalink: /tags/senqiu-ling-di/
+permalink: /tags/zeen-ridge/
 ---
 # 🏷️ タグ「ゼーン丘陵地」に関連するモンスター
 

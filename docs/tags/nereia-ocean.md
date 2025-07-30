@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: ネレイア海原
-permalink: /tags/nereiahai-yuan/
+permalink: /tags/nereia-ocean/
 ---
 # 🏷️ タグ「ネレイア海原」に関連するモンスター
 

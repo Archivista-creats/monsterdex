@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: ロリールの浅い火口
-permalink: /tags/rorirunoqian-ihuo-kou/
+permalink: /tags/loreel-crater/
 ---
 # 🏷️ タグ「ロリールの浅い火口」に関連するモンスター
 

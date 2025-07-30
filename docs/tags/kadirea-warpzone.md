@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: カディレア歪界
-permalink: /tags/kateireawai-jie/
+permalink: /tags/kadirea-warpzone/
 ---
 # 🏷️ タグ「カディレア歪界」に関連するモンスター
 

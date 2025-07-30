@@ -1,7 +1,7 @@
 ---
 layout: default
 title: タグ: 火
-permalink: /tags/huo/
+permalink: /tags/hi/
 ---
 # 🏷️ タグ「火」に関連するモンスター
 
