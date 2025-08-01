@@ -3,10 +3,10 @@ categories:
 - モンスター
 layout: monster
 tag_slugs:
-- huo
+- hi
 - mizu
 - kinju
-- nereiahai-yuan
+- nereia-ocean
 tags:
 - 火
 - 水

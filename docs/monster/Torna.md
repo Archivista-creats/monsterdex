@@ -1,12 +1,17 @@
 ---
-categories: \[モンスター]
+categories:
+- モンスター
 layout: monster
 tag_slugs:
-- guang
+- hikari
 - toki
 - seireiju
-- soreiasha-yuan-di
-tags: \[光, 時, 精霊獣, ソレイア砂縁地]
+- soleia-duneline
+tags:
+- 光
+- 時
+- 精霊獣
+- ソレイア砂縁地
 title: トルナ / Torna
 ---
 

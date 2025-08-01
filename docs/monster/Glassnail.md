@@ -4,9 +4,9 @@ categories:
 layout: monster
 tag_slugs:
 - tsuchi
-- huo
+- hi
 - henseiju
-- soreiasha-yuan-di
+- soleia-duneline
 tags:
 - 土
 - 火

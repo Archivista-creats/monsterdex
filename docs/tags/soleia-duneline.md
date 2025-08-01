@@ -9,3 +9,5 @@ permalink: /tags/soleia-duneline/
 - [グラスネイル / Glassnail](/monsterdex/monster/Glassnail.html)
 - [ジリトルメス / JiritLumes](/monsterdex/monster/JiritLumes.html)
 - [ミスティルクワー / MistilQuar](/monsterdex/monster/MistilQuar.html)
+- [ナクティス / Nucthis](/monsterdex/monster/Nucthis.html)
+- [トルナ / Torna](/monsterdex/monster/Torna.html)

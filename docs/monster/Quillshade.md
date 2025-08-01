@@ -6,7 +6,7 @@ tag_slugs:
 - mizu
 - yami
 - henseiju
-- murunenoshi-di-dai
+- murune-bog
 tags:
 - 水
 - 闇

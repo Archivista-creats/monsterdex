@@ -3,9 +3,9 @@ categories:
 - モンスター
 layout: monster
 tag_slugs:
-- huo
+- hi
 - henseiju
-- rorirunoqian-ihuo-kou
+- loreel-crater
 tags:
 - 火
 - 変生獣

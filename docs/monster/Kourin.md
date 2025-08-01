@@ -6,7 +6,7 @@ tag_slugs:
 - mizu
 - hikari
 - seireiju
-- ratounanolong
+- raduna-falls
 tags:
 - 水
 - 光

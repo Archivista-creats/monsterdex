@@ -35,8 +35,8 @@
 カイロス湯溜まり帯 -> kairos-thermal
 ネブラの地底湖窟 -> nebra-underglade
 バレッタの鳴岩谷 -> baretta-echo
-
-# 危険属性領域
+ユーヴァの薄霧林地 -> yuva-mistwood
+# 危険属性領域 -> yuva_mistwood
 インシル火山圏 -> insil-volcano
 ネレイア海原 -> nereia-ocean
 ヴァストル岩窟帯 -> vastl-crags

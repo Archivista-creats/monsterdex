@@ -5,7 +5,7 @@ layout: monster
 tag_slugs:
 - tsuchi
 - henseiju
-- senqiu-ling-di
+- zeen-ridge
 tags:
 - 土
 - 変生獣

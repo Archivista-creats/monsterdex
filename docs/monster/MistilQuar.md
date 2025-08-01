@@ -6,7 +6,7 @@ tag_slugs:
 - kaze
 - kuukan
 - henseiju
-- soreiasha-yuan-di
+- soleia-duneline
 tags:
 - 風
 - 空間

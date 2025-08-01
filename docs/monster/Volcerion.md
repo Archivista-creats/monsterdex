@@ -5,7 +5,7 @@ layout: monster
 tag_slugs:
 - kuukan
 - henseiju
-- kateireawai-jie
+- kadirea-warpzone
 tags:
 - 空間
 - 変生獣

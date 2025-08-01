@@ -3,7 +3,7 @@ categories:
 - モンスター
 layout: monster
 tag_slugs:
-- huo
+- hi
 - seireiju
 - insiruhuo-kou-yu
 tags:

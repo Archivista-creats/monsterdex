@@ -9,7 +9,11 @@ entries = []
 for filename in sorted(os.listdir(MONSTER_DIR)):
     if filename.endswith(".md") and filename != "index.md":
         path = os.path.join(MONSTER_DIR, filename)
-        post = frontmatter.load(path)
+        try:
+            post = frontmatter.load(path)
+        except Exception as e:
+            print(f"❌ エラー: {filename} の読み込みに失敗しました: {e}")
+            continue
         title = post.get("title", filename.replace(".md", ""))
         slug = filename.replace(".md", "")
         # 👉 リンクを /monsterdex/monster/〇〇.html に変更

@@ -3,7 +3,7 @@ categories:
 - モンスター
 layout: monster
 tag_slugs:
-- huo
+- hi
 - kuukan
 - kinju
 - kateireawai-jie-yu

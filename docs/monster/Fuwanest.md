@@ -5,7 +5,7 @@ layout: monster
 tag_slugs:
 - kaze
 - henseiju
-- senqiu-ling-di
+- zeen-ridge
 tags:
 - 風
 - 変生獣

@@ -3,10 +3,10 @@ categories:
 - モンスター
 layout: monster
 tag_slugs:
-- huo
+- hi
 - tsuchi
 - seireiju
-- soreiasha-yuan-di
+- soleia-duneline
 tags:
 - 火
 - 土
