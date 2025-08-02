@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - hi
 - seireiju
-- insiruhuo-kou-yu
+- insil-volcano
 tags:
 - 火
 - 精霊獣
-- インシル火口域
+- インシル火山圏
 title: 焔環を掲げる祈火鷺 フェルザ＝フラウナ / Felza=Flauna the Ember Canticle
 ---
 
@@ -24,7 +24,7 @@ title: 焔環を掲げる祈火鷺 フェルザ＝フラウナ / Felza=Flauna th
 ショウジョウトキ（中南米原産の鮮紅色の鳥）
 
 ## 出現地域
-* **主な生息地**：[インシル火口域](../place/insil_volcano.md)  
+* **主な生息地**：[インシル火山圏](../place/insil_volcano.md)  
 * **環境条件**：噴煙と熱気の舞う火口域に存在する“火の湖”付近。火の精霊が舞う浮島に現れることがある。
 
 ---
@@ -63,7 +63,7 @@ title: 焔環を掲げる祈火鷺 フェルザ＝フラウナ / Felza=Flauna th
 ## 観察記録（記録者：ソーマ・ルクレティ）
 
 > *探索日誌より抜粋：*  
-> 「[インシル火口域](../place/insil_volcano.md)の熔岩湖にて、一輪の火花が舞い上がり、  
+> 「[インシル火山圏](../place/insil_volcano.md)の熔岩湖にて、一輪の火花が舞い上がり、  
 > やがて鳥の姿を取った──赤く、美しい姿だった。  
 > その舞のあと、倒れていた仲間が息を吹き返した。  
 > 祈りとは、この世に炎を残すことかもしれない。」

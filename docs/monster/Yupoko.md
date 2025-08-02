@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - hi
 - henseiju
-- kairosure-quan-yu
+- kairos-thermal
 tags:
 - 火
 - 変生獣
-- カイロス熱泉域
+- カイロス湯溜まり帯
 title: ユポコ / Yupoko
 ---
 

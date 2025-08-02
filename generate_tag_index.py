@@ -9,6 +9,7 @@ TAGS_DIR = "docs/tags"
 PLACE_INDEX_PATH = "docs/place/index.md"
 INDEX_PATH = os.path.join(TAGS_DIR, "index.md")
 SLUG_MAP_FILE = "tag_slug_mapping.txt"
+MISSING_TAGS_FILE = "missing_tags.txt"  # 🔴 追加
 
 # 分類カテゴリ定義
 ATTRIBUTE_TAGS = {"火", "水", "風", "土", "光", "闇", "時", "空間", "無", "雷", "氷", "毒"}
@@ -53,6 +54,7 @@ def get_slug(tag):
 # タグ別のモンスター記録
 tag_map = defaultdict(list)
 unknown_tags = set()
+unknown_tag_files = defaultdict(set)
 
 for filename in os.listdir(MONSTER_DIR):
     if filename.endswith(".md") and filename != "index.md":
@@ -72,13 +74,14 @@ for filename in os.listdir(MONSTER_DIR):
             tag_map[tag].append((title, slug))
             if get_slug(tag) is None:
                 unknown_tags.add(tag)
+                unknown_tag_files[tag].add(filename)
 
 # タグ個別ページの生成
 os.makedirs(TAGS_DIR, exist_ok=True)
 for tag, monsters in tag_map.items():
     slug = get_slug(tag)
     if not slug:
-        continue  # 未定義タグは出力しない
+        continue
     filepath = os.path.join(TAGS_DIR, f"{slug}.md")
     lines = [
         "---",
@@ -113,10 +116,20 @@ for section, header in [("属性", "## 🔥 属性タグ"), ("出現地", "## �
 with open(INDEX_PATH, "w", encoding="utf-8") as f:
     f.write("\n".join(index_lines))
 
-# 未定義スラグの警告出力
+# 未定義スラグの警告出力（ファイル保存も）
 if unknown_tags:
     print("⚠️ 以下のタグにスラグ定義がありません（tag_slug_mapping.txt に追加してください）:")
+    lines = []
     for tag in sorted(unknown_tags):
-        print(f"  - {tag}")
+        files = ", ".join(sorted(unknown_tag_files[tag]))
+        line = f"- {tag}（使用ファイル: {files}）"
+        print(f"  {line}")
+        lines.append(line)
+    # 🔴 保存処理
+    with open(MISSING_TAGS_FILE, "w", encoding="utf-8") as f:
+        f.write("⚠️ スラグ未定義のタグ一覧:\n\n")
+        f.write("\n".join(lines))
 else:
     print("✅ すべてのタグにスラグが定義されています。")
+    if os.path.exists(MISSING_TAGS_FILE):
+        os.remove(MISSING_TAGS_FILE)  # 前回の残骸があれば削除

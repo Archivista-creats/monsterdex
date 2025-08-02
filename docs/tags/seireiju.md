@@ -7,6 +7,7 @@ permalink: /tags/seireiju/
 
 - [アエルリス / Aerlis](/monsterdex/monster/Aerlis.html)
 - [フェノレイド / Blazefennec](/monsterdex/monster/Blazefennec.html)
+- [エルクリン / Elcrin](/monsterdex/monster/Elcrin.html)
 - [光環を掲く聖輝孔雀 エルシオ＝リュミエル / Elshio=Lumière the Radiant Glorion](/monsterdex/monster/Elshio=Lumière.html)
 - [焔環を掲げる祈火鷺 フェルザ＝フラウナ / Felza=Flauna the Ember Canticle](/monsterdex/monster/Felza=Flauna.html)
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)

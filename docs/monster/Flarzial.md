@@ -6,12 +6,12 @@ tag_slugs:
 - hi
 - kuukan
 - henseiju
-- kairosure-quan-yu
+- kairos-thermal
 tags:
 - 火
 - 空間
 - 変生獣
-- カイロス熱泉域
+- カイロス湯溜まり帯
 title: フラジアル / Flarzial
 ---
 

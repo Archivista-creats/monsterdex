@@ -6,6 +6,7 @@ permalink: /tags/yami/
 # 🏷️ タグ「闇」に関連するモンスター
 
 - [呪腐を謡うもの ベルファゴラ＝ロットセイント / Belphagora=Rotsaint the Cursed Choir](/monsterdex/monster/Belphagora=Rotsaint.html)
+- [ドレグワーダ / Dregwarda](/monsterdex/monster/Dregwarda.html)
 - [グリムベロウ / Grimbellow](/monsterdex/monster/Grimbellow.html)
 - [ルクノクト / Lucnoct](/monsterdex/monster/Lucnoct.html)
 - [リュミスカ / Lumisca](/monsterdex/monster/Lumisca.html)

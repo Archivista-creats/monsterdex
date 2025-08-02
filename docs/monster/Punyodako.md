@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - mizu
 - henseiju
-- nereiahai-di-jie
+- nereia-ocean
 tags:
 - 水
 - 変生獣
-- ネレイア海底界
+- ネレイア海原
 title: プニョダコ / Punyodako
 ---
 
@@ -31,7 +31,7 @@ title: プニョダコ / Punyodako
 
 ## 出現地域
 
-* **主な生息地**：[ネレイア海底界](../place/nereia_ocean.md)  
+* **主な生息地**：[ネレイア海原](../place/nereia_ocean.md)  
 * **環境条件**：水圧の高い深海地帯に点在する魔力温泉周辺。微光苔や熱素がゆるやかに湧出する温海域。
 
 ---
@@ -79,7 +79,7 @@ title: プニョダコ / Punyodako
 
 ## 観察記録（記録者：ナウラ＝ヴァリス）
 
-> *「6月3日、[ネレイア海底界](../place/nereia_ocean.md)にて確認。  
+> *「6月3日、[ネレイア海原](../place/nereia_ocean.md)にて確認。  
 　魔力泉近くでふよふよと浮かぶ淡桃の影。  
 　こちらの水中音具を鳴らすと、ぴくりとヒレが動き、そっと近づいてきた。  
 　その小さな姿に、探索隊は一様に“連れて帰りたい”と漏らしたが、  

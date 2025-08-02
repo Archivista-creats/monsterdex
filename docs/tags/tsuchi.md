@@ -6,6 +6,7 @@ permalink: /tags/tsuchi/
 # 🏷️ タグ「土」に関連するモンスター
 
 - [フェノレイド / Blazefennec](/monsterdex/monster/Blazefennec.html)
+- [ドレグワーダ / Dregwarda](/monsterdex/monster/Dregwarda.html)
 - [ダストロノ / Dustrhino](/monsterdex/monster/Dustrhino.html)
 - [フロラテクス / Floratex](/monsterdex/monster/Floratex.html)
 - [ガッパナマル / Gappanmaru](/monsterdex/monster/Gappanmaru.html)
@@ -14,3 +15,5 @@ permalink: /tags/tsuchi/
 - [ゲルマグラット / Gelmagratt](/monsterdex/monster/Gelmagratt.html)
 - [グラスネイル / Glassnail](/monsterdex/monster/Glassnail.html)
 - [グラヴィトール / Gravitore](/monsterdex/monster/Gravitore.html)
+- [オリツボー / Oritsubo](/monsterdex/monster/Oritsubo.html)
+- [ロルマグナ / Rolmagna](/monsterdex/monster/Rolmagna.html)

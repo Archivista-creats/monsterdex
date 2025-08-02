@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - kaminari
 - henseiju
-- kurusuuarutolei-lie-gu
+- kruzvalt-thunderchasm
 tags:
 - 雷
 - 変生獣
-- クルズヴァルト雷裂谷
+- クルーズヴァルト雷峡
 title: シュガンバル / Shuganbar
 ---
 
@@ -27,7 +27,7 @@ title: シュガンバル / Shuganbar
 
 ## 出現地域
 
-* **主な生息地**：[クルズヴァルト雷裂谷](../place/kruzvalt_thunderchasm.md)  
+* **主な生息地**：[クルーズヴァルト雷峡](../place/kruzvalt_thunderchasm.md)  
 * **環境条件**：雷鳴が絶え間なく轟く谷地帯。大気中に常時帯電したプラズマが流れる高電界環境。
 
 ---
@@ -79,7 +79,7 @@ title: シュガンバル / Shuganbar
 
 > *探索日誌より抜粋：*
 
-> 「8月20日、[クルズヴァルト雷裂谷](../place/kruzvalt_thunderchasm.md)にて接触。  
+> 「8月20日、[クルーズヴァルト雷峡](../place/kruzvalt_thunderchasm.md)にて接触。  
 　探査球が送った映像の中に、雷光を纏い谷を滑るように駆ける影を確認。  
 　全てのセンサーは強磁波により狂い、残された映像の中で、  
 　その瞳はまるで“雷鳴の意志”そのものだった。」

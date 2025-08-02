@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - mu
 - kinju
-- kurisarikaxu-wu-dai
+- grizarica-void
 tags:
 - 無
 - 禁獣
-- グリザリカ虚無帯
+- グリザリカ虚空域
 title: 記述を還すもの ゼイロ＝ナウティリス / Zeiro=Nautilus the Null Spiral
 ---
 
@@ -24,7 +24,7 @@ title: 記述を還すもの ゼイロ＝ナウティリス / Zeiro=Nautilus the
 オウムガイ（古代軟体巻貝）
 
 ## 出現地域
-* **主な生息地**：[グリザリカ虚無帯](../place/grizarica_void.md)  
+* **主な生息地**：[グリザリカ虚空域](../place/grizarica_void.md)  
 * **環境条件**：空間・魔力・音・記憶・色彩のいずれもが欠損し続ける“無”の極地。観測すら困難で、位置情報の特定も不可能に近い。
 
 ---
@@ -68,7 +68,7 @@ title: 記述を還すもの ゼイロ＝ナウティリス / Zeiro=Nautilus the
 ## 観察記録（記録者：無記名）
 
 > *断片的記録（ログコードX-000）より再構成：*  
-> 「[グリザリカ虚無帯](../place/grizarica_void.md)にて、空間構造の異常反応を確認。  
+> 「[グリザリカ虚空域](../place/grizarica_void.md)にて、空間構造の異常反応を確認。  
 > 音も色も……名もない渦があった。  
 > 私は、彼に名前を与えようとして――  
 > ログが……  

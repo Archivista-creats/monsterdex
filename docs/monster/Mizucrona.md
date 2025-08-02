@@ -6,12 +6,12 @@ tag_slugs:
 - mizu
 - toki
 - henseiju
-- aruteinshi-liu-yu
+- ardeen-temporal
 tags:
 - 水
 - 時
 - 変生獣
-- アルディーン時流域
+- アルディーン静時界
 title: ミズクロナ / Mizucrona
 ---
 
@@ -33,7 +33,7 @@ title: ミズクロナ / Mizucrona
 
 ## 出現地域
 
-* **主な生息地**：[アルディーン時流域](../place/ardeen_temporal.md)  
+* **主な生息地**：[アルディーン静時界](../place/ardeen_temporal.md)  
 * **環境条件**：時間の流速が不安定な淡水流域。川の流れが逆転する現象や、  
 　一部の石や水が“過去に戻る”事象が観測されるエリア。
 
@@ -86,7 +86,7 @@ title: ミズクロナ / Mizucrona
 
 ## 観察記録（記録者：リスラン＝カーテ）
 
-> *「5月12日、[アルディーン時流域](../place/ardeen_temporal.md)にて接触。  
+> *「5月12日、[アルディーン静時界](../place/ardeen_temporal.md)にて接触。  
 　流れのない小湾に浮かぶ光る球体。  
 　近づこうとした探索者の姿が一瞬“後退”し、観測ログがループしていた。  
 　意識だけが進み、体が残された──そんな感覚。  

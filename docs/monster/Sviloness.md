@@ -6,12 +6,12 @@ tag_slugs:
 - doku
 - kaze
 - henseiju
-- kueruying-shui-yu
+- kuel-shadepool
 tags:
 - 毒
 - 風
 - 変生獣
-- クエル影水域
+- クエルの影溜まり
 title: スヴィロネス / Sviloness
 ---
 
@@ -33,7 +33,7 @@ title: スヴィロネス / Sviloness
 
 ## 出現地域
 
-* **主な生息地**：[クエル影水域](../place/kuel_shadepool.md)  
+* **主な生息地**：[クエルの影溜まり](../place/kuel_shadepool.md)  
 * **環境条件**：湿った空気が淀む森林沼地帯。瘴気が長く滞留し、風が地表を這うように流れる領域。
 
 ---
@@ -82,7 +82,7 @@ title: スヴィロネス / Sviloness
 
 ## 観察記録（記録者：ヴァニリス＝トゥン）
 
-> *「7月27日、[クエル影水域](../place/kuel_shadepool.md)にて遭遇。  
+> *「7月27日、[クエルの影溜まり](../place/kuel_shadepool.md)にて遭遇。  
 　風が止んだ瞬間、ふわりと浮かぶ影とその周囲の霧。  
 　どこからともなく音が消え、意識が霞んだ。  
 　防毒面をつけていなければ、記録も叶わなかったかもしれない」*

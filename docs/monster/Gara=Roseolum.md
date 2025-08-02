@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - tsuchi
 - seireiju
-- uasutoruyan-wei-dai
+- vastl-crags
 tags:
 - 土
 - 精霊獣
-- ヴァストル岩隈帯
+- ヴァストル岩窟帯
 title: 大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lithic Verse
 ---
 
@@ -24,7 +24,7 @@ title: 大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lit
 アルマジロ（大型地中棲種）
 
 ## 出現地域
-* **主な生息地**：[ヴァストル岩隈帯](../place/vastl_crags.md)  
+* **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  
 * **環境条件**：大地の精霊力が濃く、断層や結晶構造が剥き出しの岩盤地帯。定期的に“大地の脈動”が観測される。
 
 ---
@@ -63,7 +63,7 @@ title: 大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lit
 ## 観察記録（記録者：ダレイン・フォルトゥナ）
 
 > *探索日誌より抜粋：*  
-> 「[ヴァストル岩隈帯](../place/vastl_crags.md)にて、断層の中心部から突如現れた巨大な影。  
+> 「[ヴァストル岩窟帯](../place/vastl_crags.md)にて、断層の中心部から突如現れた巨大な影。  
 > 土が鳴き、岩がほほえむような音を立てた後、彼が姿を現した。  
 > 触れた大地に、新芽が息を吹き返した。  
 > それは“地が再び語りはじめた”瞬間だった。」

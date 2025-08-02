@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - hikari
 - henseiju
-- isutoriahui-guang-yu
+- istoria-light
 tags:
 - 光
 - 変生獣
-- イストリア輝光域
+- イストリア星晶殿
 title: フィルミェル / Filmiel
 ---
 
@@ -27,7 +27,7 @@ title: フィルミェル / Filmiel
 
 ## 出現地域
 
-* **主な生息地**：[イストリア輝光域](../place/istoria_light.md)  
+* **主な生息地**：[イストリア星晶殿](../place/istoria_light.md)  
 * **環境条件**：常に柔らかな光が差し込む聖域的エリア。静穏かつ高密度な光素に満ちた草原地帯。
 
 ---
@@ -77,7 +77,7 @@ title: フィルミェル / Filmiel
 
 > *探索日誌より抜粋：*
 
-> 「3月21日、[イストリア輝光域](../place/istoria_light.md)にて遭遇。  
+> 「3月21日、[イストリア星晶殿](../place/istoria_light.md)にて遭遇。  
 　霧が晴れた草地の中心に、小さな光の塊が見えた。  
 　近づくとそれは、ふわふわのウサギのような姿をしており、こちらを見るでもなく、  
 　そっと咲きかけた花のそばに座っていた。  

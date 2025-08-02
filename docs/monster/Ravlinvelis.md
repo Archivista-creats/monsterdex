@@ -6,12 +6,12 @@ tag_slugs:
 - yami
 - kaminari
 - henseiju
-- kurusuuarutolei-lie-gu
+- kruzvalt-thunderchasm
 tags:
 - 闇
 - 雷
 - 変生獣
-- クルズヴァルト雷裂谷
+- クルーズヴァルト雷峡
 title: ラヴルインヴェリス / Ravlinvelis
 ---
 
@@ -33,7 +33,7 @@ title: ラヴルインヴェリス / Ravlinvelis
 
 ## 出現地域
 
-* **主な生息地**：[クルズヴァルト雷裂谷](../place/kruzvalt_thunderchasm.md)  
+* **主な生息地**：[クルーズヴァルト雷峡](../place/kruzvalt_thunderchasm.md)  
 * **環境条件**：深い峡谷と断崖が連なる雷帯地帯。闇と電気の魔素が交錯し、  
 　常に地表を稲妻が走る地域。
 
@@ -83,7 +83,7 @@ title: ラヴルインヴェリス / Ravlinvelis
 
 ## 観察記録（記録者：ローヴァン＝シルト）
 
-> *「8月10日、[クルズヴァルト雷裂谷](../place/kruzvalt_thunderchasm.md)にて目撃。  
+> *「8月10日、[クルーズヴァルト雷峡](../place/kruzvalt_thunderchasm.md)にて目撃。  
 　雷鳴に紛れて姿を見た──だが次の瞬間には影だけが残っていた。  
 　振り返った探索者の背後に、焼け焦げた爪痕と、沈黙。  
 　『あれは…殺意そのものだ』と呟いた者の声が、いつまでも耳に残っている。」*

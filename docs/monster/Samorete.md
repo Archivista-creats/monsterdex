@@ -6,12 +6,12 @@ tag_slugs:
 - hikari
 - koori
 - seireiju
-- erusarioshuang-hua-yuan
+- elsario-frostbloom
 tags:
 - 光
 - 氷
 - 精霊獣
-- エルサリオ霜華原
+- エルサリオ氷枝原
 title: サモレーテ / Samorete
 ---
 
@@ -33,7 +33,7 @@ title: サモレーテ / Samorete
 
 ## 出現地域
 
-* **主な生息地**：[エルサリオ霜華原](../place/elsario_frostbloom.md)  
+* **主な生息地**：[エルサリオ氷枝原](../place/elsario_frostbloom.md)  
 * **環境条件**：霜華が咲く吹雪地帯。氷霧により視界がぼやけ、光の拡散現象が美しくも幻想的な空間。
 
 ---
@@ -81,7 +81,7 @@ title: サモレーテ / Samorete
 
 ## 観察記録（記録者：アイリナ＝ノーヴ）
 
-> *「12月2日、[エルサリオ霜華原](../place/elsario_frostbloom.md)にて接触。  
+> *「12月2日、[エルサリオ氷枝原](../place/elsario_frostbloom.md)にて接触。  
 　吹雪の合間、雪の中に浮かぶ“笑顔”に気づいた。  
 　その白い影は私たちの周囲を一周し、結界を残して消えた──  
 　温かさと冷たさが同居する、不思議な存在だった。」*

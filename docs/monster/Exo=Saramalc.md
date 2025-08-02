@@ -6,12 +6,12 @@ tag_slugs:
 - hi
 - kuukan
 - kinju
-- kateireawai-jie-yu
+- kadirea-warpzone
 tags:
 - 火
 - 空間
 - 禁獣
-- カディレア歪界域
+- カディレア歪界
 title: 焔層を裂くもの エグゾ＝サラマルク / Exo=Saramalc the Fracture Crawler
 ---
 
@@ -26,7 +26,7 @@ title: 焔層を裂くもの エグゾ＝サラマルク / Exo=Saramalc the Frac
 ヤモリ（高温性／壁面捕食種）
 
 ## 出現地域
-* **主な生息地**：[カディレア歪界域](../place/kadirea_warpzone.md)  
+* **主な生息地**：[カディレア歪界](../place/kadirea_warpzone.md)  
 * **環境条件**：次元座標が交差・分岐する領域。空間の継続性が失われており、視覚・聴覚・熱感覚が錯乱状態。温度も断続的に急変。
 
 ---
@@ -76,7 +76,7 @@ title: 焔層を裂くもの エグゾ＝サラマルク / Exo=Saramalc the Frac
 ## 観察記録（記録者：ナズマ＝トーグ）
 
 > *探索日誌より抜粋：*  
-> 「[カディレア歪界域](../place/kadirea_warpzone.md)にて、視覚ログが断続的に遮断。  
+> 「[カディレア歪界](../place/kadirea_warpzone.md)にて、視覚ログが断続的に遮断。  
 > 熱を感じた数秒後、同僚の姿が座標上から“外れた”。  
 > 炎はあったが、燃えた跡はなかった。そこに“空間の傷”が残っていた。  
 > 彼の名は……**エグゾ＝サラマルク**。  

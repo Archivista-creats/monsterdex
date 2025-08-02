@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - tsuchi
 - henseiju
-- uasutoruduan-ceng-ling
+- vastl-crags
 tags:
 - 土
 - 変生獣
-- ヴァストル断層嶺
+- ヴァストル岩窟帯
 title: グラヴィトール / Gravitore
 ---
 
@@ -24,7 +24,7 @@ title: グラヴィトール / Gravitore
 ヤギ（高山種）
 
 ## 出現地域
-* **主な生息地**：[ヴァストル断層嶺](../place/vastl_crags.md)  
+* **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  
 * **環境条件**：断層地形が連なる高山地帯。落石や地盤揺れが頻発し、重力乱流の小規模発生が観測される領域。
 
 ---

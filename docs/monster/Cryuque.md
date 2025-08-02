@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - koori
 - henseiju
-- erumabing-hai-yuan
+- elma-icefield
 tags:
 - 氷
 - 変生獣
-- エルマ氷海原
+- エルマ凍晶域
 title: クラユーク / Cryuque
 ---
 
@@ -27,7 +27,7 @@ title: クラユーク / Cryuque
 
 ## 出現地域
 
-* **主な生息地**：[エルマ氷海原](../place/elma_icefield.md)  
+* **主な生息地**：[エルマ凍晶域](../place/elma_icefield.md)  
 * **環境条件**：極寒の深海に近い氷海底。氷の下に閉ざされた環境で魔力の“沈殿”が確認されるエリア。
 
 ---
@@ -78,7 +78,7 @@ title: クラユーク / Cryuque
 
 > *探索日誌より抜粋：*
 
-> 「11月3日、[エルマ氷海原](../place/elma_icefield.md)にて遭遇。  
+> 「11月3日、[エルマ凍晶域](../place/elma_icefield.md)にて遭遇。  
 　漂着した深海個体の調査中、周囲の氷が異様に透き通っていくのを確認。  
 　クラユークが現れると、その場に残された足跡や死骸の魔力反応が消え、  
 　代わりに氷に古い記録のような像が映っていた。  

@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - hikari
 - kinju
-- isutoriahui-jiao-yu
+- istoria-light
 tags:
 - 光
 - 禁獣
-- イストリア輝教域
+- イストリア星晶殿
 title: 過剰なる祝祭 グロリア＝フィネリア / Gloria=Fineria the Benediction Ruin
 ---
 
@@ -24,7 +24,7 @@ title: 過剰なる祝祭 グロリア＝フィネリア / Gloria=Fineria the Be
 モルフォチョウ（極彩光翼種）
 
 ## 出現地域
-* **主な生息地**：[イストリア輝教域](../place/istoria_light.md)  
+* **主な生息地**：[イストリア星晶殿](../place/istoria_light.md)  
 * **環境条件**：常時聖光が降り注ぎ、視覚・音・感情がすべて“祝福”に包まれる領域。意志を保つことが困難。
 
 ---
@@ -76,7 +76,7 @@ title: 過剰なる祝祭 グロリア＝フィネリア / Gloria=Fineria the Be
 ## 観察記録（記録者：セイル＝ネミア）
 
 > *探索記録より抜粋：*  
-> 「[イストリア輝教域](../place/istoria_light.md)にて、全方位から祈りの声が聞こえた。  
+> 「[イストリア星晶殿](../place/istoria_light.md)にて、全方位から祈りの声が聞こえた。  
 > 誰も喋っていなかった。なのに、耳の奥に“喜び”が響いた。  
 > あれは蝶ではなかった。  
 > “祝福という現象”が翅を持っただけの、光の終末だった。  

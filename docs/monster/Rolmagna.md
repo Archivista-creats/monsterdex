@@ -1,11 +1,15 @@
 ---
-categories: \[モンスター]
+categories:
+- モンスター
 layout: monster
 tag_slugs:
-- tu
+- tsuchi
 - henseiju
-- murunenoshi-di-dai
-tags: \[土, 変生獣, ムルネの湿地帯]
+- murune-bog
+tags:
+- 土
+- 変生獣
+- ムルネの湿地帯
 title: ロルマグナ / Rolmagna
 ---
 

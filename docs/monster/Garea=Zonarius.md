@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - tsuchi
 - kinju
-- uasutoruduan-ya-dai
+- vastl-crags
 tags:
 - 土
 - 禁獣
-- ヴァストル断崖帯
+- ヴァストル岩窟帯
 title: 地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the Stratolord
 ---
 
@@ -24,7 +24,7 @@ title: 地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the St
 ゾウ（古代種、マストドン型）
 
 ## 出現地域
-* **主な生息地**：[ヴァストル断崖帯](../place/vastl_crags.md)  
+* **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  
 * **環境条件**：地盤が周期的に隆起・沈降を繰り返す地殻不安定帯。重力異常、記憶磁場の歪みが断続的に発生。
 
 ---
@@ -68,7 +68,7 @@ title: 地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the St
 ## 観察記録（記録者：アミト＝ダラン）
 
 > *探索記録より抜粋：*  
-> 「7月4日、[ヴァストル断崖帯](../place/vastl_crags.md)。  
+> 「7月4日、[ヴァストル岩窟帯](../place/vastl_crags.md)。  
 > 崖の向こうに、存在しなかったはずの“古地形”が現れた。  
 > そこに残された巨大な踏み跡、その中には知らない遺構と、私の知らない記憶の断片が。  
 > ガレア＝ゾナリウス。  

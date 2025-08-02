@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - hikari
 - seireiju
-- isutoriaguang-hui-ceng
+- istoria-light
 tags:
 - 光
 - 精霊獣
-- イストリア光輝層
+- イストリア星晶殿
 title: 光環を掲く聖輝孔雀 エルシオ＝リュミエル / Elshio=Lumière the Radiant Glorion
 ---
 
@@ -24,7 +24,7 @@ title: 光環を掲く聖輝孔雀 エルシオ＝リュミエル / Elshio=Lumi�
 インドクジャク（極彩色の大型鳥類）
 
 ## 出現地域
-* **主な生息地**：[イストリア光輝層](../place/istoria_light.md)  
+* **主な生息地**：[イストリア星晶殿](../place/istoria_light.md)  
 * **環境条件**：大気中に微細な光粒子が満ち、常時薄光が差し込む浮遊光域。音が反響し、時間の流れが緩やかになる特異空間。
 
 ---
@@ -65,6 +65,6 @@ title: 光環を掲く聖輝孔雀 エルシオ＝リュミエル / Elshio=Lumi�
 ## 観察記録（記録者：マリア・ルデリカ）
 
 > *探索日誌より抜粋：*  
-> 「[イストリア光輝層](../place/istoria_light.md)の上層部にて、“静かな日の出”の現象を観測。  
+> 「[イストリア星晶殿](../place/istoria_light.md)の上層部にて、“静かな日の出”の現象を観測。  
 > やがて、光の階段を昇るように彼は現れた。  
 > 音もなく羽を広げた瞬間、私たちはただ跪いていた──あれは“救いの象徴”だった。」

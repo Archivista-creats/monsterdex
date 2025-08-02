@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - kaze
 - henseiju
-- sinduan-feng-leng-xian
+- zeen-ridge
 tags:
 - 風
 - 変生獣
-- ジーン断風稜線
+- ゼーン丘陵地
 title: フォウズィラ / Fouzilla
 ---
 
@@ -27,7 +27,7 @@ title: フォウズィラ / Fouzilla
 
 ## 出現地域
 
-* **主な生息地**：[ジーン断風稜線](../place/zeen_ridge.md)  
+* **主な生息地**：[ゼーン丘陵地](../place/zeen_ridge.md)  
 * **環境条件**：強風が吹き抜ける山稜地帯。草木の影が常に揺らぐような、視界が不安定な環境。
 
 ---
@@ -77,7 +77,7 @@ title: フォウズィラ / Fouzilla
 
 > *探索日誌より抜粋：*
 
-> 「5月6日、[ジーン断風稜線](../place/zeen_ridge.md)の草間で確認。  
+> 「5月6日、[ゼーン丘陵地](../place/zeen_ridge.md)の草間で確認。  
 　風が抜ける瞬間に、一つ、また一つと飛び跳ねる影。  
 　それは鳥とも小動物ともつかぬ丸いシルエットで、  
 　風に乗って滑るように消えた。音もなく、ただ、風だけが残った。」

@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - mizu
 - seireiju
-- nereiada-hai-huan
+- nereia-ocean
 tags:
 - 水
 - 精霊獣
-- ネレイア大海環
+- ネレイア海原
 title: 命潮を謳う聖鯨 ルミナ＝ヴェルディア / Lumina=Verdia the Aqueous Psalm
 ---
 
@@ -24,7 +24,7 @@ title: 命潮を謳う聖鯨 ルミナ＝ヴェルディア / Lumina=Verdia the 
 クジラ（古代海洋種）
 
 ## 出現地域
-* **主な生息地**：[ネレイア大海環](../place/nereia_ocean.md)  
+* **主な生息地**：[ネレイア海原](../place/nereia_ocean.md)  
 * **環境条件**：潮流と魔力流が交錯する海の聖域。時折“水の詠唱”と呼ばれる音が聴こえる。浮遊珊瑚や水環境の異常再生が発生する。
 
 ---
@@ -63,7 +63,7 @@ title: 命潮を謳う聖鯨 ルミナ＝ヴェルディア / Lumina=Verdia the 
 ## 観察記録（記録者：アマナ・セルフェリオ）
 
 > *探索日誌より抜粋：*  
-> 「[ネレイア大海環](../place/nereia_ocean.md)にて、音もなく出現した巨大環とともに彼女は現れた。  
+> 「[ネレイア海原](../place/nereia_ocean.md)にて、音もなく出現した巨大環とともに彼女は現れた。  
 > 波が逆巻くことなく、静かに命が還る感覚があった。  
 > 彼女は“癒しの現象”ではない。  
 > あれは、記憶そのものを抱いて泳ぐ“水の神”だと、私は確信している。」

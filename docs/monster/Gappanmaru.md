@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - tsuchi
 - henseiju
-- haretutaxiang-xi
+- baretta-echo
 tags:
 - 土
 - 変生獣
-- バレッタ響潟
+- バレッタの鳴岩谷
 title: ガッパナマル / Gappanmaru
 ---
 
@@ -31,7 +31,7 @@ title: ガッパナマル / Gappanmaru
 
 ## 出現地域
 
-* **主な生息地**：[バレッタ響潟](../place/baretta_echo.md)  
+* **主な生息地**：[バレッタの鳴岩谷](../place/baretta_echo.md)  
 * **環境条件**：潮の満ち引きで地形が変わる広大な干潟。  
 　泥に魔素が染み込んでおり、生物の変成が頻発する魔泉域。
 
@@ -80,7 +80,7 @@ title: ガッパナマル / Gappanmaru
 
 ## 観察記録（記録者：サルテ＝ノルガ）
 
-> *「9月17日、[バレッタ響潟](../place/baretta_echo.md)にて遭遇。  
+> *「9月17日、[バレッタの鳴岩谷](../place/baretta_echo.md)にて遭遇。  
 　風のない朝、泥が一箇所だけ蠢き、次の瞬間“ぼふっ”という音とともに跳ね上がった影。  
 　ガッパナマルは着地後、一瞬こちらを見た気がしたが、すぐ泥中に吸い込まれるように消えた。  
 　不思議と、見られた側の心が読まれている気分だった。」*

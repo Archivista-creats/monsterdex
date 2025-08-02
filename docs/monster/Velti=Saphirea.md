@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - kuukan
 - seireiju
-- kateireawei-xiang-hui-lang
+- kadirea-warpzone
 tags:
 - 空間
 - 精霊獣
-- カディレア位相回廊
+- カディレア歪界
 title: 次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphirea the Dimensional Loom
 ---
 
@@ -24,7 +24,7 @@ title: 次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphir
 ハチドリ（極小高速飛行種）
 
 ## 出現地域
-* **主な生息地**：[カディレア位相回廊](../place/kadirea_warpzone.md)  
+* **主な生息地**：[カディレア歪界](../place/kadirea_warpzone.md)  
 * **環境条件**：位相断裂と空間ひずみが常在する浮遊次元領域。魔素の層が複数重なり、視覚・重力・音響が変調する。
 
 ---
@@ -62,7 +62,7 @@ title: 次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphir
 ## 観察記録（記録者：テスラ・ヴェリオネ）
 
 > *探索日誌より抜粋：*  
-> 「[カディレア位相回廊](../place/kadirea_warpzone.md)の裂相点で観測。  
+> 「[カディレア歪界](../place/kadirea_warpzone.md)の裂相点で観測。  
 > 空気の振動が反転し、そこに紋様のような羽ばたきが現れた。  
 > 彼女は空間そのものを縫っている──それは祝福か、それとも修復の嘆きか。  
 > だが確かに、次元は彼女を通して癒やされていた。」

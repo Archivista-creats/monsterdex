@@ -5,11 +5,11 @@ layout: monster
 tag_slugs:
 - mu
 - seireiju
-- kurisarikaxu-wu-yu
+- grizarica-void
 tags:
 - 無
 - 精霊獣
-- グリザリカ虚無域
+- グリザリカ虚空域
 title: 境界なき循環蟲 ヌエル＝アフェーシア / Nuel=Affacia the Unformed Return
 ---
 
@@ -24,7 +24,7 @@ title: 境界なき循環蟲 ヌエル＝アフェーシア / Nuel=Affacia the U
 ミミズ（多環形動物／地下性再生生物）
 
 ## 出現地域
-* **主な生息地**：[グリザリカ虚無域](../place/grizarica_void.md)  
+* **主な生息地**：[グリザリカ虚空域](../place/grizarica_void.md)  
 * **環境条件**：全ての属性反応が消失した“属性空白地帯”。重力・時間・感覚の秩序が希薄な領域。
 
 ---
@@ -64,7 +64,7 @@ title: 境界なき循環蟲 ヌエル＝アフェーシア / Nuel=Affacia the U
 ## 観察記録（記録者：ラビ＝オール）
 
 > *探索日誌より抜粋：*  
-> 「[グリザリカ虚無域](../place/grizarica_void.md)で遭遇。  
+> 「[グリザリカ虚空域](../place/grizarica_void.md)で遭遇。  
 > 私の感覚は正常だったが、時間が巻き戻ったような違和感が続いた。  
 > ヌエルは“何か”をしていたはずだ──でも私はそれを思い出せない。  
 > ただ、記録だけが残っている。そしてこの文章の意味すら、少しずつ薄れていくような……」

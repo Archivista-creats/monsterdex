@@ -6,12 +6,12 @@ tag_slugs:
 - hikari
 - kaze
 - henseiju
-- erumabing-yuan
+- elma-icefield
 tags:
 - 光
 - 風
 - 変生獣
-- エルマ氷原
+- エルマ凍晶域
 title: シュリエリィ / Shurierii
 ---
 
@@ -33,7 +33,7 @@ title: シュリエリィ / Shurierii
 
 ## 出現地域
 
-* **主な生息地**：[エルマ氷原](../place/elma_icefield.md)  
+* **主な生息地**：[エルマ凍晶域](../place/elma_icefield.md)  
 * **環境条件**：常に雪と風が舞う極寒の高地。光が霧氷を通して反射する清浄域。
 
 ---
@@ -83,7 +83,7 @@ title: シュリエリィ / Shurierii
 
 ## 観察記録（記録者：ヴァイス＝ハルディア）
 
-> *「1月13日、[エルマ氷原](../place/elma_icefield.md)にて遭遇。  
+> *「1月13日、[エルマ凍晶域](../place/elma_icefield.md)にて遭遇。  
 　風が静まった朝、白く輝く一帯にふわりと浮かぶ白い羽。  
 　それは群れを成して空に舞い、  
 　一つの螺旋を描いた後、やさしい風を残して姿を消した。  

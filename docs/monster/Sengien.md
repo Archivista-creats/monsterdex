@@ -6,12 +6,12 @@ tag_slugs:
 - hi
 - toki
 - henseiju
-- kairosure-quan-yu
+- kairos-thermal
 tags:
 - 火
 - 時
 - 変生獣
-- カイロス熱泉域
+- カイロス湯溜まり帯
 title: センギエン / Sengien
 ---
 
