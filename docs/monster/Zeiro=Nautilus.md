@@ -3,12 +3,12 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
+  class: 頭足綱（Cephalopoda）
+  order: オウムガイ目（Nautilida）
+  family: オウムガイ科（Nautilidae）
+  common_en: Chambered Nautilus
   common_ja: オウムガイ
-  family: null
-  order: null
-  scientific: null
+  scientific: Nautilus pompilius
 tag_slugs:
 - mu
 - kinju

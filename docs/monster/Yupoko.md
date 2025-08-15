@@ -3,12 +3,12 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
+  class: 両生綱（Amphibia）
+  order: 有尾目（Caudata）
+  family: イモリ科（Salamandridae）
+  common_en: Japanese Fire-bellied Newt
   common_ja: アカハライモリ
-  family: null
-  order: null
-  scientific: null
+  scientific: Cynops pyrrhogaster
 tag_slugs:
 - hi
 - henseiju
@@ -31,7 +31,6 @@ title: ユポコ / Yupoko
 ---
 
 ## 元動物
-
 アカハライモリ
 
 ---
