@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヒョウモントカゲモドキ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hikari
 - yami
@@ -24,8 +31,7 @@ title: リュミスカ / Lumisca
 * **レアリティ**：★☆☆☆☆（1）
 
 ## 元動物
-
-ヒョウモントカゲモドキ（レオパードゲッコー）
+ヒョウモントカゲモドキ
 
 ## 出現地域
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: コイ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mizu
 - hikari
@@ -24,8 +31,7 @@ title: コウリン / Kourin
 * **レアリティ**：★★★☆☆（★3）
 
 ## 元動物
-
-鯉（コイ）
+コイ
 
 ## 出現地域
 

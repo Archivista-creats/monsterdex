@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ダイオウグソクムシ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - koori
 - henseiju
@@ -22,8 +29,7 @@ title: クラユーク / Cryuque
 * **レアリティ**：★★★3
 
 ## 元動物
-
-ダイオウグソクムシ（Bathynomus giganteus）
+ダイオウグソクムシ
 
 ## 出現地域
 

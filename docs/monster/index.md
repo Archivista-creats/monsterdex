@@ -1,7 +1,14 @@
 ---
-title: モンスター一覧
 layout: default
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: TODO_元動物名
+  family: null
+  order: null
+  scientific: null
 permalink: /monster/
+title: モンスター一覧
 ---
 
 # 🐾 モンスター一覧

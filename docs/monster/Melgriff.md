@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Mammalia
+  common_en: Platypus
+  common_ja: カモノハシ
+  family: Ornithorhynchidae
+  order: Monotremata
+  scientific: Ornithorhynchus anatinus
 tag_slugs:
 - kuukan
 - mizu
@@ -23,7 +30,7 @@ title: メルグリフ / Melgriff
 * **レアリティ**：★★★(3)
 
 ## 元動物
-カモノハシ（淡水域生息種）
+カモノハシ
 
 ## 出現地域
 * **主な生息地**：[ネレイア海原](../place/nereia_ocean.md)

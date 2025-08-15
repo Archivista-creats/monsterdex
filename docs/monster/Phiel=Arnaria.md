@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: アホウドリ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - seireiju
@@ -21,7 +28,7 @@ title: 巡風を渡す白翼鳥 フィール＝アルナリア / Phiel=Arnaria t
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-アホウドリ（渡りを行う大型の海鳥）
+アホウドリ
 
 ## 出現地域
 * **主な生息地**：[シルファニル天空庭園](../place/sylphanil_sky.md)  

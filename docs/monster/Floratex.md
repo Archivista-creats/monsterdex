@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Reptilia
+  common_en: Chameleon
+  common_ja: カメレオン
+  family: Chamaeleonidae
+  order: Squamata
+  scientific: null
 tag_slugs:
 - tsuchi
 - kaze

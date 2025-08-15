@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: スコティッシュフォールド
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mu
 - kaze
@@ -26,8 +33,7 @@ title: フォルセーニャ / Forcenya
 ---
 
 ## 元動物
-
-スコティッシュフォールド（垂れ耳の家猫）
+スコティッシュフォールド
 
 ---
 

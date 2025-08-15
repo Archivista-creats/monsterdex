@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Mammalia
+  common_en: Squirrel
+  common_ja: リス
+  family: Sciuridae
+  order: Rodentia
+  scientific: null
 tag_slugs:
 - hikari
 - kaze
@@ -23,7 +30,7 @@ title: アエルリス / Aerlis
 * **レアリティ**：★★★★★(3)
 
 ## 元動物
-リス（モモンガ系滑空種）
+リス
 
 ## 出現地域
 * **主な生息地**：[シルファニル天空庭園](../place/sylphanil_sky.md)

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヨーロッパウズラ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - henseiju
@@ -22,8 +29,7 @@ title: フォウズィラ / Fouzilla
 * **レアリティ**：★★2
 
 ## 元動物
-
-ウズラ（特にヨーロッパウズラ）
+ヨーロッパウズラ
 
 ## 出現地域
 

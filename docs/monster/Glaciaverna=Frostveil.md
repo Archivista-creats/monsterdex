@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: シロフクロウ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - koori
 - seireiju
@@ -22,8 +29,7 @@ title: 霜夢を編む雪冠鳥 グラシアヴェルナ＝フロストヴェイ
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-シロフクロウ（極地性猛禽類）
+シロフクロウ
 
 ## 出現地域
 

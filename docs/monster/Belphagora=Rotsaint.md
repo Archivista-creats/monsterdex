@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヒクイドリ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - doku
 - yami
@@ -24,8 +31,7 @@ title: 呪腐を謡うもの ベルファゴラ＝ロットセイント / Belpha
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-ヒクイドリ（大型地上鳥類）
+ヒクイドリ
 
 ## 出現地域
 

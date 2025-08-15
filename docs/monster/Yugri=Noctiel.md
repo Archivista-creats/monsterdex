@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: クロテン
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - yami
 - seireiju
@@ -21,7 +28,7 @@ title: 静影を歩む祈獣 ユグリ＝ノクティエル / Yugri=Noctiel the 
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-クロテン（夜行性の中型哺乳類）
+クロテン
 
 ## 出現地域
 * **主な生息地**：[ミルザル断罪域](../place/mirzar_dark.md)  

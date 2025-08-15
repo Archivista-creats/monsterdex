@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ミミズ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mu
 - seireiju
@@ -21,7 +28,7 @@ title: 境界なき循環蟲 ヌエル＝アフェーシア / Nuel=Affacia the U
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ミミズ（多環形動物／地下性再生生物）
+ミミズ
 
 ## 出現地域
 * **主な生息地**：[グリザリカ虚空域](../place/grizarica_void.md)  

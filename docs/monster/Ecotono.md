@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヒナコウモリ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - henseiju
@@ -21,7 +28,7 @@ title: エコトノ / Ecotono
 - レアリティ：★☆☆☆☆
 
 ## 元動物
-コウモリ（ヒナコウモリ種に近い小型個体）
+ヒナコウモリ
 
 ## 生息地
 [バレッタの鳴岩](../place/baretta_echo.md)

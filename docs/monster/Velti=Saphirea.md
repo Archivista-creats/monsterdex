@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ハチドリ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kuukan
 - seireiju
@@ -21,7 +28,7 @@ title: 次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphir
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ハチドリ（極小高速飛行種）
+ハチドリ
 
 ## 出現地域
 * **主な生息地**：[カディレア歪界](../place/kadirea_warpzone.md)  

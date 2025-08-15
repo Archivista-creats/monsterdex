@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: アカハライモリ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hi
 - henseiju
@@ -25,7 +32,7 @@ title: ユポコ / Yupoko
 
 ## 元動物
 
-アカハライモリ（温泉地にも生息する両生類）
+アカハライモリ
 
 ---
 

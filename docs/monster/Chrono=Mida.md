@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Cephalopoda
+  common_en: Octopus
+  common_ja: タコ
+  family: Octopodidae
+  order: Octopoda
+  scientific: null
 tag_slugs:
 - toki
 - mu
@@ -23,7 +30,7 @@ title: 時無を喰らうもの クロノ＝ミーダ / Chrono=Mida the Void Spi
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-タコ（深海性の大型種）
+タコ
 
 ## 出現地域
 * **主な生息地**：[アルディーン静時界](../place/ardeen_temporal.md)  

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: クジラ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mizu
 - seireiju
@@ -21,7 +28,7 @@ title: 命潮を謳う聖鯨 ルミナ＝ヴェルディア / Lumina=Verdia the 
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-クジラ（古代海洋種）
+クジラ
 
 ## 出現地域
 * **主な生息地**：[ネレイア海原](../place/nereia_ocean.md)  

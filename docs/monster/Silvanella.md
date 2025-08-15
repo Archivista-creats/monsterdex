@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: イワシ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mizu
 - hikari
@@ -23,7 +30,7 @@ title: シルバネラ / Silvanella
 * **レアリティ**：★☆☆☆☆(1)
 
 ## 元動物
-イワシ（銀鱗小魚系）
+イワシ
 
 ## 出現地域
 * **主な生息地**：[アルヴェン海岸](../place/arven_cove.md)

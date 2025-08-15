@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ショウジョウトキ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hi
 - seireiju
@@ -21,7 +28,7 @@ title: 焔環を掲げる祈火鷺 フェルザ＝フラウナ / Felza=Flauna th
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ショウジョウトキ（中南米原産の鮮紅色の鳥）
+ショウジョウトキ
 
 ## 出現地域
 * **主な生息地**：[インシル火山圏](../place/insil_volcano.md)  

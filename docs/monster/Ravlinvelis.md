@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ジャガー
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - yami
 - kaminari
@@ -27,7 +34,7 @@ title: ラヴルインヴェリス / Ravlinvelis
 
 ## 元動物
 
-ジャガー（ネコ科）
+ジャガー
 
 ---
 

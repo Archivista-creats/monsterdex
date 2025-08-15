@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: フェネック
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hi
 - tsuchi
@@ -25,7 +32,7 @@ title: フェノレイド / Blazefennec
 
 ## 元動物
 
-フェネック（スナギツネ）
+フェネック
 
 ## 出現地域
 

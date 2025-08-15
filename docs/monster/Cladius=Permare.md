@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: クラゲ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - mizu
@@ -23,7 +30,7 @@ title: 空海を繋ぐもの クラディウス＝ペルマレ / Cladius=Permare
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-クラゲ（大深海浮遊種）
+クラゲ
 
 ## 出現地域
 * **主な生息地**：[シルファニル天空庭園](../place/sylphanil_sky.md)  

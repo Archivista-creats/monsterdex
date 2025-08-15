@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: アンゴラウサギ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hikari
 - henseiju
@@ -22,7 +29,6 @@ title: フィルミェル / Filmiel
 * **レアリティ**：★★2
 
 ## 元動物
-
 アンゴラウサギ
 
 ## 出現地域

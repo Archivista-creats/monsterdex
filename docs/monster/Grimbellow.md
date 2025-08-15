@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: クマ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - yami
 - henseiju
@@ -22,7 +29,6 @@ title: グリムベロウ / Grimbellow
 * **レアリティ**：★★★★☆(4)
 
 ## 元動物
-
 クマ
 
 ## 出現地域

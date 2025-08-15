@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヒグラシ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - henseiju
@@ -21,7 +28,7 @@ title: オリツボー / Oritsubo
 - レアリティ：★★☆☆☆
 
 ## 元動物
-ヒグラシ（蝉）
+ヒグラシ
 
 ## 生息地
 [ゼーン丘陵地](../place/zeen_ridge.md)

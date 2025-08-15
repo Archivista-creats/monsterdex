@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ホワイトタイガー
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaminari
 - henseiju
@@ -23,7 +30,7 @@ title: シュガンバル / Shuganbar
 
 ## 元動物
 
-ホワイトタイガー（ベンガルトラの白変種）
+ホワイトタイガー
 
 ## 出現地域
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: アカハライグアナ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaminari
 - seireiju
@@ -23,7 +30,7 @@ title: 雷音を翔る空尾竜 ヴァルシリオン＝サンダーヴェイル
 
 ## 元動物
 
-アカハライグアナ（滑空能力を持つ樹上性大型爬虫類）
+アカハライグアナ
 
 ## 出現地域
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ミズクラゲ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mizu
 - toki
@@ -27,7 +34,7 @@ title: ミズクロナ / Mizucrona
 
 ## 元動物
 
-クラゲ（ミズクラゲ系）
+ミズクラゲ
 
 ---
 

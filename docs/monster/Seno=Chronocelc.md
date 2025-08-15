@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: リクガメ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - toki
 - seireiju
@@ -21,7 +28,7 @@ title: 永久を紡ぐ時甲獣 セノ＝クロノセルク / Seno=Chronocelc th
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-リクガメ（長寿性大型種）
+リクガメ
 
 ## 出現地域
 * **主な生息地**：[アルディーン静時界](../place/ardeen_temporal.md)  

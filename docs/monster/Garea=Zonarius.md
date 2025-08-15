@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ゾウ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - kinju
@@ -21,7 +28,7 @@ title: 地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the St
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ゾウ（古代種、マストドン型）
+ゾウ
 
 ## 出現地域
 * **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  

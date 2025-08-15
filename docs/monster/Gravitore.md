@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヤギ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - henseiju
@@ -21,7 +28,7 @@ title: グラヴィトール / Gravitore
 * **レアリティ**：★★★3
 
 ## 元動物
-ヤギ（高山種）
+ヤギ
 
 ## 出現地域
 * **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  

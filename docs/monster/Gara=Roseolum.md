@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: アルマジロ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - seireiju
@@ -21,7 +28,7 @@ title: 大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lit
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-アルマジロ（大型地中棲種）
+アルマジロ
 
 ## 出現地域
 * **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  

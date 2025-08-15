@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: バフンウニ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mizu
 - henseiju
@@ -23,7 +30,7 @@ title: スティルナクル / Stillnacle
 
 ## 元動物
 
-ウニ（バフンウニを主とする種）
+バフンウニ
 
 ## 出現地域
 

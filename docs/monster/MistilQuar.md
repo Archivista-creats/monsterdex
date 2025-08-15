@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: トビネズミ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - kuukan

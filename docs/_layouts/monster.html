@@ -6,22 +6,70 @@ layout: default
   <header class="mb-6">
     <h1 id="monster-title" class="text-3xl font-bold">{{ page.title }}</h1>
 
-    {% if page.tags and page.tag_slugs and page.tags.size == page.tag_slugs.size %}
-    <p class="text-sm text-gray-600 mt-2" aria-label="タグ一覧">
-      <strong>📌 タグ:</strong>
-      {% for tag in page.tags %}
-        {% assign slug = page.tag_slugs[forloop.index0] %}
-        <a href="{{ '/tags/' | append: slug | append: '.html' | relative_url }}" class="inline-block bg-gray-100 hover:bg-gray-200 rounded px-2 py-1 text-sm font-medium text-blue-700">{{ tag }}</a>{% unless forloop.last %} ｜ {% endunless %}
-      {% endfor %}
-    </p>
-    {% endif %}
-  </header>
+    {%- comment -%}
+    ▷ メタ・バー：分類／属性／レアリティ／元動物（origin）
+       - page.tags から属性絵文字を抽出
+       - 分類タグ（精霊獣・禁獣・変生獣）があれば表示
+       - rarity は任意（フロントマターに page.rarity を用意できるなら★表示）
+       - origin があれば「元動物から探す」導線を出す
+    {%- endcomment -%}
+    <div class="mt-3 text-sm not-prose" role="group" aria-label="メタ情報">
+      {%- assign attrs = "" -%}
+      {%- for t in page.tags %}
+        {%- case t -%}
+          {%- when "火" -%}{% assign attrs = attrs | append: "🔥 火," %}
+          {%- when "水" -%}{% assign attrs = attrs | append: "💧 水," %}
+          {%- when "土" -%}{% assign attrs = attrs | append: "🌱 土," %}
+          {%- when "風" -%}{% assign attrs = attrs | append: "🌬 風," %}
+          {%- when "光" -%}{% assign attrs = attrs | append: "🌟 光," %}
+          {%- when "闇" -%}{% assign attrs = attrs | append: "🌑 闇," %}
+          {%- when "時" -%}{% assign attrs = attrs | append: "🕰 時," %}
+          {%- when "空間" -%}{% assign attrs = attrs | append: "🌀 空間," %}
+          {%- when "無" -%}{% assign attrs = attrs | append: "⚫ 無," %}
+          {%- when "雷" -%}{% assign attrs = attrs | append: "🌩 雷," %}
+          {%- when "氷" -%}{% assign attrs = attrs | append: "❄ 氷," %}
+          {%- when "毒" -%}{% assign attrs = attrs | append: "☠ 毒," %}
+        {%- endcase -%}
+      {%- endfor -%}
 
-  <section class="content">
-    {{ content }}
-  </section>
+      {%- assign class_label = nil -%}
+      {%- if page.tags contains "精霊獣" -%}{% assign class_label = "🌿 精霊獣" %}{%- endif -%}
+      {%- if page.tags contains "禁獣" and class_label == nil -%}{% assign class_label = "⚠ 禁獣" %}{%- endif -%}
+      {%- if page.tags contains "変生獣" and class_label == nil -%}{% assign class_label = "🧬 変生獣" %}{%- endif -%}
 
-  <footer class="mt-8 text-sm">
-    <p><a href="javascript:history.back()" class="text-blue-600 hover:underline">← 戻る</a></p>
-  </footer>
-</article>
+      <div class="flex flex-wrap gap-2 items-center">
+        {%- if class_label -%}
+          <span class="inline-flex items-center rounded-md bg-gray-100 px-2 py-1 text-gray-800" aria-label="分類">{{ class_label }}</span>
+        {%- endif -%}
+
+        {%- if attrs != "" -%}
+          <span class="inline-flex items-center rounded-md bg-gray-100 px-2 py-1 text-gray-800" aria-label="属性">
+            <strong class="mr-1">属性:</strong>
+            {{ attrs | strip | strip_newlines | replace: ",", " " }}
+          </span>
+        {%- endif -%}
+
+        {%- if page.rarity -%}
+          {%- assign stars = "" -%}
+          {%- for i in (1..page.rarity) -%}{% assign stars = stars | append: "★" %}{%- endfor -%}
+          <span class="inline-flex items-center rounded-md bg-gray-100 px-2 py-1 text-gray-800" aria-label="レアリティ">
+            <strong class="mr-1">レア:</strong> {{ stars }} <span class="ml-1 text-gray-500">({{ page.rarity }})</span>
+          </span>
+        {%- endif -%}
+
+        {%- if page.origin and page.origin.common_ja -%}
+          {%- assign class_slug  = page.origin.class  | default: "" | slugify -%}
+          {%- assign order_slug  = page.origin.order  | default: "" | slugify -%}
+          <span class="inline-flex items-center rounded-md bg-gray-100 px-2 py-1 text-gray-800" aria-label="元動物">
+            <strong class="mr-1">元動物:</strong> {{ page.origin.common_ja }}
+            {%- if page.origin.common_en %} <span class="ml-1 text-gray-500">/ {{ page.origin.common_en }}</span>{% endif -%}
+          </span>
+          <a class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-blue-700 hover:bg-blue-100"
+             href="{% if page.origin.order %}{{ '/origin/' | append: class_slug | append: '/' | append: order_slug | append: '/' | relative_url }}{% else %}{{ '/origin/' | append: class_slug | append: '/' | relative_url }}{% endif %}">
+            この元動物から探す →
+          </a>
+        {%- endif -%}
+      </div>
+    </div>
+
+    {%- if page.tags and page.tag_slugs and page.tags.s_

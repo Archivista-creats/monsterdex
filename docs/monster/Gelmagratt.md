@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ラーテル
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - doku
@@ -26,8 +33,7 @@ title: ゲルマグラット / Gelmagratt
 ---
 
 ## 元動物
-
-ラーテル（ミツアナグマ）
+ラーテル
 
 ---
 

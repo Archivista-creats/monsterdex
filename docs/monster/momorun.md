@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Mammalia
+  common_en: Squirrel
+  common_ja: リス
+  family: Sciuridae
+  order: Rodentia
+  scientific: null
 tag_slugs:
 - kaze
 - henseiju

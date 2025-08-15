@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: サモエド
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hikari
 - koori
@@ -27,7 +34,7 @@ title: サモレーテ / Samorete
 
 ## 元動物
 
-サモエド（極寒地原産の大型犬）
+サモエド
 
 ---
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: シマエナガ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hikari
 - kaze
@@ -27,7 +34,7 @@ title: シュリエリィ / Shurierii
 
 ## 元動物
 
-シマエナガ（エナガ科の小型鳥）
+シマエナガ
 
 ---
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: モルフォチョウ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hikari
 - kinju
@@ -21,7 +28,7 @@ title: 過剰なる祝祭 グロリア＝フィネリア / Gloria=Fineria the Be
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-モルフォチョウ（極彩光翼種）
+モルフォチョウ
 
 ## 出現地域
 * **主な生息地**：[イストリア星晶殿](../place/istoria_light.md)  

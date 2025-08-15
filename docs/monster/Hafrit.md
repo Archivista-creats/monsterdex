@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヤマガラ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - henseiju
@@ -25,7 +32,7 @@ title: ハフリット / Hafrit
 
 ## 元動物
 
-ヤマガラ（小型の野鳥）
+ヤマガラ
 
 ---
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: カバ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaminari
 - kinju
@@ -23,7 +30,7 @@ title: 天罰を刻むもの ゼグルアス＝アグレス / Zegluas=Aggress th
 
 ## 元動物
 
-カバ（河馬）
+カバ
 
 ## 出現地域
 

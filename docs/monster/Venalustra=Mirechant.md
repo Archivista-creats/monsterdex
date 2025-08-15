@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: アカマタ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - doku
 - seireiju
@@ -23,7 +30,7 @@ title: 静毒を謡う蓮蛇霊 ヴェナルストラ＝マイアチャント / 
 
 ## 元動物
 
-アカマタ（湿地性毒蛇）
+アカマタ
 
 ## 出現地域
 

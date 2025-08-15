@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ムツゴロウ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - henseiju
@@ -24,8 +31,7 @@ title: ガッパナマル / Gappanmaru
 ---
 
 ## 元動物
-
-ムツゴロウ（ハゼ科）
+ムツゴロウ
 
 ---
 

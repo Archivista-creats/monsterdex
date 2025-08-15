@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Mammalia
+  common_en: Giant Anteater
+  common_ja: オオアリクイ
+  family: Myrmecophagidae
+  order: Pilosa
+  scientific: Myrmecophaga tridactyla
 tag_slugs:
 - doku
 - henseiju
@@ -23,7 +30,7 @@ title: タングロス / Tangloss
 
 ## 元動物
 
-アリクイ（オオアリクイ）
+オオアリクイ
 
 ## 出現地域
 

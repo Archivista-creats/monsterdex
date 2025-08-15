@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: オオカミ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - koori
 - toki
@@ -24,8 +31,7 @@ title: 永結を凍らすもの カリュゼラ＝クリオフェイン / Kalyze
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-オオカミ（雪原棲の白狼）
+オオカミ
 
 ## 出現地域
 

@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Mammalia
+  common_en: Bat
+  common_ja: コウモリ
+  family: null
+  order: Chiroptera
+  scientific: null
 tag_slugs:
 - hikari
 - yami
@@ -23,7 +30,7 @@ title: 黒日を戴くもの ソル＝ノクティリカ / Sol=Noctilica the Ecl
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-コウモリ（大型吸血種）
+コウモリ
 
 ## 出現地域
 * **主な生息地**：[ミルザル断罪域](../place/mirzar_dark.md)  

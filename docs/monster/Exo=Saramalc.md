@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ヤモリ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hi
 - kuukan
@@ -23,7 +30,7 @@ title: 焔層を裂くもの エグゾ＝サラマルク / Exo=Saramalc the Frac
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ヤモリ（高温性／壁面捕食種）
+ヤモリ
 
 ## 出現地域
 * **主な生息地**：[カディレア歪界](../place/kadirea_warpzone.md)  

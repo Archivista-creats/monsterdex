@@ -4,30 +4,136 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {%- assign meta_desc = page.excerpt | default: page.description | default: site.description -%}
+  <meta name="description" content="{{ meta_desc | strip_html | strip_newlines | truncate: 160 }}">
+
+  <!-- Canonical / OGP（任意で調整） -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{{ meta_desc | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="theme-color" content="#0b1221">
+
   <style>
-    body { font-family: sans-serif; line-height: 1.6; margin: 2rem; }
-    nav a { margin-right: 1rem; }
-    a:focus { outline: 2px dashed #555; }
+    :root{
+      --bg:#0f1320; --fg:#e8ecf4; --muted:#aab3c5; --link:#83b7ff; --accent:#58d3b5;
+      --card:#151a2b; --border:#283149;
+      --maxw: 52rem;
+    }
+    @media (prefers-color-scheme: light){
+      :root{ --bg:#ffffff; --fg:#1b2333; --muted:#56617a; --link:#0057cc; --accent:#0ea5a7; --card:#f6f7fb; --border:#dde3ef; }
+    }
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{ margin:0; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Hiragino Kaku Gothic ProN,Meiryo,system-ui,sans-serif; background:var(--bg); color:var(--fg); line-height:1.75; }
+    a{ color:var(--link); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+    .wrap{ max-width: var(--maxw); margin: 0 auto; padding: 1rem 1.25rem 2rem; }
+    header{ position:sticky; top:0; backdrop-filter: blur(6px); background: color-mix(in oklab, var(--bg) 80%, transparent); border-bottom:1px solid var(--border); z-index: 20; }
+    header .bar{ display:flex; align-items:center; justify-content:space-between; gap:.75rem; padding:.75rem 1.25rem; max-width: var(--maxw); margin: 0 auto; }
+    .brand a{ font-weight:700; color:var(--fg); }
+    nav[aria-label="主ナビ"] a{ margin-right:.75rem; padding:.25rem .5rem; border-radius:.5rem; }
+    nav[aria-label="主ナビ"] a[aria-current="page"]{ background:var(--card); outline:1px solid var(--border); }
+    .skip-link{ position:absolute; left:-9999px; top:auto; width:1px; height:1px; overflow:hidden; }
+    .skip-link:focus{ position:static; width:auto; height:auto; background:var(--accent); color:#003; padding:.25rem .5rem; border-radius:.25rem; }
+    main{ max-width: var(--maxw); margin: 0 auto; padding: 1.25rem; }
+    .crumbs{ font-size:.9rem; color:var(--muted); margin:.75rem 0 0; }
+    .card{ background:var(--card); border:1px solid var(--border); border-radius:14px; padding:1rem; }
+    table{ width:100%; border-collapse:collapse; margin:1rem 0; }
+    th,td{ border-bottom:1px solid var(--border); padding:.5rem .6rem; vertical-align:top; }
+    code, pre{ background:var(--card); border:1px solid var(--border); border-radius:10px; }
+    pre{ padding:.75rem 1rem; overflow:auto; }
+    footer{ border-top:1px solid var(--border); margin-top:2rem; }
+    .foot-inner{ max-width: var(--maxw); margin:0 auto; padding:1rem 1.25rem; color:var(--muted); }
+    /* 小型画面でのナビ折り返し */
+    @media (max-width: 640px){
+      nav[aria-label="主ナビ"]{ display:flex; flex-wrap:wrap; gap:.25rem .5rem; }
+      nav[aria-label="主ナビ"] a{ margin-right:0; }
+    }
   </style>
 </head>
 <body>
   <a href="#main" class="skip-link">本文へスキップ</a>
-  <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    <nav>
-      <a href="{{ '/' | relative_url }}">ホーム</a>
-      <a href="{{ '/tags/' | relative_url }}">タグ</a>
-      <a href="{{ '/place/' | relative_url }}">フィールド一覧</a>
-      <a href="{{ '/monster/' | relative_url }}">モンスター一覧</a>
-    </nav>
+
+  <header role="banner">
+    <div class="bar">
+      <div class="brand">
+        <h1 style="margin:0;font-size:1.1rem;">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+        {%- if page.url != '/' -%}
+        <div class="crumbs" aria-label="パンくず">
+          {%- assign segs = page.url | split:'/' -%}
+          {%- assign built = '' -%}
+          <nav aria-label="パンくず">
+            <a href="{{ '/' | relative_url }}">ホーム</a>
+            {%- for s in segs -%}
+              {%- if s != '' and forloop.last == false -%}
+                {%- assign built = built | append:'/' | append:s -%}
+                &nbsp;/&nbsp;<a href="{{ built | relative_url }}">{{ s | replace:'-',' ' }}</a>
+              {%- endif -%}
+            {%- endfor -%}
+            {%- if page.title -%}
+              &nbsp;/&nbsp;<span aria-current="page">{{ page.title }}</span>
+            {%- endif -%}
+          </nav>
+        </div>
+        {%- endif -%}
+      </div>
+
+      <nav aria-label="主ナビ">
+        {%- assign url = page.url -%}
+        <a href="{{ '/' | relative_url }}"
+           {% if url == '/' %}aria-current="page"{% endif %}>ホーム</a>
+        <a href="{{ '/tags/' | relative_url }}"
+           {% if url contains '/tags/' %}aria-current="page"{% endif %}>タグ</a>
+        <a href="{{ '/place/' | relative_url }}"
+           {% if url contains '/place/' %}aria-current="page"{% endif %}>フィールド一覧</a>
+        <a href="{{ '/monster/' | relative_url }}"
+           {% if url contains '/monster/' %}aria-current="page"{% endif %}>モンスター一覧</a>
+        <!-- ★ 追加：元動物から探す -->
+        <a href="{{ '/origin/' | relative_url }}"
+           {% if url contains '/origin/' %}aria-current="page"{% endif %}>元動物から探す</a>
+      </nav>
+    </div>
   </header>
 
-  <main id="main">
+  <main id="main" role="main" class="wrap">
     {{ content }}
   </main>
 
-  <footer>
-    <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
+  <footer role="contentinfo">
+    <div class="foot-inner">
+      <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}
+        {%- if site.license -%} ・ {{ site.license }}{%- endif -%}
+      </small>
+      <div style="float:right;">
+        <a href="#main" aria-label="トップへ戻る">↑ 上へ</a>
+      </div>
+    </div>
   </footer>
+
+  <script>
+  // アンカーリンク（h2/h3）自動付与（任意・軽量）
+  (function(){
+    var hs = document.querySelectorAll('main h2, main h3');
+    for (var i=0;i<hs.length;i++){
+      var h = hs[i];
+      if (!h.id){
+        h.id = h.textContent.trim().toLowerCase()
+              .replace(/\s+/g,'-').replace(/[^\w\-ぁ-んァ-ヴー一-龠]/g,'');
+      }
+      if (!h.querySelector('a.anchor')){
+        var a = document.createElement('a');
+        a.href = '#'+h.id; a.className='anchor';
+        a.style.marginLeft='.25rem'; a.textContent='¶';
+        a.setAttribute('aria-label','この見出しへのリンク');
+        h.appendChild(a);
+      }
+    }
+  })();
+  </script>
 </body>
 </html>

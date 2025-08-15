@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ナイルワニ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - tsuchi
 - yami
@@ -27,7 +34,7 @@ title: ドレグワーダ / Dregwarda
 
 ## 元動物
 
-ワニ（ナイルワニをベースとした大型種）
+ナイルワニ
 
 ---
 

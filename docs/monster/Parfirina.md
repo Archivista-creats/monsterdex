@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ピンポンパール
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - mizu
 - hikari
@@ -27,7 +34,7 @@ title: パルフィリナ / Parfirina
 
 ## 元動物
 
-ピンポンパール（金魚種）
+ピンポンパール
 
 ---
 

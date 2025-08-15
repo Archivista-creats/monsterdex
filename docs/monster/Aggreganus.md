@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: Mammalia
+  common_en: Dog
+  common_ja: 犬
+  family: Canidae
+  order: Carnivora
+  scientific: Canis familiaris
 tag_slugs:
 - kaze
 - mizu
@@ -23,7 +30,7 @@ title: アグレガヌス / Aggreganus
 * **レアリティ**：★★(2)
 
 ## 元動物
-犬（古代戦犬系統）
+犬
 
 ## 出現地域
 * **主な生息地**：[セルカの湖畔](../place/selca_lake.md)

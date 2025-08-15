@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: シーラカンス
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kuukan
 - henseiju

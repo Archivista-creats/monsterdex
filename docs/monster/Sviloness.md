@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ツノゼミ
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - doku
 - kaze
@@ -27,7 +34,7 @@ title: スヴィロネス / Sviloness
 
 ## 元動物
 
-ツノゼミ（擬葉昆虫）
+ツノゼミ
 
 ---
 

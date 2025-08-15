@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: ジャンガリアンハムスター
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - kaze
 - henseiju
@@ -22,7 +29,6 @@ title: フワネスト / Fuwanest
 * **レアリティ**：★☆☆☆☆(1)
 
 ## 元動物
-
 ジャンガリアンハムスター
 
 ## 出現地域
