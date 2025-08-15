@@ -3,11 +3,13 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: Mammalia
+  class: 哺乳綱（Mammalia）
+  order: 有毛目（Pilosa）
+  family: アリクイ科（Myrmecophagidae）
+  genus: オオアリクイ属（Myrmecophaga）
+  species: オオアリクイ（Myrmecophaga tridactyla）
   common_en: Giant Anteater
   common_ja: オオアリクイ
-  family: Myrmecophagidae
-  order: Pilosa
   scientific: Myrmecophaga tridactyla
 tag_slugs:
 - doku

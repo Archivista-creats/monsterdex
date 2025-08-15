@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
+  class: 哺乳綱（Mammalia）
+  order: ウシ目（Artiodactyla）
+  family: カバ科（Hippopotamidae）
+  genus: カバ属（Hippopotamus）
+  species: カバ（Hippopotamus amphibius）
+  common_en: Hippopotamus
   common_ja: カバ
-  family: null
-  order: null
-  scientific: null
+  scientific: Hippopotamus amphibius
 tag_slugs:
 - kaminari
 - kinju

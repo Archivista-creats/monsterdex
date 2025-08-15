@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
-  common_ja: サイ
-  family: null
-  order: null
-  scientific: null
+  class: 哺乳綱（Mammalia）
+  order: 奇蹄目（Perissodactyla）
+  family: サイ科（Rhinocerotidae）
+  genus: クロサイ属（Diceros）
+  species: クロサイ（Diceros bicornis）
+  common_en: Black Rhinoceros
+  common_ja: クロサイ
+  scientific: Diceros bicornis
 tag_slugs:
 - kuukan
 - henseiju
@@ -29,8 +31,7 @@ title: ヴォルセリオン / Volcerion
 * **レアリティ**：★★★★☆(4)
 
 ## 元動物
-
-サイ
+クロサイ
 
 ## 出現地域
 

@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
+  class: 爬虫綱（Reptilia）
+  order: 有鱗目（Squamata）
+  family: ナミヘビ科（Colubridae）
+  genus: アカマタ属（Dinodon）
+  species: アカマタ（Dinodon semicarinatum）
+  common_en: Ryukyu Odd-tooth Snake
   common_ja: アカマタ
-  family: null
-  order: null
-  scientific: null
+  scientific: Dinodon semicarinatum
 tag_slugs:
 - doku
 - seireiju
@@ -29,7 +31,6 @@ title: 静毒を謡う蓮蛇霊 ヴェナルストラ＝マイアチャント / 
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
 アカマタ
 
 ## 出現地域

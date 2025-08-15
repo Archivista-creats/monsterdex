@@ -6,6 +6,8 @@ origin:
   class: 頭足綱（Cephalopoda）
   order: オウムガイ目（Nautilida）
   family: オウムガイ科（Nautilidae）
+  genus: オウムガイ属（Nautilus）
+  species: オウムガイ（Nautilus pompilius）
   common_en: Chambered Nautilus
   common_ja: オウムガイ
   scientific: Nautilus pompilius

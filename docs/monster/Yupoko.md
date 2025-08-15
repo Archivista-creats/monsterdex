@@ -6,6 +6,8 @@ origin:
   class: 両生綱（Amphibia）
   order: 有尾目（Caudata）
   family: イモリ科（Salamandridae）
+  genus: シリケンイモリ属（Cynops）
+  species: アカハライモリ（Cynops pyrrhogaster）
   common_en: Japanese Fire-bellied Newt
   common_ja: アカハライモリ
   scientific: Cynops pyrrhogaster

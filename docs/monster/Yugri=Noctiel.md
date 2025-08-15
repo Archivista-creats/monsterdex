@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
+  class: 哺乳綱（Mammalia）
+  order: 食肉目（Carnivora）
+  family: イタチ科（Mustelidae）
+  genus: テン属（Martes）
+  species: クロテン（Martes zibellina）
+  common_en: Sable
   common_ja: クロテン
-  family: null
-  order: null
-  scientific: null
+  scientific: Martes zibellina
 tag_slugs:
 - yami
 - seireiju

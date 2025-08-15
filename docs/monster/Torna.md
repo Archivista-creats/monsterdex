@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
-  common_ja: テンレック
-  family: null
-  order: null
-  scientific: null
+  class: 哺乳綱（Mammalia）
+  order: アフリカトガリネズミ目（Afrosoricida）
+  family: テンレック科（Tenrecidae）
+  genus: セタテンレック属（Setifer）※例
+  species: ハリテンレック（Setifer setosus）※例
+  common_en: Greater Hedgehog Tenrec
+  common_ja: テンレック（例：ハリテンレック）
+  scientific: Setifer setosus
 tag_slugs:
 - hikari
 - toki
@@ -31,7 +33,6 @@ title: トルナ / Torna
 * **レアリティ**：★★☆☆☆（★2）
 
 ## 元動物
-
 テンレック
 
 ## 出現地域

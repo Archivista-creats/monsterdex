@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
-  common_ja: ハチドリ
-  family: null
-  order: null
-  scientific: null
+  class: 鳥綱（Aves）
+  order: アマツバメ目（Apodiformes）
+  family: ハチドリ科（Trochilidae）
+  genus: ミドリハチドリ属（Chlorostilbon）
+  species: アオノドハチドリ（Chlorostilbon melanorhynchus）
+  common_en: Green Hummingbird
+  common_ja: アオノドハチドリ
+  scientific: Chlorostilbon melanorhynchus
 tag_slugs:
 - kuukan
 - seireiju
@@ -28,7 +30,7 @@ title: 次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphir
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ハチドリ
+アオノハチドリ
 
 ## 出現地域
 * **主な生息地**：[カディレア歪界](../place/kadirea_warpzone.md)  
