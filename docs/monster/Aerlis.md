@@ -20,6 +20,7 @@ tags:
 - 精霊獣
 - シルファニル天空庭園
 title: アエルリス / Aerlis
+render_with_liquid: false
 ---
 
 # アエルリス（Aerlis）
