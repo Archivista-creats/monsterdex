@@ -1,10 +1,10 @@
----
+﻿---
 layout: default
-title: タグ: エルサリオ氷枝原
+title: 繧ｿ繧ｰ: 繧ｨ繝ｫ繧ｵ繝ｪ繧ｪ豌ｷ譫晏次
 permalink: /tags/elsario-frostbloom/
 ---
-# 🏷️ タグ「エルサリオ氷枝原」に関連するモンスター
+# 捷・・繧ｿ繧ｰ縲後お繝ｫ繧ｵ繝ｪ繧ｪ豌ｷ譫晏次縲阪↓髢｢騾｣縺吶ｋ繝｢繝ｳ繧ｹ繧ｿ繝ｼ
 
-- [霜夢を編む雪冠鳥 グラシアヴェルナ＝フロストヴェイル / Glaciaverna=Frostveil the Crowned Woven Frost](/monsterdex/monster/Glaciaverna=Frostveil.html)
-- [永結を凍らすもの カリュゼラ＝クリオフェイン / Kalyzera=Cryofane the Frostbound Oath](/monsterdex/monster/Kalyzera=Cryofane.html)
-- [サモレーテ / Samorete](/monsterdex/monster/Samorete.html)
+- [髴懷､｢繧堤ｷｨ繧髮ｪ蜀魑･ 繧ｰ繝ｩ繧ｷ繧｢繝ｴ繧ｧ繝ｫ繝奇ｼ昴ヵ繝ｭ繧ｹ繝医Χ繧ｧ繧､繝ｫ / Glaciaverna=Frostveil the Crowned Woven Frost](/monsterdex/monster/Glaciaverna=Frostveil.html)
+- [豌ｸ邨舌ｒ蜃阪ｉ縺吶ｂ縺ｮ 繧ｫ繝ｪ繝･繧ｼ繝ｩ・昴け繝ｪ繧ｪ繝輔ぉ繧､繝ｳ / Kalyzera=Cryofane the Frostbound Oath](/monsterdex/monster/Kalyzera=Cryofane.html)
+- [繧ｵ繝｢繝ｬ繝ｼ繝・/ Samorete](/monsterdex/monster/Samorete.html)

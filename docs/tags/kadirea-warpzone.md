@@ -1,10 +1,10 @@
----
+﻿---
 layout: default
-title: タグ: カディレア歪界
+title: 繧ｿ繧ｰ: 繧ｫ繝・ぅ繝ｬ繧｢豁ｪ逡・
 permalink: /tags/kadirea-warpzone/
 ---
-# 🏷️ タグ「カディレア歪界」に関連するモンスター
+# 捷・・繧ｿ繧ｰ縲後き繝・ぅ繝ｬ繧｢豁ｪ逡後阪↓髢｢騾｣縺吶ｋ繝｢繝ｳ繧ｹ繧ｿ繝ｼ
 
-- [焔層を裂くもの エグゾ＝サラマルク / Exo=Saramalc the Fracture Crawler](/monsterdex/monster/Exo=Saramalc.html)
-- [次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphirea the Dimensional Loom](/monsterdex/monster/Velti=Saphirea.html)
-- [ヴォルセリオン / Volcerion](/monsterdex/monster/Volcerion.html)
+- [辟泌ｱ､繧定｣ゅ￥繧ゅ・ 繧ｨ繧ｰ繧ｾ・昴し繝ｩ繝槭Ν繧ｯ / Exo=Saramalc the Fracture Crawler](/monsterdex/monster/Exo=Saramalc.html)
+- [谺｡蜈・ｒ郢斐ｋ邏狗ｿｼ陷るｳ･ 繝ｴ繧ｧ繝ｫ繝・ぅ・昴し繝斐Ξ繧｢ / Velti=Saphirea the Dimensional Loom](/monsterdex/monster/Velti=Saphirea.html)
+- [繝ｴ繧ｩ繝ｫ繧ｻ繝ｪ繧ｪ繝ｳ / Volcerion](/monsterdex/monster/Volcerion.html)

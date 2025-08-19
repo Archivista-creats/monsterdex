@@ -1,15 +1,15 @@
-# Reptilia（Class）
+﻿# Reptilia・・lass・・
 
-_元動物 / Reptilia_
+_蜈・虚迚ｩ / Reptilia_
 
 ---
 
-**登録元動物**：1
+**逋ｻ骭ｲ蜈・虚迚ｩ**・・
 
 
-[あ](#kana-あ) [か](#kana-か) [さ](#kana-さ) [た](#kana-た) [な](#kana-な) [は](#kana-は) [ま](#kana-ま) [や](#kana-や) [ら](#kana-ら) [わ](#kana-わ) [英数](#kana-en)
+[縺・(#kana-縺・ [縺犠(#kana-縺・ [縺評(#kana-縺・ [縺歉(#kana-縺・ [縺ｪ](#kana-縺ｪ) [縺ｯ](#kana-縺ｯ) [縺ｾ](#kana-縺ｾ) [繧Ь(#kana-繧・ [繧云(#kana-繧・ [繧従(#kana-繧・ [闍ｱ謨ｰ](#kana-en)
 
-<a id="kana-か"></a>
-## か
+<a id="kana-縺・></a>
+## 縺・
 
-- **カメレオン** — [風・土] [フロラテクス / Floratex](/monster/Floratex.md)
+- **繧ｫ繝｡繝ｬ繧ｪ繝ｳ** 窶・[鬚ｨ繝ｻ蝨歉 [繝輔Ο繝ｩ繝・け繧ｹ / Floratex](/monster/Floratex.md)
