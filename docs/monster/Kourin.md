@@ -3,7 +3,7 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: 魚
+  class: 魚類
   family: Cyprinidae
   order: Cypriniformes
   genus: Cyprinus

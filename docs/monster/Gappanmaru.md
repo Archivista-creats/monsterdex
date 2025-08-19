@@ -3,7 +3,7 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: 魚
+  class: 魚類
   family: Oxudercidae
   order: Gobiiformes
   genus: Periophthalmus

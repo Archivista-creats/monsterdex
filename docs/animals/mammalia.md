@@ -5,6 +5,7 @@
 - **アルプスアイベックス（アルプスヤギ）**：[ グラヴィトール / Gravitore ](../monster/Gravitore.md)
 - **アルマジロ**：[ ロルマグナ / Rolmagna ](../monster/Rolmagna.md)
 - **アンゴラウサギ**：[ フィルミェル / Filmiel ](../monster/Filmiel.md)
+- **イッカク**：[ 灼凍の角帝ネヴァ＝カリュオス / Neva=Caryuos the Bifrost Emperor ](../monster/Neva=Caryuos.md)
 - **オオアリクイ**：[ タングロス / Tangloss ](../monster/Tangloss.md)
 - **オオアルマジロ**：[ 大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lithic Verse ](../monster/Gara=Roseolum.md)
 - **オオコウモリ（ラージフライングフォックス）**：[ 黒日を戴くもの ソル＝ノクティリカ / Sol=Noctilica the Eclipse Sovereign ](../monster/Sol=Noctilica.md)

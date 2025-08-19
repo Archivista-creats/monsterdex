@@ -3,12 +3,14 @@ categories:
 - モンスター
 layout: monster
 origin:
-  class: TODO_Class
-  common_en: null
+  class: 哺乳類
+  order: 偶蹄目
+  family: イッカク科
+  genus: イッカク属
+  species: Monodon monoceros
+  common_en: Narwhal
   common_ja: イッカク
-  family: null
-  order: null
-  scientific: null
+  scientific: Monodon monoceros
 tag_slugs:
 - hi
 - mizu
@@ -31,7 +33,6 @@ title: 灼凍の角帝ネヴァ＝カリュオス / Neva=Caryuos the Bifrost Emp
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
 イッカク
 
 ## 出現地域
