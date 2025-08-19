@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｫ繧､繝ｭ繧ｹ貉ｯ貅懊∪繧雁ｸｯ
 permalink: /tags/kairos-thermal/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繝繝ｫ繝阪・貉ｿ蝨ｰ蟶ｯ・・urune_bog・・layout: place
 ---
 

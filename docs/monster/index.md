@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 origin:
   class: TODO_Class

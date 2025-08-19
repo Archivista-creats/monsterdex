@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繧ｯ繝ｫ繝槭・豢樒ｪ滂ｼ・ruma cave・・layout: place
 ---
 

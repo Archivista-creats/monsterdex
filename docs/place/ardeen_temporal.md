@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繧｢繝ｫ繝・ぅ繝ｼ繝ｳ髱呎凾逡鯉ｼ・rdeen Temporal・・layout: place
 ---
 

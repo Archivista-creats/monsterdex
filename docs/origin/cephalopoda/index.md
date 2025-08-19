@@ -1,4 +1,4 @@
-﻿# Cephalopoda・・lass・・
+# Cephalopoda・・lass・・
 
 _蜈・虚迚ｩ / Cephalopoda_
 

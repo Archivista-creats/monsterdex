@@ -1,4 +1,4 @@
-﻿---
+---
 title: クエルの影溜まり（kuel shadehollow）
 layout: place
 ---

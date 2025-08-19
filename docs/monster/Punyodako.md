@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
 - 繝｢繝ｳ繧ｹ繧ｿ繝ｼ
 layout: monster

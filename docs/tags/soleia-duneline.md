@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｽ繝ｬ繧､繧｢遐らｸ∝慍
 permalink: /tags/soleia-duneline/

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 髣・
 permalink: /tags/yami/

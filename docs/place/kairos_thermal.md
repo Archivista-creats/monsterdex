@@ -1,4 +1,4 @@
-﻿---
+---
 title: カイロス湯溜まり帯（kairos thermal）
 layout: place
 ---

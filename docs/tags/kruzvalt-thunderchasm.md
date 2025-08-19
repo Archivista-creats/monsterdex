@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｯ繝ｫ繝ｼ繧ｺ繝ｴ繧｡繝ｫ繝磯峭蟲｡
 permalink: /tags/kruzvalt-thunderchasm/

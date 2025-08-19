@@ -1,4 +1,4 @@
-﻿# Reptilia・・lass・・
+# Reptilia・・lass・・
 
 _蜈・虚迚ｩ / Reptilia_
 

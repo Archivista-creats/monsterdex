@@ -1,4 +1,4 @@
-﻿---
+---
 title: ネフィル胞子林（nefil sporewood）
 layout: place
 ---

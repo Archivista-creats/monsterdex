@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繧｢繝ｫ繝ｴ繧ｧ繝ｳ豬ｷ蟯ｸ・・rven cove・・layout: place
 ---
 

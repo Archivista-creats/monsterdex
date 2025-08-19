@@ -1,4 +1,4 @@
-﻿---
+---
 title: クルーズヴァルト雷峡（kruzvalt thunderchasm）
 layout: place
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｮ繝ｳ繝・Ν縺ｮ豌ｴ縺溘∪繧・
 permalink: /tags/gindel-pond/

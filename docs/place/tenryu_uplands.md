@@ -1,4 +1,4 @@
-﻿---
+---
 title: テンリュウ丘帯（tenryu uplands）
 layout: place
 ---

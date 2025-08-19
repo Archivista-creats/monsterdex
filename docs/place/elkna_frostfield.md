@@ -1,4 +1,4 @@
-﻿---
+---
 title: エルクナ霜野（elkna frostfield）
 layout: place
 ---

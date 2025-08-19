@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧｢繝ｫ繝・ぅ繝ｼ繝ｳ髱呎凾逡・
 permalink: /tags/ardeen-temporal/

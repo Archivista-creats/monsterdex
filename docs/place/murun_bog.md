@@ -1,4 +1,4 @@
-﻿---
+---
 title: ムルネ毒沼（murune bog）
 layout: place
 ---

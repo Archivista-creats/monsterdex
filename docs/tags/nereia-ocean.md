@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繝阪Ξ繧､繧｢豬ｷ蜴・
 permalink: /tags/nereia-ocean/

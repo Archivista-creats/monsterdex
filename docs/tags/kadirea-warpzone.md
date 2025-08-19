@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｫ繝・ぅ繝ｬ繧｢豁ｪ逡・
 permalink: /tags/kadirea-warpzone/

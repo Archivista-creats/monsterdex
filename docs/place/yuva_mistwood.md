@@ -1,4 +1,4 @@
-﻿---
+---
 title: ユーヴァの薄霧林地（yuva mistwood）
 layout: place
 ---

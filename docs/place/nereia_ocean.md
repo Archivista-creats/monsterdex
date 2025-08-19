@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繝阪Ξ繧､繧｢豬ｷ蜴滂ｼ・ereia ocean・・layout: place
 ---
 

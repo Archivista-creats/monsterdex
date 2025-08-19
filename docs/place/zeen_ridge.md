@@ -1,4 +1,4 @@
-﻿---
+---
 title: ゼーン丘陵地（zeen ridge）
 layout: place
 ---

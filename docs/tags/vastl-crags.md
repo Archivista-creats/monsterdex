@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繝ｴ繧｡繧ｹ繝医Ν蟯ｩ遯溷ｸｯ
 permalink: /tags/vastl-crags/

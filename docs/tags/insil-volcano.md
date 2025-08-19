@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧､繝ｳ繧ｷ繝ｫ轣ｫ螻ｱ蝨・
 permalink: /tags/insil-volcano/

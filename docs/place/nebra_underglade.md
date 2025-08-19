@@ -1,4 +1,4 @@
-﻿---
+---
 title: ネブラの地底湖窟（nebra underglade）
 layout: place
 ---

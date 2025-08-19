@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｯ繧ｨ繝ｫ縺ｮ蠖ｱ貅懊∪繧・
 permalink: /tags/kuel-shadepool/

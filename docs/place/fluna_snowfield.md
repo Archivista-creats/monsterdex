@@ -1,4 +1,4 @@
-﻿---
+---
 title: フルナ雪原（fluna snowfield）
 layout: place
 ---

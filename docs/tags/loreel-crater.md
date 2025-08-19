@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繝ｭ繝ｪ繝ｼ繝ｫ縺ｮ豬・＞轣ｫ蜿｣
 permalink: /tags/loreel-crater/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繝ｭ繝ｪ繝ｼ繝ｫ縺ｮ豬・＞轣ｫ蜿｣・・oreel crater・・layout: place
 ---
 

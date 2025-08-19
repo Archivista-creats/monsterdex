@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繝ｩ繝峨ぇ繝翫・貊晢ｼ・raduna falls・・layout: place
 ---
 

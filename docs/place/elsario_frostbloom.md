@@ -1,4 +1,4 @@
-﻿---
+---
 title: エルサリオ氷枝原（elsario frostbloom）
 layout: place
 ---

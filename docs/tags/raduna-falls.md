@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繝ｩ繝峨ぇ繝翫・貊・
 permalink: /tags/raduna-falls/

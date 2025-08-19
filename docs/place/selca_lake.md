@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繧ｻ繝ｫ繧ｫ縺ｮ貉也部・・elca lake・・layout: place
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ソレイア砂縁地（soleia duneline）
 layout: place
 ---

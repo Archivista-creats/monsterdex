@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 鬚ｨ
 permalink: /tags/kaze/

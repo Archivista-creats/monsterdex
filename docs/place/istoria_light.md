@@ -1,4 +1,4 @@
-﻿---
+---
 title: 繧､繧ｹ繝医Μ繧｢譏滓匕谿ｿ・・storia light・・layout: place
 ---
 

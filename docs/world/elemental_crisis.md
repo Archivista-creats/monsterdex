@@ -1,4 +1,4 @@
-﻿# 🌌 エレメンタルクライシス（Elemental Crisis）
+# 🌌 エレメンタルクライシス（Elemental Crisis）
 
 ## 概要
 

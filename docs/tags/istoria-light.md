@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧､繧ｹ繝医Μ繧｢譏滓匕谿ｿ
 permalink: /tags/istoria-light/

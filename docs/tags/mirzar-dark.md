@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繝溘Ν繧ｶ繝ｫ譁ｭ鄂ｪ蝓・
 permalink: /tags/mirzar-dark/

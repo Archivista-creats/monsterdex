@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繝繝ｫ繝肴ｯ呈ｲｼ
 permalink: /tags/murune_bog/

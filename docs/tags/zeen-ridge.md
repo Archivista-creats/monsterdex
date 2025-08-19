@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 繧ｿ繧ｰ: 繧ｼ繝ｼ繝ｳ荳倬匏蝨ｰ
 permalink: /tags/zeen-ridge/

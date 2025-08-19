@@ -1,4 +1,4 @@
-﻿---
+---
 title: バレッタの鳴岩谷（baretta echo）
 layout: place
 ---

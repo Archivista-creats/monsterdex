@@ -1,4 +1,4 @@
-﻿# Mammalia・・lass・・
+# Mammalia・・lass・・
 
 _蜈・虚迚ｩ / Mammalia_
 
