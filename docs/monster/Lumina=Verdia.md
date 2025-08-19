@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Balaenopteridae
+  order: Cetacea
+  genus: Balaenoptera
+  species: Balaenoptera musculus
+  common_en: Blue whale
+  common_ja: シロナガスクジラ
+  scientific: Balaenoptera musculus
 tag_slugs:
 - mizu
 - seireiju
@@ -21,7 +30,7 @@ title: 命潮を謳う聖鯨 ルミナ＝ヴェルディア / Lumina=Verdia the 
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-クジラ（古代海洋種）
+シロナガスクジラ
 
 ## 出現地域
 * **主な生息地**：[ネレイア海原](../place/nereia_ocean.md)  

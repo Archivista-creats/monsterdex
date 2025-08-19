@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 両生類
+  family: Hylidae
+  order: Anura
+  genus: Dryophytes
+  species: Dryophytes japonicus
+  common_en: Japanese tree frog
+  common_ja: ニホンアマガエル
+  scientific: Dryophytes japonicus
 tag_slugs:
 - mizu
 - henseiju
@@ -21,7 +30,7 @@ title: ポチョボン / Pochobon
 - レアリティ：★☆☆☆☆
 
 ## 元動物
-アマガエル
+ニホンアマガエル
 
 ## 生息地
 [ギンデルの水たまり](../place/gindel_pond.md)

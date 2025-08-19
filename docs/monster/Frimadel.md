@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 両生類
+  family: Hylidae
+  order: Anura
+  genus: Boana
+  species: Boana punctata
+  common_en: Polka-dot tree frog (or) Dotted tree frog
+  common_ja: ヒョウモンアマガエル
+  scientific: Boana punctata
 tag_slugs:
 - mizu
 - henseiju
@@ -22,8 +31,7 @@ title: フリマデル / Frimadel
 * **レアリティ**：★★☆☆☆(2)
 
 ## 元動物
-
-カエル
+ヒョウモンアマガエル
 
 ## 出現地域
 

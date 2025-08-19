@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 両生類
+  family: Salamandridae
+  order: Urodela
+  genus: Cynops
+  species: Cynops pyrrhogaster
+  common_en: Japanese fire belly newt
+  common_ja: アカハライモリ
+  scientific: Cynops pyrrhogaster
 tag_slugs:
 - hi
 - henseiju
@@ -24,8 +33,7 @@ title: ユポコ / Yupoko
 ---
 
 ## 元動物
-
-アカハライモリ（温泉地にも生息する両生類）
+アカハライモリ
 
 ---
 

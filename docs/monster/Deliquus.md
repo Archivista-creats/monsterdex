@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 魚
+  family: Latimeriidae
+  order: Coelacanthiformes
+  genus: Latimeria
+  species: Latimeria chalumnae
+  common_en: Coelacanth
+  common_ja: シーラカンス
+  scientific: Latimeria chalumnae
 tag_slugs:
 - kuukan
 - henseiju
@@ -22,7 +31,6 @@ title: ディリクアス / Deliquus
 * **レアリティ**：★★★★4
 
 ## 元動物
-
 シーラカンス
 
 ## 出現地域

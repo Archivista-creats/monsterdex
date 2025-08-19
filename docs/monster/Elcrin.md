@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Spheniscidae
+  order: Sphenisciformes
+  genus: Aptenodytes
+  species: Aptenodytes forsteri
+  common_en: Emperor penguin
+  common_ja: コウテイペンギン
+  scientific: Aptenodytes forsteri
 tag_slugs:
 - mizu
 - koori
@@ -26,7 +35,6 @@ title: エルクリン / Elcrin
 ---
 
 ## 元動物
-
 皇帝ペンギン
 
 ---

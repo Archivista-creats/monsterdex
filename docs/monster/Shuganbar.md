@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Felidae
+  order: Carnivora
+  genus: Panthera
+  species: Panthera tigris
+  common_en: White tiger (Bengal tiger leucistic morph)
+  common_ja: ホワイトタイガー
+  scientific: Panthera tigris tigris (leucistic)
 tag_slugs:
 - kaminari
 - henseiju
@@ -23,7 +32,7 @@ title: シュガンバル / Shuganbar
 
 ## 元動物
 
-ホワイトタイガー（ベンガルトラの白変種）
+ホワイトタイガー
 
 ## 出現地域
 

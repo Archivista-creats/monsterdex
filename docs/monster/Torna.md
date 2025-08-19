@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Tenrecidae
+  order: Afrosoricida
+  genus: Tenrec
+  species: Tenrec ecaudatus
+  common_en: Common tenrec
+  common_ja: テンレック
+  scientific: Tenrec ecaudatus
 tag_slugs:
 - hikari
 - toki
@@ -24,7 +33,6 @@ title: トルナ / Torna
 * **レアリティ**：★★☆☆☆（★2）
 
 ## 元動物
-
 テンレック
 
 ## 出現地域

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 軟体動物
+  family: Chromodorididae
+  order: Nudibranchia
+  genus: Hypselodoris
+  species: Hypselodoris bullocki
+  common_en: Bullock’s hypselodoris
+  common_ja: シンデレラウミウシ
+  scientific: Hypselodoris bullocki
 tag_slugs:
 - mizu
 - henseiju
@@ -24,8 +33,7 @@ title: スリムリーク / Slimleak
 ---
 
 ## 元動物
-
-ウミウシ（アオウミウシ系）
+シンデレラウミウシ
 
 ---
 

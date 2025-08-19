@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Ailuridae
+  order: Carnivora
+  genus: Ailurus
+  species: Ailurus fulgens
+  common_en: Red panda
+  common_ja: レッサーパンダ
+  scientific: Ailurus fulgens
 tag_slugs:
 - mizu
 - henseiju
@@ -22,7 +31,6 @@ title: スイレトリ / Suilétory
 * **レアリティ**：★★★3
 
 ## 元動物
-
 レッサーパンダ
 
 ## 出現地域

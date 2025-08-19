@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Leporidae
+  order: Lagomorpha
+  genus: Oryctolagus
+  species: Oryctolagus cuniculus (Angora variety)
+  common_en: Angora rabbit
+  common_ja: アンゴラウサギ
+  scientific: Oryctolagus cuniculus (Angora)
 tag_slugs:
 - hikari
 - henseiju
@@ -22,7 +31,6 @@ title: フィルミェル / Filmiel
 * **レアリティ**：★★2
 
 ## 元動物
-
 アンゴラウサギ
 
 ## 出現地域

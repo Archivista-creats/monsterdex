@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 魚
+  family: Clupeidae
+  order: Clupeiformes
+  genus: Sardinops
+  species: Sardinops sagax
+  common_en: Pacific sardine
+  common_ja: マイワシ
+  scientific: Sardinops sagax
 tag_slugs:
 - mizu
 - hikari
@@ -23,7 +32,7 @@ title: シルバネラ / Silvanella
 * **レアリティ**：★☆☆☆☆(1)
 
 ## 元動物
-イワシ（銀鱗小魚系）
+マイワシ
 
 ## 出現地域
 * **主な生息地**：[アルヴェン海岸](../place/arven_cove.md)

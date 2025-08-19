@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 爬虫類
+  family: Colubridae
+  order: Squamata
+  genus: Lycodon
+  species: Lycodon semicarinatus
+  common_en: Ryukyu odd-tooth snake
+  common_ja: アカマタ
+  scientific: Lycodon semicarinatus
 tag_slugs:
 - doku
 - seireiju
@@ -22,8 +31,7 @@ title: 静毒を謡う蓮蛇霊 ヴェナルストラ＝マイアチャント / 
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-アカマタ（湿地性毒蛇）
+アカマタ
 
 ## 出現地域
 

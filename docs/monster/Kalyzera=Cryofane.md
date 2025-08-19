@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Canidae
+  order: Carnivora
+  genus: Canis
+  species: Canis lupus arctos
+  common_en: Arctic wolf
+  common_ja: シロイヌワシオオカミ（ホッキョクオオカミ）
+  scientific: Canis lupus arctos
 tag_slugs:
 - koori
 - toki
@@ -24,8 +33,7 @@ title: 永結を凍らすもの カリュゼラ＝クリオフェイン / Kalyze
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-オオカミ（雪原棲の白狼）
+シロイヌワシオオカミ（ホッキョクオオカミ）
 
 ## 出現地域
 

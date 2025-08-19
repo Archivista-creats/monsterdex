@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Sciuridae
+  order: Rodentia
+  genus: Glaucomys
+  species: Glaucomys volans
+  common_en: Southern flying squirrel
+  common_ja: モモンガ（ヒメモモンガ）
+  scientific: Glaucomys volans
 tag_slugs:
 - hi
 - henseiju
@@ -22,8 +31,7 @@ title: ススビトン / Sootbiton
 * **レアリティ**：★☆☆☆☆(1)
 
 ## 元動物
-
-モモンガ
+モモンガ（ヒメモモンガ）
 
 ## 出現地域
 

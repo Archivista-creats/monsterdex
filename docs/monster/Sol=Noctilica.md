@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Pteropodidae
+  order: Chiroptera
+  genus: Pteropus
+  species: Pteropus vampyrus
+  common_en: Large flying fox
+  common_ja: オオコウモリ（ラージフライングフォックス）
+  scientific: Pteropus vampyrus
 tag_slugs:
 - hikari
 - yami
@@ -23,7 +32,7 @@ title: 黒日を戴くもの ソル＝ノクティリカ / Sol=Noctilica the Ecl
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-コウモリ（大型吸血種）
+コウオオコウモリ（ラージフライングフォックス）
 
 ## 出現地域
 * **主な生息地**：[ミルザル断罪域](../place/mirzar_dark.md)  
@@ -31,11 +40,11 @@ title: 黒日を戴くもの ソル＝ノクティリカ / Sol=Noctilica the Ecl
 
 ---
 
-## シルエット・外見描写
-> その姿は“黒き太陽の王”と称される。  
-> 双翼は月蝕のような血黒と銀灰の波紋を広げ、羽ばたくたびに視界が反転する。  
-> 巨躯は光と闇の境界で揺らぎ、瞳なき顔面からは終焉の祈りが滲み出る。  
-> 背より伸びる螺旋状の環は“時間なき祝祭”を象徴し、見上げた者の影を喰らう。
+	## シルエット・外見描写
+	> その姿は“黒き太陽の王”と称される。  
+	> 双翼は月蝕のような血黒と銀灰の波紋を広げ、羽ばたくたびに視界が反転する。  
+	> 巨躯は光と闇の境界で揺らぎ、瞳なき顔面からは終焉の祈りが滲み出る。  
+	> 背より伸びる螺旋状の環は“時間なき祝祭”を象徴し、見上げた者の影を喰らう。
 
 ---
 

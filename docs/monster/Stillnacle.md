@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 軟体動物
+  family: Strongylocentrotidae
+  order: Echinoida
+  genus: Strongylocentrotus
+  species: Strongylocentrotus nudus
+  common_en: Naked sea urchin
+  common_ja: バフンウニ
+  scientific: Strongylocentrotus nudus
 tag_slugs:
 - mizu
 - henseiju
@@ -22,8 +31,7 @@ title: スティルナクル / Stillnacle
 * **レアリティ**：★★★3
 
 ## 元動物
-
-ウニ（バフンウニを主とする種）
+バフンウニ
 
 ## 出現地域
 

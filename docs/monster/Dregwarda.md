@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 爬虫類
+  family: Crocodylidae
+  order: Crocodylia
+  genus: Crocodylus
+  species: Crocodylus niloticus
+  common_en: Nile crocodile
+  common_ja: ナイルワニ
+  scientific: Crocodylus niloticus
 tag_slugs:
 - tsuchi
 - yami
@@ -26,8 +35,7 @@ title: ドレグワーダ / Dregwarda
 ---
 
 ## 元動物
-
-ワニ（ナイルワニをベースとした大型種）
+ナイルワニ
 
 ---
 

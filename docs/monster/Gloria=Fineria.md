@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 昆虫
+  family: Nymphalidae
+  order: Lepidoptera
+  genus: Morpho
+  species: Morpho menelaus
+  common_en: Menelaus blue morpho
+  common_ja: モルフォチョウ
+  scientific: Morpho menelaus
 tag_slugs:
 - hikari
 - kinju
@@ -21,7 +30,7 @@ title: 過剰なる祝祭 グロリア＝フィネリア / Gloria=Fineria the Be
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-モルフォチョウ（極彩光翼種）
+モルフォチョウ
 
 ## 出現地域
 * **主な生息地**：[イストリア星晶殿](../place/istoria_light.md)  

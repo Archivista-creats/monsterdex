@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Aegithalidae
+  order: Passeriformes
+  genus: Aegithalos
+  species: Aegithalos caudatus
+  common_en: Long-tailed tit (Hokkaido subspecies)
+  common_ja: シマエナガ
+  scientific: Aegithalos caudatus
 tag_slugs:
 - hikari
 - kaze
@@ -27,7 +36,7 @@ title: シュリエリィ / Shurierii
 
 ## 元動物
 
-シマエナガ（エナガ科の小型鳥）
+シマエナガ
 
 ---
 

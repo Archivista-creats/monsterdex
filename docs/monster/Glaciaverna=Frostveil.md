@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Strigidae
+  order: Strigiformes
+  genus: Bubo
+  species: Bubo scandiacus
+  common_en: Snowy owl
+  common_ja: シロフクロウ
+  scientific: Bubo scandiacus
 tag_slugs:
 - koori
 - seireiju
@@ -22,8 +31,7 @@ title: 霜夢を編む雪冠鳥 グラシアヴェルナ＝フロストヴェイ
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-シロフクロウ（極地性猛禽類）
+シロフクロウ
 
 ## 出現地域
 

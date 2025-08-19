@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Cercopithecidae
+  order: Primates
+  genus: Macaca
+  species: Macaca fuscata
+  common_en: Japanese macaque
+  common_ja: ニホンザル
+  scientific: Macaca fuscata
 tag_slugs:
 - hi
 - toki
@@ -26,7 +35,6 @@ title: センギエン / Sengien
 ---
 
 ## 元動物
-
 ニホンザル
 
 ---

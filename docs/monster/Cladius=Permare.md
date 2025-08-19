@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 軟体動物
+  family: Ulmaridae
+  order: Semaeostomeae
+  genus: Nemopilema
+  species: Nemopilema nomurai
+  common_en: Nomura's jellyfish
+  common_ja: エチゼンクラゲ
+  scientific: Nemopilema nomurai
 tag_slugs:
 - kaze
 - mizu
@@ -23,7 +32,7 @@ title: 空海を繋ぐもの クラディウス＝ペルマレ / Cladius=Permare
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-クラゲ（大深海浮遊種）
+エチゼンクラゲ
 
 ## 出現地域
 * **主な生息地**：[シルファニル天空庭園](../place/sylphanil_sky.md)  

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 昆虫
+  family: Formicidae
+  order: Hymenoptera
+  genus: Camponotus
+  species: Camponotus japonicus
+  common_en: Japanese carpenter ant
+  common_ja: クロオオアリ
+  scientific: Camponotus japonicus
 tag_slugs:
 - hikari
 - yami
@@ -24,8 +33,7 @@ title: ルクノクト / Lucnoct
 * **レアリティ**：★☆☆☆☆（1）
 
 ## 元動物
-
-アリ（特にクロオオアリ）
+クロオオアリ
 
 ## 出現地域
 

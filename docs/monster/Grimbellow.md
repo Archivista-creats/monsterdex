@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Ursidae
+  order: Carnivora
+  genus: Ursus
+  species: Ursus thibetanus
+  common_en: Asiatic black bear
+  common_ja: ツキノワグマ
+  scientific: Ursus thibetanus
 tag_slugs:
 - yami
 - henseiju
@@ -22,8 +31,7 @@ title: グリムベロウ / Grimbellow
 * **レアリティ**：★★★★☆(4)
 
 ## 元動物
-
-クマ
+ツキノワグマ
 
 ## 出現地域
 

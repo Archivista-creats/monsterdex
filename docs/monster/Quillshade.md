@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Hystricidae
+  order: Rodentia
+  genus: Hystrix
+  species: Hystrix brachyura
+  common_en: Malayan porcupine
+  common_ja: ヤマアラシ
+  scientific: Hystrix brachyura
 tag_slugs:
 - mizu
 - yami
@@ -24,7 +33,6 @@ title: クイルシェイド / Quillshade
 * **レアリティ**：★★☆☆☆（★2）
 
 ## 元動物
-
 ヤマアラシ
 
 ## 出現地域

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 魚
+  family: Oxudercidae
+  order: Gobiiformes
+  genus: Periophthalmus
+  species: Periophthalmus modestus
+  common_en: Mudskipper
+  common_ja: ムツゴロウ
+  scientific: Periophthalmus modestus
 tag_slugs:
 - tsuchi
 - henseiju
@@ -24,8 +33,7 @@ title: ガッパナマル / Gappanmaru
 ---
 
 ## 元動物
-
-ムツゴロウ（ハゼ科）
+ムツゴロウ
 
 ---
 

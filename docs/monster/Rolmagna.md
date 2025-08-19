@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Dasypodidae
+  order: Cingulata
+  genus: Dasypus
+  species: Dasypus novemcinctus
+  common_en: Nine-banded armadillo
+  common_ja: アルマジロ
+  scientific: Dasypus novemcinctus
 tag_slugs:
 - tsuchi
 - henseiju
@@ -22,7 +31,6 @@ title: ロルマグナ / Rolmagna
 * **レアリティ**：★★★☆☆(3)
 
 ## 元動物
-
 アルマジロ
 
 ## 出現地域

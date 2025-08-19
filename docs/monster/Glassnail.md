@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 甲殻類
+  family: Buthidae
+  order: Scorpiones
+  genus: Leiurus
+  species: Leiurus quinquestriatus
+  common_en: Deathstalker
+  common_ja: デスストーカー
+  scientific: Leiurus quinquestriatus
 tag_slugs:
 - tsuchi
 - hi
@@ -24,8 +33,7 @@ title: グラスネイル / Glassnail
 * **レアリティ**：★★☆☆☆（★2）
 
 ## 元動物
-
-サソリ
+デスストーカーサソリ
 
 ## 出現地域
 

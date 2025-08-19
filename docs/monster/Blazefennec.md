@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Canidae
+  order: Carnivora
+  genus: Vulpes
+  species: Vulpes zerda
+  common_en: Fennec fox
+  common_ja: フェネック
+  scientific: Vulpes zerda
 tag_slugs:
 - hi
 - tsuchi
@@ -24,8 +33,7 @@ title: フェノレイド / Blazefennec
 * **レアリティ**：★★★☆☆（★3）
 
 ## 元動物
-
-フェネック（スナギツネ）
+フェネック
 
 ## 出現地域
 

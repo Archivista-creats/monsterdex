@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 昆虫
+  family: Membracidae
+  order: Hemiptera
+  genus: Bocydium
+  species: Bocydium globulare
+  common_en: Globular-headed treehopper
+  common_ja: ツノゼミ
+  scientific: Bocydium globulare
 tag_slugs:
 - doku
 - kaze
@@ -27,7 +36,7 @@ title: スヴィロネス / Sviloness
 
 ## 元動物
 
-ツノゼミ（擬葉昆虫）
+ツノゼミ
 
 ---
 

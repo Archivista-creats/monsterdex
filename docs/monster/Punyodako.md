@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 軟体動物
+  family: Opisthoteuthidae
+  order: Octopoda
+  genus: Opisthoteuthis
+  species: Opisthoteuthis depressa
+  common_en: Dumbo octopus
+  common_ja: メンダコ
+  scientific: Opisthoteuthis depressa
 tag_slugs:
 - mizu
 - henseiju
@@ -24,8 +33,7 @@ title: プニョダコ / Punyodako
 ---
 
 ## 元動物
-
-メンダコ（深海性軟体動物）
+メンダコ
 
 ---
 

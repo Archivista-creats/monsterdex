@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Sciuridae
+  order: Rodentia
+  genus: Petaurista
+  species: Petaurista alborufus
+  common_en: Red and white giant flying squirrel
+  common_ja: アカギリモモンガ
+  scientific: Petaurista alborufus
 tag_slugs:
 - hikari
 - kaze
@@ -13,8 +22,10 @@ tags:
 - 精霊獣
 - シルファニル天空庭園
 title: アエルリス / Aerlis
+render_with_liquid: false
 ---
 
+{% raw %
 # アエルリス（Aerlis）
 
 ## 分類・属性・レアリティ
@@ -23,7 +34,7 @@ title: アエルリス / Aerlis
 * **レアリティ**：★★★★★(3)
 
 ## 元動物
-リス（モモンガ系滑空種）
+アカギリモモンガ
 
 ## 出現地域
 * **主な生息地**：[シルファニル天空庭園](../place/sylphanil_sky.md)
@@ -72,3 +83,4 @@ title: アエルリス / Aerlis
 > 日没直後、浮遊花弁の揺らぎに導かれるように現れた個体は、静かに滑空を始めた。  
 > その光跡は人々の足元に虹の輪を描き、誰もが涙して空を仰いだ。  
 > あれはただのモンスターではない。まさしく“神の気配”だと、私は感じた。」
+{% endraw %}

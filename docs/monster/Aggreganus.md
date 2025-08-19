@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Canidae
+  order: Carnivora
+  genus: Canis
+  species: Canis lupus familiaris (Samoyed)
+  common_en: サモエド
+  common_ja: サモエド
+  scientific: Canis lupus familiaris (Samoyed)
 tag_slugs:
 - kaze
 - mizu
@@ -23,7 +32,7 @@ title: アグレガヌス / Aggreganus
 * **レアリティ**：★★(2)
 
 ## 元動物
-犬（古代戦犬系統）
+サモエド
 
 ## 出現地域
 * **主な生息地**：[セルカの湖畔](../place/selca_lake.md)

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Hippopotamidae
+  order: Artiodactyla
+  genus: Hippopotamus
+  species: Hippopotamus amphibius
+  common_en: Common hippopotamus
+  common_ja: カバ
+  scientific: Hippopotamus amphibius
 tag_slugs:
 - kaminari
 - kinju
@@ -22,8 +31,7 @@ title: 天罰を刻むもの ゼグルアス＝アグレス / Zegluas=Aggress th
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-カバ（河馬）
+カバ
 
 ## 出現地域
 

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 両生類
+  family: Bufonidae
+  order: Anura
+  genus: Bufo
+  species: Bufo japonicus
+  common_en: Japanese common toad
+  common_ja: ヒキガエル（ニホンヒキガエル）
+  scientific: Bufo japonicus
 tag_slugs:
 - hi
 - kuukan
@@ -26,8 +35,7 @@ title: フラジアル / Flarzial
 ---
 
 ## 元動物
-
-ヒキガエル
+ヒキガエル（ニホンヒキガエル）
 
 ---
 

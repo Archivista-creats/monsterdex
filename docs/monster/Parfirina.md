@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 魚
+  family: Cyprinidae
+  order: Cypriniformes
+  genus: Carassius
+  species: Carassius auratus
+  common_en: Ping-pong pearl goldfish
+  common_ja: ピンポンパール
+  scientific: Carassius auratus (Ping-pong pearl variety)
 tag_slugs:
 - mizu
 - hikari
@@ -26,8 +35,7 @@ title: パルフィリナ / Parfirina
 ---
 
 ## 元動物
-
-ピンポンパール（金魚種）
+ピンポンパール
 
 ---
 

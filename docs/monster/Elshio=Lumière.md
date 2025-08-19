@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Phasianidae
+  order: Galliformes
+  genus: Pavo
+  species: Pavo cristatus
+  common_en: Indian peafowl
+  common_ja: インドクジャク
+  scientific: Pavo cristatus
 tag_slugs:
 - hikari
 - seireiju
@@ -21,7 +30,7 @@ title: 光環を掲く聖輝孔雀 エルシオ＝リュミエル / Elshio=Lumi�
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-インドクジャク（極彩色の大型鳥類）
+インドクジャク
 
 ## 出現地域
 * **主な生息地**：[イストリア星晶殿](../place/istoria_light.md)  

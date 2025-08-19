@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Chlamyphoridae
+  order: Cingulata
+  genus: Priodontes
+  species: Priodontes maximus
+  common_en: Giant armadillo
+  common_ja: オオアルマジロ
+  scientific: Priodontes maximus
 tag_slugs:
 - tsuchi
 - seireiju
@@ -21,7 +30,7 @@ title: 大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lit
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-アルマジロ（大型地中棲種）
+オオアルマジロ
 
 ## 出現地域
 * **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  

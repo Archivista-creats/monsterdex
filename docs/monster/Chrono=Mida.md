@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 軟体動物
+  family: Octopodidae
+  order: Octopoda
+  genus: Enteroctopus
+  species: Enteroctopus dofleini
+  common_en: Giant Pacific octopus
+  common_ja: ミズダコ
+  scientific: Enteroctopus dofleini
 tag_slugs:
 - toki
 - mu
@@ -23,7 +32,7 @@ title: 時無を喰らうもの クロノ＝ミーダ / Chrono=Mida the Void Spi
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-タコ（深海性の大型種）
+ミズダコ
 
 ## 出現地域
 * **主な生息地**：[アルディーン静時界](../place/ardeen_temporal.md)  

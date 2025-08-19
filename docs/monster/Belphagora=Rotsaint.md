@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Casuariidae
+  order: Casuariiformes
+  genus: Casuarius
+  species: Casuarius casuarius
+  common_en: Southern cassowary
+  common_ja: ヒクイドリ
+  scientific: Casuarius casuarius
 tag_slugs:
 - doku
 - yami
@@ -24,8 +33,7 @@ title: 呪腐を謡うもの ベルファゴラ＝ロットセイント / Belpha
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-ヒクイドリ（大型地上鳥類）
+ヒクイドリ
 
 ## 出現地域
 

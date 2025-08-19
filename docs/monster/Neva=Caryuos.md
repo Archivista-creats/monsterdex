@@ -2,6 +2,13 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: TODO_Class
+  common_en: null
+  common_ja: イッカク
+  family: null
+  order: null
+  scientific: null
 tag_slugs:
 - hi
 - mizu
@@ -25,7 +32,7 @@ title: 灼凍の角帝ネヴァ＝カリュオス / Neva=Caryuos the Bifrost Emp
 
 ## 元動物
 
-イッカク（Narwhal）
+イッカク
 
 ## 出現地域
 

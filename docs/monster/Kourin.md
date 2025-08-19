@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 魚
+  family: Cyprinidae
+  order: Cypriniformes
+  genus: Cyprinus
+  species: Cyprinus rubrofuscus
+  common_en: Koi (platinum ogon)
+  common_ja: コイ
+  scientific: Cyprinus rubrofuscus (Platinum ogon variety)
 tag_slugs:
 - mizu
 - hikari
@@ -24,8 +33,7 @@ title: コウリン / Kourin
 * **レアリティ**：★★★☆☆（★3）
 
 ## 元動物
-
-鯉（コイ）
+コイ
 
 ## 出現地域
 

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 爬虫類
+  family: Iguanidae
+  order: Squamata
+  genus: Iguana
+  species: Iguana iguana
+  common_en: Green iguana
+  common_ja: アカハライグアナ（グリーンイグアナ）
+  scientific: Iguana iguana
 tag_slugs:
 - kaminari
 - seireiju
@@ -22,8 +31,7 @@ title: 雷音を翔る空尾竜 ヴァルシリオン＝サンダーヴェイル
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-
-アカハライグアナ（滑空能力を持つ樹上性大型爬虫類）
+アカハライグアナ（通称）／グリーンイグアナ
 
 ## 出現地域
 

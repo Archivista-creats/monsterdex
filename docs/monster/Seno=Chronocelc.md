@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 爬虫類
+  family: Testudinidae
+  order: Testudines
+  genus: Aldabrachelys
+  species: Aldabrachelys gigantea
+  common_en: Aldabra giant tortoise
+  common_ja: アルダブラゾウガメ
+  scientific: Aldabrachelys gigantea
 tag_slugs:
 - toki
 - seireiju
@@ -21,7 +30,7 @@ title: 永久を紡ぐ時甲獣 セノ＝クロノセルク / Seno=Chronocelc th
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-リクガメ（長寿性大型種）
+アルダブラゾウガメ
 
 ## 出現地域
 * **主な生息地**：[アルディーン静時界](../place/ardeen_temporal.md)  

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Camelidae
+  order: Artiodactyla
+  genus: Camelus
+  species: Camelus dromedarius
+  common_en: Dromedary camel
+  common_ja: ヒトコブラクダ
+  scientific: Camelus dromedarius
 tag_slugs:
 - hi
 - toki
@@ -24,7 +33,6 @@ title: ジリトルメス / JiritLumes
 * **レアリティ**：★★★★☆（★4）
 
 ## 元動物
-
 ヒトコブラクダ
 
 ## 出現地域

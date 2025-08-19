@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 軟体動物
+  family: Nautilidae
+  order: Nautilida
+  genus: Nautilus
+  species: Nautilus pompilius
+  common_en: Chambered nautilus
+  common_ja: オウムガイ
+  scientific: Nautilus pompilius
 tag_slugs:
 - mu
 - kinju
@@ -21,7 +30,7 @@ title: 記述を還すもの ゼイロ＝ナウティリス / Zeiro=Nautilus the
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-オウムガイ（古代軟体巻貝）
+オウムガイ
 
 ## 出現地域
 * **主な生息地**：[グリザリカ虚空域](../place/grizarica_void.md)  

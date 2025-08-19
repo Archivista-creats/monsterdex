@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Sciuridae
+  order: Rodentia
+  genus: Sciurus
+  species: Sciurus vulgaris
+  common_en: Eurasian red squirrel
+  common_ja: ヨーロッパアカリス
+  scientific: Sciurus vulgaris
 tag_slugs:
 - kaze
 - henseiju
@@ -22,8 +31,7 @@ title: モモルン / momorun
 * **レアリティ**：★☆☆☆☆(1)
 
 ## 元動物
-
-リス
+ヨーロッパアカリス
 
 ## 出現地域
 

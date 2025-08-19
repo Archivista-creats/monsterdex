@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 爬虫類
+  family: Chamaeleonidae
+  order: Squamata
+  genus: Furcifer
+  species: Furcifer pardalis
+  common_en: Panther chameleon
+  common_ja: パンサーカメレオン
+  scientific: Furcifer pardalis
 tag_slugs:
 - tsuchi
 - kaze
@@ -23,7 +32,7 @@ title: フロラテクス / Floratex
 * **レアリティ**：★★★★☆(4)
 
 ## 元動物
-カメレオン
+パンサーカメレオン
 
 ## 出現地域
 * **主な生息地**：[ルマの陽だまり森](../place/luma_glade.md)

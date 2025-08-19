@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Trochilidae
+  order: Apodiformes
+  genus: Chlorostilbon
+  species: Chlorostilbon mellisugus
+  common_en: Blue-tailed emerald
+  common_ja: アオノハチドリ
+  scientific: Chlorostilbon mellisugus
 tag_slugs:
 - kuukan
 - seireiju
@@ -21,7 +30,7 @@ title: 次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphir
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ハチドリ（極小高速飛行種）
+アオノハチドリ
 
 ## 出現地域
 * **主な生息地**：[カディレア歪界](../place/kadirea_warpzone.md)  

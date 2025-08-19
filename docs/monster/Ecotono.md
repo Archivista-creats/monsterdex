@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Vespertilionidae
+  order: Chiroptera
+  genus: Pipistrellus
+  species: Pipistrellus abramus
+  common_en: Japanese house bat
+  common_ja: ヒナコウモリ
+  scientific: Pipistrellus abramus
 tag_slugs:
 - kaze
 - henseiju
@@ -21,7 +30,7 @@ title: エコトノ / Ecotono
 - レアリティ：★☆☆☆☆
 
 ## 元動物
-コウモリ（ヒナコウモリ種に近い小型個体）
+ヒナコウモリ
 
 ## 生息地
 [バレッタの鳴岩](../place/baretta_echo.md)

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Felidae
+  order: Carnivora
+  genus: Felis
+  species: Felis catus (Scottish Fold)
+  common_en: Scottish Fold
+  common_ja: スコティッシュフォールド
+  scientific: Felis catus (Scottish Fold)
 tag_slugs:
 - mu
 - kaze
@@ -26,8 +35,7 @@ title: フォルセーニャ / Forcenya
 ---
 
 ## 元動物
-
-スコティッシュフォールド（垂れ耳の家猫）
+スコティッシュフォールド
 
 ---
 

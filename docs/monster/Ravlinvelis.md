@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Felidae
+  order: Carnivora
+  genus: Panthera
+  species: Panthera onca
+  common_en: Jaguar
+  common_ja: ジャガー
+  scientific: Panthera onca
 tag_slugs:
 - yami
 - kaminari
@@ -27,7 +36,7 @@ title: ラヴルインヴェリス / Ravlinvelis
 
 ## 元動物
 
-ジャガー（ネコ科）
+ジャガー
 
 ---
 

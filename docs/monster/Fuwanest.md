@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Cricetidae
+  order: Rodentia
+  genus: Phodopus
+  species: Phodopus sungorus
+  common_en: Djungarian hamster
+  common_ja: ジャンガリアンハムスター
+  scientific: Phodopus sungorus
 tag_slugs:
 - kaze
 - henseiju
@@ -22,7 +31,6 @@ title: フワネスト / Fuwanest
 * **レアリティ**：★☆☆☆☆(1)
 
 ## 元動物
-
 ジャンガリアンハムスター
 
 ## 出現地域

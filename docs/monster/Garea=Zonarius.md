@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Elephantidae
+  order: Proboscidea
+  genus: Loxodonta
+  species: Loxodonta africana
+  common_en: African bush elephant
+  common_ja: アフリカゾウ
+  scientific: Loxodonta africana
 tag_slugs:
 - tsuchi
 - kinju
@@ -21,7 +30,7 @@ title: 地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the St
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-ゾウ（古代種、マストドン型）
+アフリカゾウ
 
 ## 出現地域
 * **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  

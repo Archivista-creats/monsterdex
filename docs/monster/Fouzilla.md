@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Phasianidae
+  order: Galliformes
+  genus: Coturnix
+  species: Coturnix coturnix
+  common_en: Common quail
+  common_ja: ヨーロッパウズラ
+  scientific: Coturnix coturnix
 tag_slugs:
 - kaze
 - henseiju
@@ -22,8 +31,7 @@ title: フォウズィラ / Fouzilla
 * **レアリティ**：★★2
 
 ## 元動物
-
-ウズラ（特にヨーロッパウズラ）
+ヨーロッパウズラ
 
 ## 出現地域
 

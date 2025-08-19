@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 爬虫類
+  family: Eublepharidae
+  order: Squamata
+  genus: Eublepharis
+  species: Eublepharis macularius
+  common_en: Leopard gecko
+  common_ja: ヒョウモントカゲモドキ
+  scientific: Eublepharis macularius
 tag_slugs:
 - yami
 - henseiju
@@ -22,8 +31,7 @@ title: ナクティス / Nucthis
 * **レアリティ**：★★★★4
 
 ## 元動物
-
-ヒョウモントカゲモドキ（レオパードゲッコー）
+ヒョウモントカゲモドキ
 
 ## 出現地域
 

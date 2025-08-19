@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 昆虫
+  family: Cicadidae
+  order: Hemiptera
+  genus: Tanna
+  species: Tanna japonensis
+  common_en: Evening cicada
+  common_ja: ヒグラシ
+  scientific: Tanna japonensis
 tag_slugs:
 - tsuchi
 - henseiju
@@ -21,7 +30,7 @@ title: オリツボー / Oritsubo
 - レアリティ：★★☆☆☆
 
 ## 元動物
-ヒグラシ（蝉）
+ヒグラシ
 
 ## 生息地
 [ゼーン丘陵地](../place/zeen_ridge.md)

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Rhinocerotidae
+  order: Perissodactyla
+  genus: Diceros
+  species: Diceros bicornis
+  common_en: Black rhinoceros
+  common_ja: クロサイ
+  scientific: Diceros bicornis
 tag_slugs:
 - tsuchi
 - henseiju
@@ -22,8 +31,7 @@ title: ダストロノ / Dustrhino
 * **レアリティ**：★★☆☆☆(2)
 
 ## 元動物
-
-サイ
+クロサイ
 
 ## 出現地域
 

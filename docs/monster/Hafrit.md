@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 鳥類
+  family: Paridae
+  order: Passeriformes
+  genus: Sittiparus
+  species: Sittiparus varius
+  common_en: Varied tit
+  common_ja: ヤマガラ
+  scientific: Sittiparus varius
 tag_slugs:
 - kaze
 - henseiju
@@ -24,8 +33,7 @@ title: ハフリット / Hafrit
 ---
 
 ## 元動物
-
-ヤマガラ（小型の野鳥）
+ヤマガラ
 
 ---
 

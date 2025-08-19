@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Bovidae
+  order: Artiodactyla
+  genus: Capra
+  species: Capra ibex
+  common_en: Alpine ibex
+  common_ja: アルプスアイベックス（アルプスヤギ）
+  scientific: Capra ibex
 tag_slugs:
 - tsuchi
 - henseiju
@@ -21,7 +30,7 @@ title: グラヴィトール / Gravitore
 * **レアリティ**：★★★3
 
 ## 元動物
-ヤギ（高山種）
+アルプスアイベックス（アルプスヤギ）
 
 ## 出現地域
 * **主な生息地**：[ヴァストル岩窟帯](../place/vastl_crags.md)  

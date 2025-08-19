@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Dipodidae
+  order: Rodentia
+  genus: Jaculus
+  species: Jaculus jaculus
+  common_en: Lesser Egyptian jerboa
+  common_ja: トビネズミ（エジプトトビネズミ）
+  scientific: Jaculus jaculus
 tag_slugs:
 - kaze
 - kuukan
@@ -24,8 +33,7 @@ title: ミスティルクワー / MistilQuar
 * **レアリティ**：★★★☆☆（★3）
 
 ## 元動物
-
-トビネズミ
+トビネズミ（エジプトトビネズミ）
 
 ## 出現地域
 

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Mustelidae
+  order: Carnivora
+  genus: Mellivora
+  species: Mellivora capensis
+  common_en: Honey badger
+  common_ja: ラーテル
+  scientific: Mellivora capensis
 tag_slugs:
 - tsuchi
 - doku
@@ -26,8 +35,7 @@ title: ゲルマグラット / Gelmagratt
 ---
 
 ## 元動物
-
-ラーテル（ミツアナグマ）
+ラーテル
 
 ---
 

@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Canidae
+  order: Carnivora
+  genus: Canis
+  species: Canis lupus familiaris
+  common_en: Samoyed
+  common_ja: サモエド
+  scientific: Canis lupus familiaris
 tag_slugs:
 - hikari
 - koori
@@ -26,8 +35,7 @@ title: サモレーテ / Samorete
 ---
 
 ## 元動物
-
-サモエド（極寒地原産の大型犬）
+サモエド
 
 ---
 

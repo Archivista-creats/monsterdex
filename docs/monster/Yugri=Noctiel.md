@@ -2,6 +2,15 @@
 categories:
 - モンスター
 layout: monster
+origin:
+  class: 哺乳類
+  family: Mustelidae
+  order: Carnivora
+  genus: Martes
+  species: Martes zibellina
+  common_en: Sable
+  common_ja: クロテン
+  scientific: Martes zibellina
 tag_slugs:
 - yami
 - seireiju
@@ -21,7 +30,7 @@ title: 静影を歩む祈獣 ユグリ＝ノクティエル / Yugri=Noctiel the 
 * **レアリティ**：★★★★★(5)
 
 ## 元動物
-クロテン（夜行性の中型哺乳類）
+クロテン
 
 ## 出現地域
 * **主な生息地**：[ミルザル断罪域](../place/mirzar_dark.md)  
