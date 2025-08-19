@@ -2,3 +2,11 @@ title: モンスタリウム
 description: 属性世界のモンスター記録集
 markdown: kramdown
 theme: null
+
+# docs/_config.yml
+# 既存内容はそのまま、末尾などに追加
+defaults:
+  - scope:
+      path: "monster"   # ← ソースが docs/ なので相対で "monster"
+    values:
+      render_with_liquid: false
