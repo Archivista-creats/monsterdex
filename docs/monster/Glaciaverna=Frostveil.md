@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Strigidae
-  order: Strigiformes
-  genus: Bubo
-  species: Bubo scandiacus
   common_en: Snowy owl
   common_ja: シロフクロウ
+  family: Strigidae
+  genus: Bubo
+  order: Strigiformes
   scientific: Bubo scandiacus
+  species: Bubo scandiacus
 tag_slugs:
 - koori
 - seireiju

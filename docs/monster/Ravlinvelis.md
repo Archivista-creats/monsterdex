@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Felidae
-  order: Carnivora
-  genus: Panthera
-  species: Panthera onca
   common_en: Jaguar
   common_ja: ジャガー
+  family: Felidae
+  genus: Panthera
+  order: Carnivora
   scientific: Panthera onca
+  species: Panthera onca
 tag_slugs:
 - yami
 - kaminari

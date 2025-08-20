@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Sciuridae
-  order: Rodentia
-  genus: Petaurista
-  species: Petaurista alborufus
   common_en: Red and white giant flying squirrel
   common_ja: アカギリモモンガ
+  family: Sciuridae
+  genus: Petaurista
+  order: Rodentia
   scientific: Petaurista alborufus
+  species: Petaurista alborufus
 tag_slugs:
 - hikari
 - kaze

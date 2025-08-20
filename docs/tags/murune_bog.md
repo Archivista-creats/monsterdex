@@ -7,5 +7,6 @@ permalink: /tags/murune_bog/
 
 - [呪腐を謡うもの ベルファゴラ＝ロットセイント / Belphagora=Rotsaint the Cursed Choir](/monsterdex/monster/Belphagora=Rotsaint.html)
 - [ドレグワーダ / Dregwarda](/monsterdex/monster/Dregwarda.html)
+- [ゲルマグラット / Gelmagratt](/monsterdex/monster/Gelmagratt.html)
 - [タングロス / Tangloss](/monsterdex/monster/Tangloss.html)
 - [静毒を謡う蓮蛇霊 ヴェナルストラ＝マイアチャント / Venalustra=Mirechant the Serpent of Silent Bloom](/monsterdex/monster/Venalustra=Mirechant.html)

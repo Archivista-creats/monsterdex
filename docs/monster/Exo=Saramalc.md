@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 爬虫類
-  family: Gekkonidae
-  order: Squamata
-  genus: Gekko
-  species: Gekko gecko
   common_en: Tokay gecko
   common_ja: トッケイヤモリ
+  family: Gekkonidae
+  genus: Gekko
+  order: Squamata
   scientific: Gekko gecko
+  species: Gekko gecko
 tag_slugs:
 - hi
 - kuukan

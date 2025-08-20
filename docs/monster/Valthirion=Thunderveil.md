@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 爬虫類
-  family: Iguanidae
-  order: Squamata
-  genus: Iguana
-  species: Iguana iguana
   common_en: Green iguana
   common_ja: アカハライグアナ（グリーンイグアナ）
+  family: Iguanidae
+  genus: Iguana
+  order: Squamata
   scientific: Iguana iguana
+  species: Iguana iguana
 tag_slugs:
 - kaminari
 - seireiju

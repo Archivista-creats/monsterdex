@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 両生類
-  family: Hylidae
-  order: Anura
-  genus: Dryophytes
-  species: Dryophytes japonicus
   common_en: Japanese tree frog
   common_ja: ニホンアマガエル
+  family: Hylidae
+  genus: Dryophytes
+  order: Anura
   scientific: Dryophytes japonicus
+  species: Dryophytes japonicus
 tag_slugs:
 - mizu
 - henseiju

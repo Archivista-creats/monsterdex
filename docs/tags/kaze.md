@@ -13,6 +13,7 @@ permalink: /tags/kaze/
 - [フォルセーニャ / Forcenya](/monsterdex/monster/Forcenya.html)
 - [フォウズィラ / Fouzilla](/monsterdex/monster/Fouzilla.html)
 - [フワネスト / Fuwanest](/monsterdex/monster/Fuwanest.html)
+- [ゲックザール / Geckzaal](/monsterdex/monster/Geckzaal.html)
 - [ハフリット / Hafrit](/monsterdex/monster/Hafrit.html)
 - [ミスティルクワー / MistilQuar](/monsterdex/monster/MistilQuar.html)
 - [モモルン / momorun](/monsterdex/monster/momorun.html)

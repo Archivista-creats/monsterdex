@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Canidae
-  order: Carnivora
-  genus: Canis
-  species: Canis lupus arctos
   common_en: Arctic wolf
   common_ja: シロイヌワシオオカミ（ホッキョクオオカミ）
+  family: Canidae
+  genus: Canis
+  order: Carnivora
   scientific: Canis lupus arctos
+  species: Canis lupus arctos
 tag_slugs:
 - koori
 - toki

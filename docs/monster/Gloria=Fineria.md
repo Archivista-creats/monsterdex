@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 昆虫
-  family: Nymphalidae
-  order: Lepidoptera
-  genus: Morpho
-  species: Morpho menelaus
   common_en: Menelaus blue morpho
   common_ja: モルフォチョウ
+  family: Nymphalidae
+  genus: Morpho
+  order: Lepidoptera
   scientific: Morpho menelaus
+  species: Morpho menelaus
 tag_slugs:
 - hikari
 - kinju

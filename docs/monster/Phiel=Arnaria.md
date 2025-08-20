@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Diomedeidae
-  order: Procellariiformes
-  genus: Phoebastria
-  species: Phoebastria albatrus
   common_en: Short-tailed albatross
   common_ja: アホウドリ
+  family: Diomedeidae
+  genus: Phoebastria
+  order: Procellariiformes
   scientific: Phoebastria albatrus
+  species: Phoebastria albatrus
 tag_slugs:
 - kaze
 - seireiju

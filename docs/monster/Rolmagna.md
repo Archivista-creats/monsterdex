@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Dasypodidae
-  order: Cingulata
-  genus: Dasypus
-  species: Dasypus novemcinctus
   common_en: Nine-banded armadillo
   common_ja: アルマジロ
+  family: Dasypodidae
+  genus: Dasypus
+  order: Cingulata
   scientific: Dasypus novemcinctus
+  species: Dasypus novemcinctus
 tag_slugs:
 - tsuchi
 - henseiju

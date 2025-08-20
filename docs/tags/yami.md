@@ -7,6 +7,7 @@ permalink: /tags/yami/
 
 - [呪腐を謡うもの ベルファゴラ＝ロットセイント / Belphagora=Rotsaint the Cursed Choir](/monsterdex/monster/Belphagora=Rotsaint.html)
 - [ドレグワーダ / Dregwarda](/monsterdex/monster/Dregwarda.html)
+- [ゲックザール / Geckzaal](/monsterdex/monster/Geckzaal.html)
 - [グリムベロウ / Grimbellow](/monsterdex/monster/Grimbellow.html)
 - [ルクノクト / Lucnoct](/monsterdex/monster/Lucnoct.html)
 - [リュミスカ / Lumisca](/monsterdex/monster/Lumisca.html)

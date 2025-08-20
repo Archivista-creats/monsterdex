@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Elephantidae
-  order: Proboscidea
-  genus: Loxodonta
-  species: Loxodonta africana
   common_en: African bush elephant
   common_ja: アフリカゾウ
+  family: Elephantidae
+  genus: Loxodonta
+  order: Proboscidea
   scientific: Loxodonta africana
+  species: Loxodonta africana
 tag_slugs:
 - tsuchi
 - kinju

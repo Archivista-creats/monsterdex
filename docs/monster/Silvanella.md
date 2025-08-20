@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 魚類
-  family: Clupeidae
-  order: Clupeiformes
-  genus: Sardinops
-  species: Sardinops sagax
   common_en: Pacific sardine
   common_ja: マイワシ
+  family: Clupeidae
+  genus: Sardinops
+  order: Clupeiformes
   scientific: Sardinops sagax
+  species: Sardinops sagax
 tag_slugs:
 - mizu
 - hikari

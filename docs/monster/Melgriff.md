@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Ornithorhynchidae
-  order: Monotremata
-  genus: Ornithorhynchus
-  species: Ornithorhynchus anatinus
   common_en: Platypus
   common_ja: カモノハシ
+  family: Ornithorhynchidae
+  genus: Ornithorhynchus
+  order: Monotremata
   scientific: Ornithorhynchus anatinus
+  species: Ornithorhynchus anatinus
 tag_slugs:
 - kuukan
 - mizu

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Aegithalidae
-  order: Passeriformes
-  genus: Aegithalos
-  species: Aegithalos caudatus
   common_en: Long-tailed tit (Hokkaido subspecies)
   common_ja: シマエナガ
+  family: Aegithalidae
+  genus: Aegithalos
+  order: Passeriformes
   scientific: Aegithalos caudatus
+  species: Aegithalos caudatus
 tag_slugs:
 - hikari
 - kaze

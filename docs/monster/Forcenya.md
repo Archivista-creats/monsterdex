@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Felidae
-  order: Carnivora
-  genus: Felis
-  species: Felis catus (Scottish Fold)
   common_en: Scottish Fold
   common_ja: スコティッシュフォールド
+  family: Felidae
+  genus: Felis
+  order: Carnivora
   scientific: Felis catus (Scottish Fold)
+  species: Felis catus (Scottish Fold)
 tag_slugs:
 - mu
 - kaze

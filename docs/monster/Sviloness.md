@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 昆虫
-  family: Membracidae
-  order: Hemiptera
-  genus: Bocydium
-  species: Bocydium globulare
   common_en: Globular-headed treehopper
   common_ja: ツノゼミ
+  family: Membracidae
+  genus: Bocydium
+  order: Hemiptera
   scientific: Bocydium globulare
+  species: Bocydium globulare
 tag_slugs:
 - doku
 - kaze

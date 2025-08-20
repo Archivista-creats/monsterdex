@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Threskiornithidae
-  order: Pelecaniformes
-  genus: Eudocimus
-  species: Eudocimus ruber
   common_en: Scarlet ibis
   common_ja: ショウジョウトキ
+  family: Threskiornithidae
+  genus: Eudocimus
+  order: Pelecaniformes
   scientific: Eudocimus ruber
+  species: Eudocimus ruber
 tag_slugs:
 - hi
 - seireiju

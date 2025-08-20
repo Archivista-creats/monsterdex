@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Mustelidae
-  order: Carnivora
-  genus: Martes
-  species: Martes zibellina
   common_en: Sable
   common_ja: クロテン
+  family: Mustelidae
+  genus: Martes
+  order: Carnivora
   scientific: Martes zibellina
+  species: Martes zibellina
 tag_slugs:
 - yami
 - seireiju

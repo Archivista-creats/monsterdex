@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: その他
-  family: Megascolecidae
-  order: Haplotaxida
-  genus: Metaphire
-  species: Metaphire hilgendorfi
   common_en: Japanese earthworm
   common_ja: ミミズ（シーボルトミミズ）
+  family: Megascolecidae
+  genus: Metaphire
+  order: Haplotaxida
   scientific: Metaphire hilgendorfi
+  species: Metaphire hilgendorfi
 tag_slugs:
 - mu
 - seireiju

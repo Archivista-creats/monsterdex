@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 爬虫類
-  family: Chamaeleonidae
-  order: Squamata
-  genus: Furcifer
-  species: Furcifer pardalis
   common_en: Panther chameleon
   common_ja: パンサーカメレオン
+  family: Chamaeleonidae
+  genus: Furcifer
+  order: Squamata
   scientific: Furcifer pardalis
+  species: Furcifer pardalis
 tag_slugs:
 - tsuchi
 - kaze

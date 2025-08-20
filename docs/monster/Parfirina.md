@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 魚類
-  family: Cyprinidae
-  order: Cypriniformes
-  genus: Carassius
-  species: Carassius auratus
   common_en: Ping-pong pearl goldfish
   common_ja: ピンポンパール
+  family: Cyprinidae
+  genus: Carassius
+  order: Cypriniformes
   scientific: Carassius auratus (Ping-pong pearl variety)
+  species: Carassius auratus
 tag_slugs:
 - mizu
 - hikari

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Spheniscidae
-  order: Sphenisciformes
-  genus: Aptenodytes
-  species: Aptenodytes forsteri
   common_en: Emperor penguin
   common_ja: コウテイペンギン
+  family: Spheniscidae
+  genus: Aptenodytes
+  order: Sphenisciformes
   scientific: Aptenodytes forsteri
+  species: Aptenodytes forsteri
 tag_slugs:
 - mizu
 - koori

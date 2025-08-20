@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 軟体動物
-  family: Nautilidae
-  order: Nautilida
-  genus: Nautilus
-  species: Nautilus pompilius
   common_en: Chambered nautilus
   common_ja: オウムガイ
+  family: Nautilidae
+  genus: Nautilus
+  order: Nautilida
   scientific: Nautilus pompilius
+  species: Nautilus pompilius
 tag_slugs:
 - mu
 - kinju

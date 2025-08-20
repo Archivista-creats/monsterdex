@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 昆虫
-  family: Cicadidae
-  order: Hemiptera
-  genus: Tanna
-  species: Tanna japonensis
   common_en: Evening cicada
   common_ja: ヒグラシ
+  family: Cicadidae
+  genus: Tanna
+  order: Hemiptera
   scientific: Tanna japonensis
+  species: Tanna japonensis
 tag_slugs:
 - tsuchi
 - henseiju

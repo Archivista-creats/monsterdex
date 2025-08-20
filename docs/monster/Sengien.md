@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Cercopithecidae
-  order: Primates
-  genus: Macaca
-  species: Macaca fuscata
   common_en: Japanese macaque
   common_ja: ニホンザル
+  family: Cercopithecidae
+  genus: Macaca
+  order: Primates
   scientific: Macaca fuscata
+  species: Macaca fuscata
 tag_slugs:
 - hi
 - toki

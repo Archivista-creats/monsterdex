@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Phasianidae
-  order: Galliformes
-  genus: Pavo
-  species: Pavo cristatus
   common_en: Indian peafowl
   common_ja: インドクジャク
+  family: Phasianidae
+  genus: Pavo
+  order: Galliformes
   scientific: Pavo cristatus
+  species: Pavo cristatus
 tag_slugs:
 - hikari
 - seireiju

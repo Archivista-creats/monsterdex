@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  order: 偶蹄目
-  family: イッカク科
-  genus: イッカク属
-  species: Monodon monoceros
   common_en: Narwhal
   common_ja: イッカク
+  family: イッカク科
+  genus: イッカク属
+  order: 偶蹄目
   scientific: Monodon monoceros
+  species: Monodon monoceros
 tag_slugs:
 - hi
 - mizu

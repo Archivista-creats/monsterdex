@@ -8,3 +8,4 @@ permalink: /tags/kuel-shadepool/
 - [フォルセーニャ / Forcenya](/monsterdex/monster/Forcenya.html)
 - [ルクノクト / Lucnoct](/monsterdex/monster/Lucnoct.html)
 - [スヴィロネス / Sviloness](/monsterdex/monster/Sviloness.html)
+- [ズォルテカ / Zuorteca](/monsterdex/monster/Zuorteca.html)

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Tenrecidae
-  order: Afrosoricida
-  genus: Tenrec
-  species: Tenrec ecaudatus
   common_en: Common tenrec
   common_ja: テンレック
+  family: Tenrecidae
+  genus: Tenrec
+  order: Afrosoricida
   scientific: Tenrec ecaudatus
+  species: Tenrec ecaudatus
 tag_slugs:
 - hikari
 - toki

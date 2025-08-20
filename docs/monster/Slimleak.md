@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 軟体動物
-  family: Chromodorididae
-  order: Nudibranchia
-  genus: Hypselodoris
-  species: Hypselodoris bullocki
   common_en: Bullock’s hypselodoris
   common_ja: シンデレラウミウシ
+  family: Chromodorididae
+  genus: Hypselodoris
+  order: Nudibranchia
   scientific: Hypselodoris bullocki
+  species: Hypselodoris bullocki
 tag_slugs:
 - mizu
 - henseiju

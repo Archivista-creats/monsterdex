@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Ursidae
-  order: Carnivora
-  genus: Ursus
-  species: Ursus thibetanus
   common_en: Asiatic black bear
   common_ja: ツキノワグマ
+  family: Ursidae
+  genus: Ursus
+  order: Carnivora
   scientific: Ursus thibetanus
+  species: Ursus thibetanus
 tag_slugs:
 - yami
 - henseiju

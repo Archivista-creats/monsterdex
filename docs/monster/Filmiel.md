@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Leporidae
-  order: Lagomorpha
-  genus: Oryctolagus
-  species: Oryctolagus cuniculus (Angora variety)
   common_en: Angora rabbit
   common_ja: アンゴラウサギ
+  family: Leporidae
+  genus: Oryctolagus
+  order: Lagomorpha
   scientific: Oryctolagus cuniculus (Angora)
+  species: Oryctolagus cuniculus (Angora variety)
 tag_slugs:
 - hikari
 - henseiju

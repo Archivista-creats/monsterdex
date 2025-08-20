@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Hystricidae
-  order: Rodentia
-  genus: Hystrix
-  species: Hystrix brachyura
   common_en: Malayan porcupine
   common_ja: ヤマアラシ
+  family: Hystricidae
+  genus: Hystrix
+  order: Rodentia
   scientific: Hystrix brachyura
+  species: Hystrix brachyura
 tag_slugs:
 - mizu
 - yami

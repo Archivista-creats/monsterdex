@@ -1,7 +1,7 @@
 ---
+title: モンスター一覧
 layout: default
 permalink: /monster/
-title: モンスター一覧
 ---
 
 # 🐾 モンスター一覧
@@ -16,6 +16,7 @@ title: モンスター一覧
 - [クラユーク / Cryuque](/monsterdex/monster/Cryuque.html)
 - [ディリクアス / Deliquus](/monsterdex/monster/Deliquus.html)
 - [ドレグワーダ / Dregwarda](/monsterdex/monster/Dregwarda.html)
+- [ドロセイド / Drosade](/monsterdex/monster/Drosade.html)
 - [ダストロノ / Dustrhino](/monsterdex/monster/Dustrhino.html)
 - [エコトノ / Ecotono](/monsterdex/monster/Ecotono.html)
 - [エルクリン / Elcrin](/monsterdex/monster/Elcrin.html)
@@ -32,6 +33,7 @@ title: モンスター一覧
 - [ガッパナマル / Gappanmaru](/monsterdex/monster/Gappanmaru.html)
 - [大地を綴る護甲獣 ガラ＝ロゼオルム / Gara=Roseolum the Lithic Verse](/monsterdex/monster/Gara=Roseolum.html)
 - [地殻を歩むもの ガレア＝ゾナリウス / Garea=Zonarius the Stratolord](/monsterdex/monster/Garea=Zonarius.html)
+- [ゲックザール / Geckzaal](/monsterdex/monster/Geckzaal.html)
 - [ゲルマグラット / Gelmagratt](/monsterdex/monster/Gelmagratt.html)
 - [霜夢を編む雪冠鳥 グラシアヴェルナ＝フロストヴェイル / Glaciaverna=Frostveil the Crowned Woven Frost](/monsterdex/monster/Glaciaverna=Frostveil.html)
 - [グラスネイル / Glassnail](/monsterdex/monster/Glassnail.html)
@@ -39,6 +41,7 @@ title: モンスター一覧
 - [グラヴィトール / Gravitore](/monsterdex/monster/Gravitore.html)
 - [グリムベロウ / Grimbellow](/monsterdex/monster/Grimbellow.html)
 - [ハフリット / Hafrit](/monsterdex/monster/Hafrit.html)
+- [イグレッサル / Igressal](/monsterdex/monster/Igressal.html)
 - [ジリトルメス / JiritLumes](/monsterdex/monster/JiritLumes.html)
 - [永結を凍らすもの カリュゼラ＝クリオフェイン / Kalyzera=Cryofane the Frostbound Oath](/monsterdex/monster/Kalyzera=Cryofane.html)
 - [コウリン / Kourin](/monsterdex/monster/Kourin.html)
@@ -60,6 +63,7 @@ title: モンスター一覧
 - [ラヴルインヴェリス / Ravlinvelis](/monsterdex/monster/Ravlinvelis.html)
 - [ロルマグナ / Rolmagna](/monsterdex/monster/Rolmagna.html)
 - [サモレーテ / Samorete](/monsterdex/monster/Samorete.html)
+- [セイアリナ / Seiarina](/monsterdex/monster/Seiarina.html)
 - [センギエン / Sengien](/monsterdex/monster/Sengien.html)
 - [永久を紡ぐ時甲獣 セノ＝クロノセルク / Seno=Chronocelc the Temporal Sentinel](/monsterdex/monster/Seno=Chronocelc.html)
 - [シュガンバル / Shuganbar](/monsterdex/monster/Shuganbar.html)
@@ -76,9 +80,11 @@ title: モンスター一覧
 - [雷音を翔る空尾竜 ヴァルシリオン＝サンダーヴェイル / Valthirion=Thunderveil the Skyrend Stormtail](/monsterdex/monster/Valthirion=Thunderveil.html)
 - [次元を織る紋翼蜂鳥 ヴェルティ＝サピレア / Velti=Saphirea the Dimensional Loom](/monsterdex/monster/Velti=Saphirea.html)
 - [静毒を謡う蓮蛇霊 ヴェナルストラ＝マイアチャント / Venalustra=Mirechant the Serpent of Silent Bloom](/monsterdex/monster/Venalustra=Mirechant.html)
+- [ヴェノルゥース / Venoluuth](/monsterdex/monster/Venoluuth.html)
 - [ヴォルセリオン / Volcerion](/monsterdex/monster/Volcerion.html)
 - [静影を歩む祈獣 ユグリ＝ノクティエル / Yugri=Noctiel the Veil Sojourner](/monsterdex/monster/Yugri=Noctiel.html)
 - [ユポコ / Yupoko](/monsterdex/monster/Yupoko.html)
 - [天罰を刻むもの ゼグルアス＝アグレス / Zegluas=Aggress the Thunder Verdict](/monsterdex/monster/Zegluas=Aggress.html)
 - [記述を還すもの ゼイロ＝ナウティリス / Zeiro=Nautilus the Null Spiral](/monsterdex/monster/Zeiro=Nautilus.html)
+- [ズォルテカ / Zuorteca](/monsterdex/monster/Zuorteca.html)
 - [モモルン / momorun](/monsterdex/monster/momorun.html)

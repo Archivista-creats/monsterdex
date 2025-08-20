@@ -5,6 +5,7 @@ permalink: /tags/kaminari/
 ---
 # 🏷️ タグ「雷」に関連するモンスター
 
+- [イグレッサル / Igressal](/monsterdex/monster/Igressal.html)
 - [ラヴルインヴェリス / Ravlinvelis](/monsterdex/monster/Ravlinvelis.html)
 - [シュガンバル / Shuganbar](/monsterdex/monster/Shuganbar.html)
 - [雷音を翔る空尾竜 ヴァルシリオン＝サンダーヴェイル / Valthirion=Thunderveil the Skyrend Stormtail](/monsterdex/monster/Valthirion=Thunderveil.html)

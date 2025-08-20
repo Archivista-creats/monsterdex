@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 両生類
-  family: Hylidae
-  order: Anura
-  genus: Boana
-  species: Boana punctata
   common_en: Polka-dot tree frog (or) Dotted tree frog
   common_ja: ヒョウモンアマガエル
+  family: Hylidae
+  genus: Boana
+  order: Anura
   scientific: Boana punctata
+  species: Boana punctata
 tag_slugs:
 - mizu
 - henseiju

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 魚類
-  family: Oxudercidae
-  order: Gobiiformes
-  genus: Periophthalmus
-  species: Periophthalmus modestus
   common_en: Mudskipper
   common_ja: ムツゴロウ
+  family: Oxudercidae
+  genus: Periophthalmus
+  order: Gobiiformes
   scientific: Periophthalmus modestus
+  species: Periophthalmus modestus
 tag_slugs:
 - tsuchi
 - henseiju

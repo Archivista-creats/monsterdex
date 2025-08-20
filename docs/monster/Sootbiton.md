@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Sciuridae
-  order: Rodentia
-  genus: Glaucomys
-  species: Glaucomys volans
   common_en: Southern flying squirrel
   common_ja: モモンガ（ヒメモモンガ）
+  family: Sciuridae
+  genus: Glaucomys
+  order: Rodentia
   scientific: Glaucomys volans
+  species: Glaucomys volans
 tag_slugs:
 - hi
 - henseiju

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 甲殻類
-  family: Cirolanidae
-  order: Isopoda
-  genus: Bathynomus
-  species: Bathynomus giganteus
   common_en: Giant isopod
   common_ja: ダイオウグソクムシ
+  family: Cirolanidae
+  genus: Bathynomus
+  order: Isopoda
   scientific: Bathynomus giganteus
+  species: Bathynomus giganteus
 tag_slugs:
 - koori
 - henseiju

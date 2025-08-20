@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Canidae
-  order: Carnivora
-  genus: Canis
-  species: Canis lupus familiaris (Samoyed)
   common_en: サモエド
   common_ja: サモエド
+  family: Canidae
+  genus: Canis
+  order: Carnivora
   scientific: Canis lupus familiaris (Samoyed)
+  species: Canis lupus familiaris (Samoyed)
 tag_slugs:
 - kaze
 - mizu

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 爬虫類
-  family: Eublepharidae
-  order: Squamata
-  genus: Eublepharis
-  species: Eublepharis macularius
   common_en: Leopard gecko
   common_ja: ヒョウモントカゲモドキ
+  family: Eublepharidae
+  genus: Eublepharis
+  order: Squamata
   scientific: Eublepharis macularius
+  species: Eublepharis macularius
 tag_slugs:
 - hikari
 - yami

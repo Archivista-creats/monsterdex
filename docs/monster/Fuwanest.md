@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Cricetidae
-  order: Rodentia
-  genus: Phodopus
-  species: Phodopus sungorus
   common_en: Djungarian hamster
   common_ja: ジャンガリアンハムスター
+  family: Cricetidae
+  genus: Phodopus
+  order: Rodentia
   scientific: Phodopus sungorus
+  species: Phodopus sungorus
 tag_slugs:
 - kaze
 - henseiju

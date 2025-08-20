@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Balaenopteridae
-  order: Cetacea
-  genus: Balaenoptera
-  species: Balaenoptera musculus
   common_en: Blue whale
   common_ja: シロナガスクジラ
+  family: Balaenopteridae
+  genus: Balaenoptera
+  order: Cetacea
   scientific: Balaenoptera musculus
+  species: Balaenoptera musculus
 tag_slugs:
 - mizu
 - seireiju

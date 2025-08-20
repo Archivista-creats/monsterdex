@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 甲殻類
-  family: Buthidae
-  order: Scorpiones
-  genus: Leiurus
-  species: Leiurus quinquestriatus
   common_en: Deathstalker
   common_ja: デスストーカー
+  family: Buthidae
+  genus: Leiurus
+  order: Scorpiones
   scientific: Leiurus quinquestriatus
+  species: Leiurus quinquestriatus
 tag_slugs:
 - tsuchi
 - hi

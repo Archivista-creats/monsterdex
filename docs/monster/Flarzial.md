@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 両生類
-  family: Bufonidae
-  order: Anura
-  genus: Bufo
-  species: Bufo japonicus
   common_en: Japanese common toad
   common_ja: ヒキガエル（ニホンヒキガエル）
+  family: Bufonidae
+  genus: Bufo
+  order: Anura
   scientific: Bufo japonicus
+  species: Bufo japonicus
 tag_slugs:
 - hi
 - kuukan

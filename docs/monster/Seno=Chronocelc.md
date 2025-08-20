@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 爬虫類
-  family: Testudinidae
-  order: Testudines
-  genus: Aldabrachelys
-  species: Aldabrachelys gigantea
   common_en: Aldabra giant tortoise
   common_ja: アルダブラゾウガメ
+  family: Testudinidae
+  genus: Aldabrachelys
+  order: Testudines
   scientific: Aldabrachelys gigantea
+  species: Aldabrachelys gigantea
 tag_slugs:
 - toki
 - seireiju

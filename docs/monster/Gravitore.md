@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Bovidae
-  order: Artiodactyla
-  genus: Capra
-  species: Capra ibex
   common_en: Alpine ibex
   common_ja: アルプスアイベックス（アルプスヤギ）
+  family: Bovidae
+  genus: Capra
+  order: Artiodactyla
   scientific: Capra ibex
+  species: Capra ibex
 tag_slugs:
 - tsuchi
 - henseiju

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Pteropodidae
-  order: Chiroptera
-  genus: Pteropus
-  species: Pteropus vampyrus
   common_en: Large flying fox
   common_ja: オオコウモリ（ラージフライングフォックス）
+  family: Pteropodidae
+  genus: Pteropus
+  order: Chiroptera
   scientific: Pteropus vampyrus
+  species: Pteropus vampyrus
 tag_slugs:
 - hikari
 - yami

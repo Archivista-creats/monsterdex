@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 軟体動物
-  family: Octopodidae
-  order: Octopoda
-  genus: Enteroctopus
-  species: Enteroctopus dofleini
   common_en: Giant Pacific octopus
   common_ja: ミズダコ
+  family: Octopodidae
+  genus: Enteroctopus
+  order: Octopoda
   scientific: Enteroctopus dofleini
+  species: Enteroctopus dofleini
 tag_slugs:
 - toki
 - mu

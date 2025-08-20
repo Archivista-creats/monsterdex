@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 軟体動物
-  family: Opisthoteuthidae
-  order: Octopoda
-  genus: Opisthoteuthis
-  species: Opisthoteuthis depressa
   common_en: Dumbo octopus
   common_ja: メンダコ
+  family: Opisthoteuthidae
+  genus: Opisthoteuthis
+  order: Octopoda
   scientific: Opisthoteuthis depressa
+  species: Opisthoteuthis depressa
 tag_slugs:
 - mizu
 - henseiju

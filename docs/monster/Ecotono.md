@@ -4,21 +4,21 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Vespertilionidae
-  order: Chiroptera
-  genus: Pipistrellus
-  species: Pipistrellus abramus
   common_en: Japanese house bat
   common_ja: ヒナコウモリ
+  family: Vespertilionidae
+  genus: Pipistrellus
+  order: Chiroptera
   scientific: Pipistrellus abramus
+  species: Pipistrellus abramus
 tag_slugs:
 - kaze
 - henseiju
-- haretutanoming-yan
+- baretta-echo
 tags:
 - 風
 - 変生獣
-- バレッタの鳴岩
+- バレッタの鳴岩谷
 title: エコトノ / Ecotono
 ---
 

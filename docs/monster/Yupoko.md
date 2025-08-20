@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 両生類
-  family: Salamandridae
-  order: Urodela
-  genus: Cynops
-  species: Cynops pyrrhogaster
   common_en: Japanese fire belly newt
   common_ja: アカハライモリ
+  family: Salamandridae
+  genus: Cynops
+  order: Urodela
   scientific: Cynops pyrrhogaster
+  species: Cynops pyrrhogaster
 tag_slugs:
 - hi
 - henseiju

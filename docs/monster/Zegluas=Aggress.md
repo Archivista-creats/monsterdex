@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Hippopotamidae
-  order: Artiodactyla
-  genus: Hippopotamus
-  species: Hippopotamus amphibius
   common_en: Common hippopotamus
   common_ja: カバ
+  family: Hippopotamidae
+  genus: Hippopotamus
+  order: Artiodactyla
   scientific: Hippopotamus amphibius
+  species: Hippopotamus amphibius
 tag_slugs:
 - kaminari
 - kinju

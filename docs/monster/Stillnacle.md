@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 軟体動物
-  family: Strongylocentrotidae
-  order: Echinoida
-  genus: Strongylocentrotus
-  species: Strongylocentrotus nudus
   common_en: Naked sea urchin
   common_ja: バフンウニ
+  family: Strongylocentrotidae
+  genus: Strongylocentrotus
+  order: Echinoida
   scientific: Strongylocentrotus nudus
+  species: Strongylocentrotus nudus
 tag_slugs:
 - mizu
 - henseiju

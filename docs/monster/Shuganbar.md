@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Felidae
-  order: Carnivora
-  genus: Panthera
-  species: Panthera tigris
   common_en: White tiger (Bengal tiger leucistic morph)
   common_ja: ホワイトタイガー
+  family: Felidae
+  genus: Panthera
+  order: Carnivora
   scientific: Panthera tigris tigris (leucistic)
+  species: Panthera tigris
 tag_slugs:
 - kaminari
 - henseiju

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 昆虫
-  family: Formicidae
-  order: Hymenoptera
-  genus: Camponotus
-  species: Camponotus japonicus
   common_en: Japanese carpenter ant
   common_ja: クロオオアリ
+  family: Formicidae
+  genus: Camponotus
+  order: Hymenoptera
   scientific: Camponotus japonicus
+  species: Camponotus japonicus
 tag_slugs:
 - hikari
 - yami

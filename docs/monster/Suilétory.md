@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Ailuridae
-  order: Carnivora
-  genus: Ailurus
-  species: Ailurus fulgens
   common_en: Red panda
   common_ja: レッサーパンダ
+  family: Ailuridae
+  genus: Ailurus
+  order: Carnivora
   scientific: Ailurus fulgens
+  species: Ailurus fulgens
 tag_slugs:
 - mizu
 - henseiju

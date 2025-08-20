@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Paridae
-  order: Passeriformes
-  genus: Sittiparus
-  species: Sittiparus varius
   common_en: Varied tit
   common_ja: ヤマガラ
+  family: Paridae
+  genus: Sittiparus
+  order: Passeriformes
   scientific: Sittiparus varius
+  species: Sittiparus varius
 tag_slugs:
 - kaze
 - henseiju

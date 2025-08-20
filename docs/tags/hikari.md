@@ -14,6 +14,7 @@ permalink: /tags/hikari/
 - [リュミスカ / Lumisca](/monsterdex/monster/Lumisca.html)
 - [パルフィリナ / Parfirina](/monsterdex/monster/Parfirina.html)
 - [サモレーテ / Samorete](/monsterdex/monster/Samorete.html)
+- [セイアリナ / Seiarina](/monsterdex/monster/Seiarina.html)
 - [シュリエリィ / Shurierii](/monsterdex/monster/Shurierii.html)
 - [シルバネラ / Silvanella](/monsterdex/monster/Silvanella.html)
 - [黒日を戴くもの ソル＝ノクティリカ / Sol=Noctilica the Eclipse Sovereign](/monsterdex/monster/Sol=Noctilica.html)

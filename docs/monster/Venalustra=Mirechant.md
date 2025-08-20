@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 爬虫類
-  family: Colubridae
-  order: Squamata
-  genus: Lycodon
-  species: Lycodon semicarinatus
   common_en: Ryukyu odd-tooth snake
   common_ja: アカマタ
+  family: Colubridae
+  genus: Lycodon
+  order: Squamata
   scientific: Lycodon semicarinatus
+  species: Lycodon semicarinatus
 tag_slugs:
 - doku
 - seireiju

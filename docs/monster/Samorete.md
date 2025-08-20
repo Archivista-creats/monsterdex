@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Canidae
-  order: Carnivora
-  genus: Canis
-  species: Canis lupus familiaris
   common_en: Samoyed
   common_ja: サモエド
+  family: Canidae
+  genus: Canis
+  order: Carnivora
   scientific: Canis lupus familiaris
+  species: Canis lupus familiaris
 tag_slugs:
 - hikari
 - koori

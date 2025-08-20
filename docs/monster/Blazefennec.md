@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Canidae
-  order: Carnivora
-  genus: Vulpes
-  species: Vulpes zerda
   common_en: Fennec fox
   common_ja: フェネック
+  family: Canidae
+  genus: Vulpes
+  order: Carnivora
   scientific: Vulpes zerda
+  species: Vulpes zerda
 tag_slugs:
 - hi
 - tsuchi

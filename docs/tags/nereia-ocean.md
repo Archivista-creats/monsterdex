@@ -10,3 +10,4 @@ permalink: /tags/nereia-ocean/
 - [メルグリフ / Melgriff](/monsterdex/monster/Melgriff.html)
 - [灼凍の角帝ネヴァ＝カリュオス / Neva=Caryuos the Bifrost Emperor](/monsterdex/monster/Neva=Caryuos.html)
 - [プニョダコ / Punyodako](/monsterdex/monster/Punyodako.html)
+- [ヴェノルゥース / Venoluuth](/monsterdex/monster/Venoluuth.html)

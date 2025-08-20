@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Sciuridae
-  order: Rodentia
-  genus: Sciurus
-  species: Sciurus vulgaris
   common_en: Eurasian red squirrel
   common_ja: ヨーロッパアカリス
+  family: Sciuridae
+  genus: Sciurus
+  order: Rodentia
   scientific: Sciurus vulgaris
+  species: Sciurus vulgaris
 tag_slugs:
 - kaze
 - henseiju

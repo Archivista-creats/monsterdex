@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 軟体動物
-  family: Ulmaridae
-  order: Semaeostomeae
-  genus: Aurelia
-  species: Aurelia aurita
   common_en: Moon jellyfish
   common_ja: ミズクラゲ
+  family: Ulmaridae
+  genus: Aurelia
+  order: Semaeostomeae
   scientific: Aurelia aurita
+  species: Aurelia aurita
 tag_slugs:
 - mizu
 - toki

@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Phasianidae
-  order: Galliformes
-  genus: Coturnix
-  species: Coturnix coturnix
   common_en: Common quail
   common_ja: ヨーロッパウズラ
+  family: Phasianidae
+  genus: Coturnix
+  order: Galliformes
   scientific: Coturnix coturnix
+  species: Coturnix coturnix
 tag_slugs:
 - kaze
 - henseiju

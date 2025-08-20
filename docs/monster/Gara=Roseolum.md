@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Chlamyphoridae
-  order: Cingulata
-  genus: Priodontes
-  species: Priodontes maximus
   common_en: Giant armadillo
   common_ja: オオアルマジロ
+  family: Chlamyphoridae
+  genus: Priodontes
+  order: Cingulata
   scientific: Priodontes maximus
+  species: Priodontes maximus
 tag_slugs:
 - tsuchi
 - seireiju

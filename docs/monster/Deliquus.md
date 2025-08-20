@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 魚類
-  family: Latimeriidae
-  order: Coelacanthiformes
-  genus: Latimeria
-  species: Latimeria chalumnae
   common_en: Coelacanth
   common_ja: シーラカンス
+  family: Latimeriidae
+  genus: Latimeria
+  order: Coelacanthiformes
   scientific: Latimeria chalumnae
+  species: Latimeria chalumnae
 tag_slugs:
 - kuukan
 - henseiju

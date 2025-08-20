@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Rhinocerotidae
-  order: Perissodactyla
-  genus: Diceros
-  species: Diceros bicornis
   common_en: Black rhinoceros
   common_ja: クロサイ
+  family: Rhinocerotidae
+  genus: Diceros
+  order: Perissodactyla
   scientific: Diceros bicornis
+  species: Diceros bicornis
 tag_slugs:
 - tsuchi
 - henseiju

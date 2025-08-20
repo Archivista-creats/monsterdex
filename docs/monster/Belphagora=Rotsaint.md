@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Casuariidae
-  order: Casuariiformes
-  genus: Casuarius
-  species: Casuarius casuarius
   common_en: Southern cassowary
   common_ja: ヒクイドリ
+  family: Casuariidae
+  genus: Casuarius
+  order: Casuariiformes
   scientific: Casuarius casuarius
+  species: Casuarius casuarius
 tag_slugs:
 - doku
 - yami

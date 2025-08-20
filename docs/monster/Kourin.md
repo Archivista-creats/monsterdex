@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 魚類
-  family: Cyprinidae
-  order: Cypriniformes
-  genus: Cyprinus
-  species: Cyprinus rubrofuscus
   common_en: Koi (platinum ogon)
   common_ja: コイ
+  family: Cyprinidae
+  genus: Cyprinus
+  order: Cypriniformes
   scientific: Cyprinus rubrofuscus (Platinum ogon variety)
+  species: Cyprinus rubrofuscus
 tag_slugs:
 - mizu
 - hikari

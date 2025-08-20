@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Myrmecophagidae
-  order: Pilosa
-  genus: Myrmecophaga
-  species: Myrmecophaga tridactyla
   common_en: Giant anteater
   common_ja: オオアリクイ
+  family: Myrmecophagidae
+  genus: Myrmecophaga
+  order: Pilosa
   scientific: Myrmecophaga tridactyla
+  species: Myrmecophaga tridactyla
 tag_slugs:
 - doku
 - henseiju

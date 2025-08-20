@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 鳥類
-  family: Trochilidae
-  order: Apodiformes
-  genus: Chlorostilbon
-  species: Chlorostilbon mellisugus
   common_en: Blue-tailed emerald
   common_ja: アオノハチドリ
+  family: Trochilidae
+  genus: Chlorostilbon
+  order: Apodiformes
   scientific: Chlorostilbon mellisugus
+  species: Chlorostilbon mellisugus
 tag_slugs:
 - kuukan
 - seireiju

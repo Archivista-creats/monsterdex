@@ -4,13 +4,13 @@ categories:
 layout: monster
 origin:
   class: 哺乳類
-  family: Dipodidae
-  order: Rodentia
-  genus: Jaculus
-  species: Jaculus jaculus
   common_en: Lesser Egyptian jerboa
   common_ja: トビネズミ（エジプトトビネズミ）
+  family: Dipodidae
+  genus: Jaculus
+  order: Rodentia
   scientific: Jaculus jaculus
+  species: Jaculus jaculus
 tag_slugs:
 - kaze
 - kuukan
